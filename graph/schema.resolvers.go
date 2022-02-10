@@ -9,13 +9,18 @@ import (
 
 	"github.com/jaslife1/shippingcost-server/graph/generated"
 	"github.com/jaslife1/shippingcost-server/graph/model"
+	"github.com/jaslife1/shippingcost-server/utils"
 )
 
 func (r *queryResolver) CalculateShippingCost(ctx context.Context, senderAddress model.Address, receiverAddress model.Address) (int, error) {
 	fmt.Println("Sender address: ", senderAddress.Town)
 	fmt.Println("Receiver address: ", receiverAddress.Town)
 
-	return 0, nil
+	weight := 1.0
+
+	val := utils.CalculateJnTShippingCost(senderAddress.Town, receiverAddress.Town, weight)
+
+	return int(val), nil
 }
 
 // Query returns generated.QueryResolver implementation.
