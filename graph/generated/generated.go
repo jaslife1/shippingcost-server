@@ -43,16 +43,12 @@ type DirectiveRoot struct {
 
 type ComplexityRoot struct {
 	Query struct {
-		Test func(childComplexity int) int
-	}
-
-	ShippingAddress struct {
-		Town func(childComplexity int) int
+		CalculateShippingCost func(childComplexity int, senderAddress model.Address, receiverAddress model.Address) int
 	}
 }
 
 type QueryResolver interface {
-	Test(ctx context.Context) (string, error)
+	CalculateShippingCost(ctx context.Context, senderAddress model.Address, receiverAddress model.Address) (int, error)
 }
 
 type executableSchema struct {
@@ -70,19 +66,17 @@ func (e *executableSchema) Complexity(typeName, field string, childComplexity in
 	_ = ec
 	switch typeName + "." + field {
 
-	case "Query.test":
-		if e.complexity.Query.Test == nil {
+	case "Query.calculateShippingCost":
+		if e.complexity.Query.CalculateShippingCost == nil {
 			break
 		}
 
-		return e.complexity.Query.Test(childComplexity), true
-
-	case "ShippingAddress.town":
-		if e.complexity.ShippingAddress.Town == nil {
-			break
+		args, err := ec.field_Query_calculateShippingCost_args(context.TODO(), rawArgs)
+		if err != nil {
+			return 0, false
 		}
 
-		return e.complexity.ShippingAddress.Town(childComplexity), true
+		return e.complexity.Query.CalculateShippingCost(childComplexity, args["senderAddress"].(model.Address), args["receiverAddress"].(model.Address)), true
 
 	}
 	return 0, false
@@ -150,14 +144,16 @@ var sources = []*ast.Source{
 #   name: String!
 # }
 
-type ShippingAddress {
+input Address {
   town: String!
 }
 
 type Query {
   # todos: [Todo!]!
-  test: String!
+  calculateShippingCost(senderAddress: Address!, receiverAddress: Address!) : Int!
 }
+
+
 
 # input NewTodo {
 #   text: String!
@@ -187,6 +183,30 @@ func (ec *executionContext) field_Query___type_args(ctx context.Context, rawArgs
 		}
 	}
 	args["name"] = arg0
+	return args, nil
+}
+
+func (ec *executionContext) field_Query_calculateShippingCost_args(ctx context.Context, rawArgs map[string]interface{}) (map[string]interface{}, error) {
+	var err error
+	args := map[string]interface{}{}
+	var arg0 model.Address
+	if tmp, ok := rawArgs["senderAddress"]; ok {
+		ctx := graphql.WithPathContext(ctx, graphql.NewPathWithField("senderAddress"))
+		arg0, err = ec.unmarshalNAddress2githubᚗcomᚋjaslife1ᚋshippingcostᚑserverᚋgraphᚋmodelᚐAddress(ctx, tmp)
+		if err != nil {
+			return nil, err
+		}
+	}
+	args["senderAddress"] = arg0
+	var arg1 model.Address
+	if tmp, ok := rawArgs["receiverAddress"]; ok {
+		ctx := graphql.WithPathContext(ctx, graphql.NewPathWithField("receiverAddress"))
+		arg1, err = ec.unmarshalNAddress2githubᚗcomᚋjaslife1ᚋshippingcostᚑserverᚋgraphᚋmodelᚐAddress(ctx, tmp)
+		if err != nil {
+			return nil, err
+		}
+	}
+	args["receiverAddress"] = arg1
 	return args, nil
 }
 
@@ -228,7 +248,7 @@ func (ec *executionContext) field___Type_fields_args(ctx context.Context, rawArg
 
 // region    **************************** field.gotpl *****************************
 
-func (ec *executionContext) _Query_test(ctx context.Context, field graphql.CollectedField) (ret graphql.Marshaler) {
+func (ec *executionContext) _Query_calculateShippingCost(ctx context.Context, field graphql.CollectedField) (ret graphql.Marshaler) {
 	defer func() {
 		if r := recover(); r != nil {
 			ec.Error(ctx, ec.Recover(ctx, r))
@@ -244,9 +264,16 @@ func (ec *executionContext) _Query_test(ctx context.Context, field graphql.Colle
 	}
 
 	ctx = graphql.WithFieldContext(ctx, fc)
+	rawArgs := field.ArgumentMap(ec.Variables)
+	args, err := ec.field_Query_calculateShippingCost_args(ctx, rawArgs)
+	if err != nil {
+		ec.Error(ctx, err)
+		return graphql.Null
+	}
+	fc.Args = args
 	resTmp, err := ec.ResolverMiddleware(ctx, func(rctx context.Context) (interface{}, error) {
 		ctx = rctx // use context from middleware stack in children
-		return ec.resolvers.Query().Test(rctx)
+		return ec.resolvers.Query().CalculateShippingCost(rctx, args["senderAddress"].(model.Address), args["receiverAddress"].(model.Address))
 	})
 	if err != nil {
 		ec.Error(ctx, err)
@@ -258,9 +285,9 @@ func (ec *executionContext) _Query_test(ctx context.Context, field graphql.Colle
 		}
 		return graphql.Null
 	}
-	res := resTmp.(string)
+	res := resTmp.(int)
 	fc.Result = res
-	return ec.marshalNString2string(ctx, field.Selections, res)
+	return ec.marshalNInt2int(ctx, field.Selections, res)
 }
 
 func (ec *executionContext) _Query___type(ctx context.Context, field graphql.CollectedField) (ret graphql.Marshaler) {
@@ -332,41 +359,6 @@ func (ec *executionContext) _Query___schema(ctx context.Context, field graphql.C
 	res := resTmp.(*introspection.Schema)
 	fc.Result = res
 	return ec.marshalO__Schema2ᚖgithubᚗcomᚋ99designsᚋgqlgenᚋgraphqlᚋintrospectionᚐSchema(ctx, field.Selections, res)
-}
-
-func (ec *executionContext) _ShippingAddress_town(ctx context.Context, field graphql.CollectedField, obj *model.ShippingAddress) (ret graphql.Marshaler) {
-	defer func() {
-		if r := recover(); r != nil {
-			ec.Error(ctx, ec.Recover(ctx, r))
-			ret = graphql.Null
-		}
-	}()
-	fc := &graphql.FieldContext{
-		Object:     "ShippingAddress",
-		Field:      field,
-		Args:       nil,
-		IsMethod:   false,
-		IsResolver: false,
-	}
-
-	ctx = graphql.WithFieldContext(ctx, fc)
-	resTmp, err := ec.ResolverMiddleware(ctx, func(rctx context.Context) (interface{}, error) {
-		ctx = rctx // use context from middleware stack in children
-		return obj.Town, nil
-	})
-	if err != nil {
-		ec.Error(ctx, err)
-		return graphql.Null
-	}
-	if resTmp == nil {
-		if !graphql.HasFieldError(ctx, fc) {
-			ec.Errorf(ctx, "must not be null")
-		}
-		return graphql.Null
-	}
-	res := resTmp.(string)
-	fc.Result = res
-	return ec.marshalNString2string(ctx, field.Selections, res)
 }
 
 func (ec *executionContext) ___Directive_name(ctx context.Context, field graphql.CollectedField, obj *introspection.Directive) (ret graphql.Marshaler) {
@@ -1491,6 +1483,29 @@ func (ec *executionContext) ___Type_ofType(ctx context.Context, field graphql.Co
 
 // region    **************************** input.gotpl *****************************
 
+func (ec *executionContext) unmarshalInputAddress(ctx context.Context, obj interface{}) (model.Address, error) {
+	var it model.Address
+	asMap := map[string]interface{}{}
+	for k, v := range obj.(map[string]interface{}) {
+		asMap[k] = v
+	}
+
+	for k, v := range asMap {
+		switch k {
+		case "town":
+			var err error
+
+			ctx := graphql.WithPathContext(ctx, graphql.NewPathWithField("town"))
+			it.Town, err = ec.unmarshalNString2string(ctx, v)
+			if err != nil {
+				return it, err
+			}
+		}
+	}
+
+	return it, nil
+}
+
 // endregion **************************** input.gotpl *****************************
 
 // region    ************************** interface.gotpl ***************************
@@ -1518,7 +1533,7 @@ func (ec *executionContext) _Query(ctx context.Context, sel ast.SelectionSet) gr
 		switch field.Name {
 		case "__typename":
 			out.Values[i] = graphql.MarshalString("Query")
-		case "test":
+		case "calculateShippingCost":
 			field := field
 
 			innerFunc := func(ctx context.Context) (res graphql.Marshaler) {
@@ -1527,7 +1542,7 @@ func (ec *executionContext) _Query(ctx context.Context, sel ast.SelectionSet) gr
 						ec.Error(ctx, ec.Recover(ctx, r))
 					}
 				}()
-				res = ec._Query_test(ctx, field)
+				res = ec._Query_calculateShippingCost(ctx, field)
 				if res == graphql.Null {
 					atomic.AddUint32(&invalids, 1)
 				}
@@ -1555,37 +1570,6 @@ func (ec *executionContext) _Query(ctx context.Context, sel ast.SelectionSet) gr
 
 			out.Values[i] = ec.OperationContext.RootResolverMiddleware(innerCtx, innerFunc)
 
-		default:
-			panic("unknown field " + strconv.Quote(field.Name))
-		}
-	}
-	out.Dispatch()
-	if invalids > 0 {
-		return graphql.Null
-	}
-	return out
-}
-
-var shippingAddressImplementors = []string{"ShippingAddress"}
-
-func (ec *executionContext) _ShippingAddress(ctx context.Context, sel ast.SelectionSet, obj *model.ShippingAddress) graphql.Marshaler {
-	fields := graphql.CollectFields(ec.OperationContext, sel, shippingAddressImplementors)
-	out := graphql.NewFieldSet(fields)
-	var invalids uint32
-	for i, field := range fields {
-		switch field.Name {
-		case "__typename":
-			out.Values[i] = graphql.MarshalString("ShippingAddress")
-		case "town":
-			innerFunc := func(ctx context.Context) (res graphql.Marshaler) {
-				return ec._ShippingAddress_town(ctx, field, obj)
-			}
-
-			out.Values[i] = innerFunc(ctx)
-
-			if out.Values[i] == graphql.Null {
-				invalids++
-			}
 		default:
 			panic("unknown field " + strconv.Quote(field.Name))
 		}
@@ -2006,6 +1990,11 @@ func (ec *executionContext) ___Type(ctx context.Context, sel ast.SelectionSet, o
 
 // region    ***************************** type.gotpl *****************************
 
+func (ec *executionContext) unmarshalNAddress2githubᚗcomᚋjaslife1ᚋshippingcostᚑserverᚋgraphᚋmodelᚐAddress(ctx context.Context, v interface{}) (model.Address, error) {
+	res, err := ec.unmarshalInputAddress(ctx, v)
+	return res, graphql.ErrorOnPath(ctx, err)
+}
+
 func (ec *executionContext) unmarshalNBoolean2bool(ctx context.Context, v interface{}) (bool, error) {
 	res, err := graphql.UnmarshalBoolean(v)
 	return res, graphql.ErrorOnPath(ctx, err)
@@ -2013,6 +2002,21 @@ func (ec *executionContext) unmarshalNBoolean2bool(ctx context.Context, v interf
 
 func (ec *executionContext) marshalNBoolean2bool(ctx context.Context, sel ast.SelectionSet, v bool) graphql.Marshaler {
 	res := graphql.MarshalBoolean(v)
+	if res == graphql.Null {
+		if !graphql.HasFieldError(ctx, graphql.GetFieldContext(ctx)) {
+			ec.Errorf(ctx, "must not be null")
+		}
+	}
+	return res
+}
+
+func (ec *executionContext) unmarshalNInt2int(ctx context.Context, v interface{}) (int, error) {
+	res, err := graphql.UnmarshalInt(v)
+	return res, graphql.ErrorOnPath(ctx, err)
+}
+
+func (ec *executionContext) marshalNInt2int(ctx context.Context, sel ast.SelectionSet, v int) graphql.Marshaler {
+	res := graphql.MarshalInt(v)
 	if res == graphql.Null {
 		if !graphql.HasFieldError(ctx, graphql.GetFieldContext(ctx)) {
 			ec.Errorf(ctx, "must not be null")

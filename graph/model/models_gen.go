@@ -2,6 +2,6 @@
 
 package model
 
-type ShippingAddress struct {
+type Address struct {
 	Town string `json:"town"`
 }

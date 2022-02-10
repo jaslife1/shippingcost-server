@@ -8,12 +8,14 @@ import (
 	"fmt"
 
 	"github.com/jaslife1/shippingcost-server/graph/generated"
+	"github.com/jaslife1/shippingcost-server/graph/model"
 )
 
-func (r *queryResolver) Test(ctx context.Context) (string, error) {
-	fmt.Println("Test is called")
-	t := "Hello World from the other side"
-	return t, nil
+func (r *queryResolver) CalculateShippingCost(ctx context.Context, senderAddress model.Address, receiverAddress model.Address) (int, error) {
+	fmt.Println("Sender address: ", senderAddress.Town)
+	fmt.Println("Receiver address: ", receiverAddress.Town)
+
+	return 0, nil
 }
 
 // Query returns generated.QueryResolver implementation.
@@ -27,4 +29,10 @@ type queryResolver struct{ *Resolver }
 //  - When renaming or deleting a resolver the old code will be put in here. You can safely delete
 //    it when you're done.
 //  - You have helper methods in this file. Move them out to keep these resolver files clean.
+func (r *queryResolver) Test(ctx context.Context) (string, error) {
+	fmt.Println("Test is called")
+	t := "Hello World from the other side"
+	return t, nil
+}
+
 type mutationResolver struct{ *Resolver }

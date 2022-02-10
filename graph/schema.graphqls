@@ -14,14 +14,16 @@
 #   name: String!
 # }
 
-type ShippingAddress {
+input Address {
   town: String!
 }
 
 type Query {
   # todos: [Todo!]!
-  test: String!
+  calculateShippingCost(senderAddress: Address!, receiverAddress: Address!) : Int!
 }
+
+
 
 # input NewTodo {
 #   text: String!
