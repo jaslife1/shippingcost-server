@@ -11,7 +11,9 @@ import (
 )
 
 func (r *queryResolver) Test(ctx context.Context) (string, error) {
-	panic(fmt.Errorf("not implemented"))
+	fmt.Println("Test is called")
+	t := "Hello World from the other side"
+	return t, nil
 }
 
 // Query returns generated.QueryResolver implementation.
