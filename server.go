@@ -7,7 +7,6 @@ import (
 
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/handler/transport"
-	"github.com/99designs/gqlgen/graphql/playground"
 	"github.com/jaslife1/shippingcost-server/graph"
 	"github.com/jaslife1/shippingcost-server/graph/generated"
 	"github.com/go-chi/chi"
@@ -48,7 +47,8 @@ func main() {
         },
     })
 
-    router.Handle("/", playground.Handler("GraphQL playground", "/query"))
+    //router.Handle("/", playground.Handler("GraphQL playground", "/query"))
+	router.Handle("/", srv)
     router.Handle("/query", srv)
 
 	log.Printf("connect to http://localhost:%s/ for GraphQL playground", port)
