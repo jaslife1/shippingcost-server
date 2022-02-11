@@ -26,14 +26,15 @@ func main() {
 
     // Add CORS middleware around every request
     // See https://github.com/rs/cors for full option listing
-    router.Use(cors.New(cors.Options{
-        AllowedOrigins:   []string{"http://localhost:3000", "http://localhost:8080"},
-        AllowOriginFunc:  func(origin string) bool { return true },
-        AllowedMethods:   []string{},
-        AllowedHeaders:   []string{},
-        AllowCredentials: true,
-        Debug:            true,
-    }).Handler)
+    // router.Use(cors.New(cors.Options{
+    //     AllowedOrigins:   []string{"http://localhost:3000", "http://localhost:8080"},
+    //     AllowOriginFunc:  func(origin string) bool { return true },
+    //     AllowedMethods:   []string{},
+    //     AllowedHeaders:   []string{},
+    //     AllowCredentials: true,
+    //     Debug:            true,
+    // }).Handler)
+	router.Use(cors.Default().Handler)
 
     srv := handler.NewDefaultServer(generated.NewExecutableSchema(generated.Config{Resolvers: &graph.Resolver{}}))
     srv.AddTransport(&transport.Websocket{
