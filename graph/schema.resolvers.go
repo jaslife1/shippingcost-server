@@ -12,20 +12,21 @@ import (
 	"github.com/jaslife1/shippingcost-server/utils"
 )
 
-func (r *queryResolver) Towns(ctx context.Context) ([]*string, error) {
-	
-	var ret = utils.GetAllTowns()
-	fmt.Printf("Getting all towns: %+v\n", ret)
-	return ret, nil
+func (r *queryResolver) AllProvinces(ctx context.Context) ([]*string, error) {
+	return utils.GetAllProvinces()
+}
+
+func (r *queryResolver) AllCitiesOfProvince(ctx context.Context, province *string) ([]*string, error) {
+	panic(fmt.Errorf("not implemented"))
 }
 
 func (r *queryResolver) CalculateShippingCost(ctx context.Context, senderAddress model.Address, receiverAddress model.Address) (int, error) {
-	fmt.Println("Sender address: ", senderAddress.Town)
-	fmt.Println("Receiver address: ", receiverAddress.Town)
+	fmt.Println("Sender address: ", senderAddress.City)
+	fmt.Println("Receiver address: ", receiverAddress.City)
 
 	weight := 1.0
 
-	val := utils.CalculateJnTShippingCost(senderAddress.Town, receiverAddress.Town, weight)
+	val := utils.CalculateJnTShippingCost(*senderAddress.City, *receiverAddress.City, weight)
 
 	return int(val), nil
 }
@@ -41,6 +42,12 @@ type queryResolver struct{ *Resolver }
 //  - When renaming or deleting a resolver the old code will be put in here. You can safely delete
 //    it when you're done.
 //  - You have helper methods in this file. Move them out to keep these resolver files clean.
+func (r *queryResolver) Towns(ctx context.Context) ([]*string, error) {
+
+	var ret = utils.GetAllTowns()
+	fmt.Printf("Getting all towns: %+v\n", ret)
+	return ret, nil
+}
 func (r *queryResolver) Test(ctx context.Context) (string, error) {
 	fmt.Println("Test is called")
 	t := "Hello World from the other side"

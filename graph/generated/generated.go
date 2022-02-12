@@ -43,13 +43,15 @@ type DirectiveRoot struct {
 
 type ComplexityRoot struct {
 	Query struct {
+		AllCitiesOfProvince   func(childComplexity int, province *string) int
+		AllProvinces          func(childComplexity int) int
 		CalculateShippingCost func(childComplexity int, senderAddress model.Address, receiverAddress model.Address) int
-		Towns                 func(childComplexity int) int
 	}
 }
 
 type QueryResolver interface {
-	Towns(ctx context.Context) ([]*string, error)
+	AllProvinces(ctx context.Context) ([]*string, error)
+	AllCitiesOfProvince(ctx context.Context, province *string) ([]*string, error)
 	CalculateShippingCost(ctx context.Context, senderAddress model.Address, receiverAddress model.Address) (int, error)
 }
 
@@ -68,6 +70,25 @@ func (e *executableSchema) Complexity(typeName, field string, childComplexity in
 	_ = ec
 	switch typeName + "." + field {
 
+	case "Query.allCitiesOfProvince":
+		if e.complexity.Query.AllCitiesOfProvince == nil {
+			break
+		}
+
+		args, err := ec.field_Query_allCitiesOfProvince_args(context.TODO(), rawArgs)
+		if err != nil {
+			return 0, false
+		}
+
+		return e.complexity.Query.AllCitiesOfProvince(childComplexity, args["province"].(*string)), true
+
+	case "Query.allProvinces":
+		if e.complexity.Query.AllProvinces == nil {
+			break
+		}
+
+		return e.complexity.Query.AllProvinces(childComplexity), true
+
 	case "Query.calculateShippingCost":
 		if e.complexity.Query.CalculateShippingCost == nil {
 			break
@@ -79,13 +100,6 @@ func (e *executableSchema) Complexity(typeName, field string, childComplexity in
 		}
 
 		return e.complexity.Query.CalculateShippingCost(childComplexity, args["senderAddress"].(model.Address), args["receiverAddress"].(model.Address)), true
-
-	case "Query.towns":
-		if e.complexity.Query.Towns == nil {
-			break
-		}
-
-		return e.complexity.Query.Towns(childComplexity), true
 
 	}
 	return 0, false
@@ -154,11 +168,15 @@ var sources = []*ast.Source{
 # }
 
 input Address {
-  town: String!
+  street: String
+  city: String
+  province: String
+  zipcode: Int
 }
 
 type Query {
-  towns: [String]!
+  allProvinces: [String]!
+  allCitiesOfProvince(province:String):[String]!
   calculateShippingCost(senderAddress: Address!, receiverAddress: Address!) : Int!
 }
 
@@ -192,6 +210,21 @@ func (ec *executionContext) field_Query___type_args(ctx context.Context, rawArgs
 		}
 	}
 	args["name"] = arg0
+	return args, nil
+}
+
+func (ec *executionContext) field_Query_allCitiesOfProvince_args(ctx context.Context, rawArgs map[string]interface{}) (map[string]interface{}, error) {
+	var err error
+	args := map[string]interface{}{}
+	var arg0 *string
+	if tmp, ok := rawArgs["province"]; ok {
+		ctx := graphql.WithPathContext(ctx, graphql.NewPathWithField("province"))
+		arg0, err = ec.unmarshalOString2ᚖstring(ctx, tmp)
+		if err != nil {
+			return nil, err
+		}
+	}
+	args["province"] = arg0
 	return args, nil
 }
 
@@ -257,7 +290,7 @@ func (ec *executionContext) field___Type_fields_args(ctx context.Context, rawArg
 
 // region    **************************** field.gotpl *****************************
 
-func (ec *executionContext) _Query_towns(ctx context.Context, field graphql.CollectedField) (ret graphql.Marshaler) {
+func (ec *executionContext) _Query_allProvinces(ctx context.Context, field graphql.CollectedField) (ret graphql.Marshaler) {
 	defer func() {
 		if r := recover(); r != nil {
 			ec.Error(ctx, ec.Recover(ctx, r))
@@ -275,7 +308,49 @@ func (ec *executionContext) _Query_towns(ctx context.Context, field graphql.Coll
 	ctx = graphql.WithFieldContext(ctx, fc)
 	resTmp, err := ec.ResolverMiddleware(ctx, func(rctx context.Context) (interface{}, error) {
 		ctx = rctx // use context from middleware stack in children
-		return ec.resolvers.Query().Towns(rctx)
+		return ec.resolvers.Query().AllProvinces(rctx)
+	})
+	if err != nil {
+		ec.Error(ctx, err)
+		return graphql.Null
+	}
+	if resTmp == nil {
+		if !graphql.HasFieldError(ctx, fc) {
+			ec.Errorf(ctx, "must not be null")
+		}
+		return graphql.Null
+	}
+	res := resTmp.([]*string)
+	fc.Result = res
+	return ec.marshalNString2ᚕᚖstring(ctx, field.Selections, res)
+}
+
+func (ec *executionContext) _Query_allCitiesOfProvince(ctx context.Context, field graphql.CollectedField) (ret graphql.Marshaler) {
+	defer func() {
+		if r := recover(); r != nil {
+			ec.Error(ctx, ec.Recover(ctx, r))
+			ret = graphql.Null
+		}
+	}()
+	fc := &graphql.FieldContext{
+		Object:     "Query",
+		Field:      field,
+		Args:       nil,
+		IsMethod:   true,
+		IsResolver: true,
+	}
+
+	ctx = graphql.WithFieldContext(ctx, fc)
+	rawArgs := field.ArgumentMap(ec.Variables)
+	args, err := ec.field_Query_allCitiesOfProvince_args(ctx, rawArgs)
+	if err != nil {
+		ec.Error(ctx, err)
+		return graphql.Null
+	}
+	fc.Args = args
+	resTmp, err := ec.ResolverMiddleware(ctx, func(rctx context.Context) (interface{}, error) {
+		ctx = rctx // use context from middleware stack in children
+		return ec.resolvers.Query().AllCitiesOfProvince(rctx, args["province"].(*string))
 	})
 	if err != nil {
 		ec.Error(ctx, err)
@@ -1536,11 +1611,35 @@ func (ec *executionContext) unmarshalInputAddress(ctx context.Context, obj inter
 
 	for k, v := range asMap {
 		switch k {
-		case "town":
+		case "street":
 			var err error
 
-			ctx := graphql.WithPathContext(ctx, graphql.NewPathWithField("town"))
-			it.Town, err = ec.unmarshalNString2string(ctx, v)
+			ctx := graphql.WithPathContext(ctx, graphql.NewPathWithField("street"))
+			it.Street, err = ec.unmarshalOString2ᚖstring(ctx, v)
+			if err != nil {
+				return it, err
+			}
+		case "city":
+			var err error
+
+			ctx := graphql.WithPathContext(ctx, graphql.NewPathWithField("city"))
+			it.City, err = ec.unmarshalOString2ᚖstring(ctx, v)
+			if err != nil {
+				return it, err
+			}
+		case "province":
+			var err error
+
+			ctx := graphql.WithPathContext(ctx, graphql.NewPathWithField("province"))
+			it.Province, err = ec.unmarshalOString2ᚖstring(ctx, v)
+			if err != nil {
+				return it, err
+			}
+		case "zipcode":
+			var err error
+
+			ctx := graphql.WithPathContext(ctx, graphql.NewPathWithField("zipcode"))
+			it.Zipcode, err = ec.unmarshalOInt2ᚖint(ctx, v)
 			if err != nil {
 				return it, err
 			}
@@ -1577,7 +1676,7 @@ func (ec *executionContext) _Query(ctx context.Context, sel ast.SelectionSet) gr
 		switch field.Name {
 		case "__typename":
 			out.Values[i] = graphql.MarshalString("Query")
-		case "towns":
+		case "allProvinces":
 			field := field
 
 			innerFunc := func(ctx context.Context) (res graphql.Marshaler) {
@@ -1586,7 +1685,30 @@ func (ec *executionContext) _Query(ctx context.Context, sel ast.SelectionSet) gr
 						ec.Error(ctx, ec.Recover(ctx, r))
 					}
 				}()
-				res = ec._Query_towns(ctx, field)
+				res = ec._Query_allProvinces(ctx, field)
+				if res == graphql.Null {
+					atomic.AddUint32(&invalids, 1)
+				}
+				return res
+			}
+
+			rrm := func(ctx context.Context) graphql.Marshaler {
+				return ec.OperationContext.RootResolverMiddleware(ctx, innerFunc)
+			}
+
+			out.Concurrently(i, func() graphql.Marshaler {
+				return rrm(innerCtx)
+			})
+		case "allCitiesOfProvince":
+			field := field
+
+			innerFunc := func(ctx context.Context) (res graphql.Marshaler) {
+				defer func() {
+					if r := recover(); r != nil {
+						ec.Error(ctx, ec.Recover(ctx, r))
+					}
+				}()
+				res = ec._Query_allCitiesOfProvince(ctx, field)
 				if res == graphql.Null {
 					atomic.AddUint32(&invalids, 1)
 				}
@@ -2409,6 +2531,22 @@ func (ec *executionContext) marshalOBoolean2ᚖbool(ctx context.Context, sel ast
 		return graphql.Null
 	}
 	res := graphql.MarshalBoolean(*v)
+	return res
+}
+
+func (ec *executionContext) unmarshalOInt2ᚖint(ctx context.Context, v interface{}) (*int, error) {
+	if v == nil {
+		return nil, nil
+	}
+	res, err := graphql.UnmarshalInt(v)
+	return &res, graphql.ErrorOnPath(ctx, err)
+}
+
+func (ec *executionContext) marshalOInt2ᚖint(ctx context.Context, sel ast.SelectionSet, v *int) graphql.Marshaler {
+	if v == nil {
+		return graphql.Null
+	}
+	res := graphql.MarshalInt(*v)
 	return res
 }
 

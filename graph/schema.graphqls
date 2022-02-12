@@ -15,11 +15,15 @@
 # }
 
 input Address {
-  town: String!
+  street: String
+  city: String
+  province: String
+  zipcode: Int
 }
 
 type Query {
-  towns: [String]!
+  allProvinces: [String]!
+  allCitiesOfProvince(province:String):[String]!
   calculateShippingCost(senderAddress: Address!, receiverAddress: Address!) : Int!
 }
 

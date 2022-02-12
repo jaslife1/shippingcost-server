@@ -7,6 +7,9 @@ import (
 	"net/url"
 	"strconv"
 	"strings"
+	"io/ioutil"
+	"os"
+	"sort"
 
 	"github.com/jaslife1/shippingcost-server/model"
 )
@@ -75,7 +78,43 @@ func CalculateJnTShippingCost(sender string, receiver string, weight float64) fl
 	return ret
 }
 
+func GetAllProvinces() ([]*string, error) {
 
+	//TODO: Query all of this from the database
+
+	// Read the JSON file
+	var filename = "files/provinces/ALL.json"
+	var retVal []*string;
+
+	file, err := os.Open(filename)
+	if err != nil {
+		fmt.Println("GetALlProvinces: Failed to open file. Error: ", err)
+		return retVal, err
+	}
+	defer file.Close()
+
+	byteValue, err := ioutil.ReadAll(file)
+	if err != nil {
+		fmt.Println("GetALlProvinces: Reading file. Error: ", err)
+		return retVal, err
+	}
+
+	var data []string
+	json.Unmarshal([]byte(byteValue),&data)
+	sort.Strings(data)
+
+	for i:=0; i < len(data); i++ {
+		retVal = append(retVal, &data[i])
+	}
+
+	fmt.Println(retVal)
+
+	return retVal, nil
+
+}
+
+
+//TO BE REMOVED
 func GetAllTowns() []*string {
 	towns := make([]*string, 0) //initially with 0 length
 	temp1 := new(string)

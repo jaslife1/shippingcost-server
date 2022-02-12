@@ -3,5 +3,8 @@
 package model
 
 type Address struct {
-	Town string `json:"town"`
+	Street   *string `json:"street"`
+	City     *string `json:"city"`
+	Province *string `json:"province"`
+	Zipcode  *int    `json:"zipcode"`
 }
