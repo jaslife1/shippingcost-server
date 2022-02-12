@@ -1,0 +1,2179 @@
+[
+    {
+        "Province": "ABRA",
+        "City": "TAYUM",
+        "CountyArea": "PIAS",
+        "DestinationCode": "7315",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-LA-PAZ",
+        "CountyArea": "PIDIPID",
+        "DestinationCode": "7140",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "PATAD",
+        "DestinationCode": "7257",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PENARRUBIA",
+        "CountyArea": "PATIAO",
+        "DestinationCode": "7225",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "PATOC",
+        "DestinationCode": "7096",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "PATTAOIG",
+        "DestinationCode": "7293",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "PAWA",
+        "DestinationCode": "7162",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGAYAN",
+        "CountyArea": "PANG-OT",
+        "DestinationCode": "7170",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "PANGTUD",
+        "DestinationCode": "7238",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-ISIDRO",
+        "CountyArea": "PANTOC",
+        "DestinationCode": "7277",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-QUINTIN",
+        "CountyArea": "PANTOC",
+        "DestinationCode": "7303",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TUBO",
+        "CountyArea": "ALANGTIN",
+        "DestinationCode": "7328",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "DAGUIOMAN",
+        "CountyArea": "ABLEG",
+        "DestinationCode": "7107",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "ABUALAN",
+        "DestinationCode": "7282",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MALIBCONG",
+        "CountyArea": "PACGUED",
+        "DestinationCode": "7207",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MANABO",
+        "CountyArea": "CATACDEGAN NUEVO",
+        "DestinationCode": "7211",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "CARDONA",
+        "DestinationCode": "7121",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-LA-PAZ",
+        "CountyArea": "CANAN (GAPAN)",
+        "DestinationCode": "7136",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "PAGALA",
+        "DestinationCode": "7093",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "PAGANAO",
+        "DestinationCode": "7161",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "PAMUTIC",
+        "DestinationCode": "7237",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "PAKILING",
+        "DestinationCode": "7094",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-QUINTIN",
+        "CountyArea": "PALANG",
+        "DestinationCode": "7302",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "PALAO",
+        "DestinationCode": "7059",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "PALAQUIO",
+        "DestinationCode": "7095",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "OCUP",
+        "DestinationCode": "7255",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "PACAC",
+        "DestinationCode": "7128",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "DANGLAS",
+        "CountyArea": "PADANGITAN",
+        "DestinationCode": "7116",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "7129",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "7258",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TAYUM",
+        "CountyArea": "PATUCANNAY",
+        "DestinationCode": "7314",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "DANGLAS",
+        "CountyArea": "PANGAL",
+        "DestinationCode": "7117",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TINEG",
+        "CountyArea": "AGSIMAO POBLACION",
+        "DestinationCode": "7318",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "ALINAYA",
+        "DestinationCode": "7230",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "7163",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGAYAN",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "7171",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LANGIDEN",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "7177",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LICUAN-(BAAY)",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "7187",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PENARRUBIA",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "7226",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-ISIDRO",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "7278",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-QUINTIN",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "7304",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "VILLAVICIOSA",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "7343",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "TAGAYTAY",
+        "DestinationCode": "7300",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PENARRUBIA",
+        "CountyArea": "SANTA ROSA",
+        "DestinationCode": "7228",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "TAGODTOD",
+        "DestinationCode": "7166",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "VILLAVICIOSA",
+        "CountyArea": "TAMAC",
+        "DestinationCode": "7344",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "TALOGTOG",
+        "DestinationCode": "7131",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "SOUTH BALIOAG",
+        "DestinationCode": "7261",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MANABO",
+        "CountyArea": "SANTO TOMAS",
+        "DestinationCode": "7220",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LICUAN-(BAAY)",
+        "CountyArea": "SUBAGAN",
+        "DestinationCode": "7188",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "SALLAPADAN",
+        "CountyArea": "SUBUSOB",
+        "DestinationCode": "7271",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "SAO-ATAN",
+        "DestinationCode": "7064",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "SULBEC",
+        "DestinationCode": "7242",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "SUPI-IL",
+        "DestinationCode": "7299",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "SUYO (MALIDONG)",
+        "DestinationCode": "7243",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TUBO",
+        "CountyArea": "TABACDA",
+        "DestinationCode": "7334",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "TABIOG",
+        "DestinationCode": "7102",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "SIBLONG",
+        "DestinationCode": "7100",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MANABO",
+        "CountyArea": "SAN RAMON WEST",
+        "DestinationCode": "7219",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "BANGBANGAR",
+        "DestinationCode": "7046",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "BANGBANGCAG",
+        "DestinationCode": "7083",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "BANGCAGAN",
+        "DestinationCode": "7084",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "BANGLOLAO",
+        "DestinationCode": "7085",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MANABO",
+        "CountyArea": "AYYENG",
+        "DestinationCode": "7210",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LANGIDEN",
+        "CountyArea": "BAAC",
+        "DestinationCode": "7173",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LACUB",
+        "CountyArea": "BACAG",
+        "DestinationCode": "7145",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BOLINEY",
+        "CountyArea": "BAO-YAN",
+        "DestinationCode": "7075",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LUBA",
+        "CountyArea": "AMPALIOC",
+        "DestinationCode": "7190",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BOLINEY",
+        "CountyArea": "AMTI",
+        "DestinationCode": "7074",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TINEG",
+        "CountyArea": "ANAYAN",
+        "DestinationCode": "7320",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGAYAN",
+        "CountyArea": "BA-I",
+        "DestinationCode": "7168",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TINEG",
+        "CountyArea": "APAO",
+        "DestinationCode": "7321",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "VILLAVICIOSA",
+        "CountyArea": "AP-APAYA",
+        "DestinationCode": "7338",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "ARAB",
+        "DestinationCode": "7231",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "BALAIS",
+        "DestinationCode": "7153",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MALIBCONG",
+        "CountyArea": "BUANAO",
+        "DestinationCode": "7200",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TAYUM",
+        "CountyArea": "BUDAC",
+        "DestinationCode": "7309",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "CABAROAN",
+        "DestinationCode": "7119",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TAYUM",
+        "CountyArea": "CABAROAN",
+        "DestinationCode": "7311",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "DANGLAS",
+        "CountyArea": "CABARUAN",
+        "DestinationCode": "7112",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-ISIDRO",
+        "CountyArea": "CABAYOGAN",
+        "DestinationCode": "7273",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "CABCABORAO",
+        "DestinationCode": "7285",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "BUGBOG",
+        "DestinationCode": "7086",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "CALUMBAYA",
+        "DestinationCode": "7120",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "CABULOAN",
+        "DestinationCode": "7047",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-LA-PAZ",
+        "CountyArea": "BULI",
+        "DestinationCode": "7135",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TAYUM",
+        "CountyArea": "BUMAGCAT",
+        "DestinationCode": "7310",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LACUB",
+        "CountyArea": "BUNEG",
+        "DestinationCode": "7146",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TINEG",
+        "CountyArea": "CAGANAYAN",
+        "DestinationCode": "7323",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "BA-UG",
+        "DestinationCode": "7284",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "BOLBOLO",
+        "DestinationCode": "7245",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "VILLAVICIOSA",
+        "CountyArea": "BOL-LILISING",
+        "DestinationCode": "7339",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "BAYAAN",
+        "DestinationCode": "7118",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MALIBCONG",
+        "CountyArea": "BAYABAS",
+        "DestinationCode": "7198",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "CALABA",
+        "DestinationCode": "7048",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LICUAN-(BAAY)",
+        "CountyArea": "BONGLO (PATAGUI)",
+        "DestinationCode": "7179",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "SALLAPADAN",
+        "CountyArea": "BAZAR",
+        "DestinationCode": "7264",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "CALAO",
+        "DestinationCode": "7087",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TINEG",
+        "CountyArea": "BELAAT",
+        "DestinationCode": "7322",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-LA-PAZ",
+        "CountyArea": "BENBEN (BONBON)",
+        "DestinationCode": "7133",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "BROOKSIDE",
+        "DestinationCode": "7246",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "POBLACION WEST",
+        "DestinationCode": "7240",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "SALUCAG",
+        "DestinationCode": "7130",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MANABO",
+        "CountyArea": "SAN JUAN NORTE",
+        "DestinationCode": "7216",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MANABO",
+        "CountyArea": "SAN JUAN SUR",
+        "DestinationCode": "7217",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "SAN JUAN WEST",
+        "DestinationCode": "7260",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-ISIDRO",
+        "CountyArea": "SAN MARCIAL",
+        "DestinationCode": "7280",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "SAN MIGUEL",
+        "DestinationCode": "7099",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "SAN ANTONIO",
+        "DestinationCode": "7062",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-LA-PAZ",
+        "CountyArea": "SAN GREGORIO",
+        "DestinationCode": "7142",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGAYAN",
+        "CountyArea": "PULOT",
+        "DestinationCode": "7172",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "7165",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "QUIDAOEN",
+        "DestinationCode": "7296",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LANGIDEN",
+        "CountyArea": "QUILLAT",
+        "DestinationCode": "7178",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "QUIMLOONG",
+        "DestinationCode": "7097",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "SABANGAN",
+        "DestinationCode": "7297",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LUBA",
+        "CountyArea": "SABNANGAN",
+        "DestinationCode": "7197",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-ISIDRO",
+        "CountyArea": "SABTAN-OLO",
+        "DestinationCode": "7279",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "POBLACION SOUTH",
+        "DestinationCode": "7295",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PENARRUBIA",
+        "CountyArea": "RIANG (TIANG)",
+        "DestinationCode": "7227",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-LA-PAZ",
+        "CountyArea": "UDANGAN",
+        "DestinationCode": "7144",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MALIBCONG",
+        "CountyArea": "UMNAP",
+        "DestinationCode": "7209",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TUBO",
+        "CountyArea": "TIEMPO",
+        "DestinationCode": "7335",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TUBO",
+        "CountyArea": "AMTUAGAN",
+        "DestinationCode": "7329",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "DAGUIOMAN",
+        "CountyArea": "CABARUYAN",
+        "DestinationCode": "7108",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TAYUM",
+        "CountyArea": "VELASCO",
+        "DestinationCode": "7317",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-LA-PAZ",
+        "CountyArea": "TOON",
+        "DestinationCode": "7143",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "SAPPAAC",
+        "DestinationCode": "7065",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "VILLAVIEJA",
+        "DestinationCode": "7263",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TUBO",
+        "CountyArea": "SUPO",
+        "DestinationCode": "7333",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-QUINTIN",
+        "CountyArea": "TANGADAN",
+        "DestinationCode": "7305",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TUBO",
+        "CountyArea": "TUBTUBA",
+        "DestinationCode": "7336",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TUBO",
+        "CountyArea": "WAYANGAN",
+        "DestinationCode": "7337",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "TAPING",
+        "DestinationCode": "7132",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "TAPING",
+        "DestinationCode": "7167",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "DAGUIOMAN",
+        "CountyArea": "TUI",
+        "DestinationCode": "7110",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MALIBCONG",
+        "CountyArea": "TARIPAN",
+        "DestinationCode": "7208",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LICUAN-(BAAY)",
+        "CountyArea": "TUMALIP",
+        "DestinationCode": "7189",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "ZONE 1 POB. (NALASIN)",
+        "DestinationCode": "7067",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "ZONE 2 POB. (CONSILIMAN)",
+        "DestinationCode": "7068",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "ZONE 4 POB. (TOWN PROPER)",
+        "DestinationCode": "7070",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "ZONE 6 POB. (SINAPANGAN)",
+        "DestinationCode": "7072",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "ZONE 7 POB. (BALILING)",
+        "DestinationCode": "7073",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LACUB",
+        "CountyArea": "LAN-AG",
+        "DestinationCode": "7148",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "LUMOBANG",
+        "DestinationCode": "7291",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TINEG",
+        "CountyArea": "LANEC",
+        "DestinationCode": "7325",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-ISIDRO",
+        "CountyArea": "LANGBABAN",
+        "DestinationCode": "7275",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TINEG",
+        "CountyArea": "LAPAT-BALANTAY",
+        "DestinationCode": "7326",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-LA-PAZ",
+        "CountyArea": "LIGUIS",
+        "DestinationCode": "7137",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MANABO",
+        "CountyArea": "LUZONG",
+        "DestinationCode": "7213",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "LASKIG",
+        "DestinationCode": "7234",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MALIBCONG",
+        "CountyArea": "LAT-EY",
+        "DestinationCode": "7204",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCLOC",
+        "CountyArea": "LINGAY",
+        "DestinationCode": "7106",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "LAYUGAN",
+        "DestinationCode": "7090",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "LIPCAN",
+        "DestinationCode": "7053",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "LAANG",
+        "DestinationCode": "7156",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "LAGUIBEN",
+        "DestinationCode": "7158",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "LUB-LUBBA",
+        "DestinationCode": "7125",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "VILLAVICIOSA",
+        "CountyArea": "LUMABA",
+        "DestinationCode": "7342",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BOLINEY",
+        "CountyArea": "KILONG-OLAO",
+        "DestinationCode": "7081",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "KIMMALABA",
+        "DestinationCode": "7123",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "LAM-AG",
+        "DestinationCode": "7290",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "NANANGDUAN",
+        "DestinationCode": "7253",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TUBO",
+        "CountyArea": "MAYABO POBLACION",
+        "DestinationCode": "7332",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "SALLAPADAN",
+        "CountyArea": "MAGUYEPYEP",
+        "DestinationCode": "7267",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "NARNARA",
+        "DestinationCode": "7254",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "MAOAY",
+        "DestinationCode": "7058",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PENARRUBIA",
+        "CountyArea": "MALAMSIT",
+        "DestinationCode": "7223",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LICUAN-(BAAY)",
+        "CountyArea": "MOGAO",
+        "DestinationCode": "7185",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LANGIDEN",
+        "CountyArea": "MALAPAAO",
+        "DestinationCode": "7176",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MALIBCONG",
+        "CountyArea": "MALIBCONG",
+        "DestinationCode": "7205",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LANGIDEN",
+        "CountyArea": "MABUNGTOT",
+        "DestinationCode": "7175",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-LA-PAZ",
+        "CountyArea": "MUDENG",
+        "DestinationCode": "7139",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "MUDIIT",
+        "DestinationCode": "7126",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "MACRAY",
+        "DestinationCode": "7056",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "MALITA",
+        "DestinationCode": "7057",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "DANGLAS",
+        "CountyArea": "NAGAPARAN",
+        "DestinationCode": "7115",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LUBA",
+        "CountyArea": "NAGBUKEL-TUQUIPA",
+        "DestinationCode": "7195",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "NAGCANASAN",
+        "DestinationCode": "7252",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MALIBCONG",
+        "CountyArea": "MATARAGAN",
+        "DestinationCode": "7206",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "NAGTUPACAN",
+        "DestinationCode": "7160",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "SALLAPADAN",
+        "CountyArea": "NAGUILIAN",
+        "DestinationCode": "7268",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LICUAN-(BAAY)",
+        "CountyArea": "NALBUAN",
+        "DestinationCode": "7186",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PENARRUBIA",
+        "CountyArea": "NAMARABAR",
+        "DestinationCode": "7224",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "NAMIT-INGAN",
+        "DestinationCode": "7127",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-ISIDRO",
+        "CountyArea": "MANAYDAY",
+        "DestinationCode": "7276",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGAYAN",
+        "CountyArea": "COLLAGO",
+        "DestinationCode": "7169",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LICUAN-(BAAY)",
+        "CountyArea": "DOMENGLAY",
+        "DestinationCode": "7182",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "COSILI EAST (PROPER)",
+        "DestinationCode": "7049",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCLOC",
+        "CountyArea": "DUCLIGAN",
+        "DestinationCode": "7103",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "DUGONG",
+        "DestinationCode": "7088",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MALIBCONG",
+        "CountyArea": "DULAO",
+        "DestinationCode": "7201",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MALIBCONG",
+        "CountyArea": "DULDULAO",
+        "DestinationCode": "7202",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PENARRUBIA",
+        "CountyArea": "DUMAYCO",
+        "DestinationCode": "7221",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MALIBCONG",
+        "CountyArea": "GACAB",
+        "DestinationCode": "7203",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TAYUM",
+        "CountyArea": "GADDANI",
+        "DestinationCode": "7313",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "CULIONG",
+        "DestinationCode": "7287",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "SALLAPADAN",
+        "CountyArea": "GANGAL",
+        "DestinationCode": "7266",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "GARRETA",
+        "DestinationCode": "7232",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LUBA",
+        "CountyArea": "GAYAMAN",
+        "DestinationCode": "7192",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "DANGLAS",
+        "CountyArea": "CAUPASAN",
+        "DestinationCode": "7113",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TAYUM",
+        "CountyArea": "DEET",
+        "DestinationCode": "7312",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LICUAN-(BAAY)",
+        "CountyArea": "CAWAYAN",
+        "DestinationCode": "7181",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "DALAGUISEN",
+        "DestinationCode": "7155",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LANGIDEN",
+        "CountyArea": "DALAYAP (NALAAS)",
+        "DestinationCode": "7174",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "CAYAPA",
+        "DestinationCode": "7154",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-ISIDRO",
+        "CountyArea": "DALIMAG",
+        "DestinationCode": "7274",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "DALIT",
+        "DestinationCode": "7247",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "DANGDANGLA",
+        "DestinationCode": "7051",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "GUIMBA",
+        "DestinationCode": "7289",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BOLINEY",
+        "CountyArea": "DAO-ANGAN",
+        "DestinationCode": "7079",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "DINTAN",
+        "DestinationCode": "7248",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LACUB",
+        "CountyArea": "GUINGUINABANG",
+        "DestinationCode": "7147",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TINEG",
+        "CountyArea": "COGON",
+        "DestinationCode": "7324",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "COLABAOAN",
+        "DestinationCode": "7286",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "AGUET",
+        "DestinationCode": "7151",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "BAGACAO",
+        "DestinationCode": "7045",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LUBA",
+        "CountyArea": "BARIT",
+        "DestinationCode": "7191",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "PANG-OT",
+        "DestinationCode": "7256",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "NANGOBONGAN",
+        "DestinationCode": "7292",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LACUB",
+        "CountyArea": "PACOC",
+        "DestinationCode": "7149",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LUBA",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "7196",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MANABO",
+        "CountyArea": "SAN RAMON EAST",
+        "DestinationCode": "7218",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "SANTA ROSA",
+        "DestinationCode": "7063",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "SALNEC",
+        "DestinationCode": "7098",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "DANGLAS",
+        "CountyArea": "CAUPASAN (POB.)",
+        "DestinationCode": "420355",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PENARRUBIA",
+        "CountyArea": "MALAMSIT (PAU-MALAMSIT)",
+        "DestinationCode": "420596",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "ABANG",
+        "DestinationCode": "7082",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "DANGLAS",
+        "CountyArea": "ABAQUID",
+        "DestinationCode": "7111",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MANABO",
+        "CountyArea": "CATACDEGAN VIEJO",
+        "DestinationCode": "7212",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "SAN DIEGO",
+        "DestinationCode": "7241",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MALIBCONG",
+        "CountyArea": "BINASARAN",
+        "DestinationCode": "7199",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LICUAN-(BAAY)",
+        "CountyArea": "BULBULALA",
+        "DestinationCode": "7180",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-LA-PAZ",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "7141",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LACUB",
+        "CountyArea": "POBLACION (TALAMPAC)",
+        "DestinationCode": "7150",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "DAGUIOMAN",
+        "CountyArea": "PIKEK",
+        "DestinationCode": "7109",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "BACOOC",
+        "DestinationCode": "7152",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "POBLACION NORTH",
+        "DestinationCode": "7294",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "LUBONG",
+        "DestinationCode": "7054",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TUBO",
+        "CountyArea": "KILI",
+        "DestinationCode": "7331",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "LIBTEC",
+        "DestinationCode": "7124",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LUBA",
+        "CountyArea": "LUL-LUNO",
+        "DestinationCode": "7193",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PENARRUBIA",
+        "CountyArea": "LUSUAC",
+        "DestinationCode": "7222",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "NAGUIRAYAN",
+        "DestinationCode": "7236",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "KINABITI",
+        "DestinationCode": "7250",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "TIKITIK",
+        "DestinationCode": "7262",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "NORTH POBLACION",
+        "DestinationCode": "7092",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TUBO",
+        "CountyArea": "DILONG",
+        "DestinationCode": "7330",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCLOC",
+        "CountyArea": "LAMAO (POB.)",
+        "DestinationCode": "420319",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "DAGUIOMAN",
+        "CountyArea": "TUI (POB.)",
+        "DestinationCode": "420354",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "ZONE 3 POB. (LALAUD)",
+        "DestinationCode": "7069",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "VILLAVICIOSA",
+        "CountyArea": "TUQUIB",
+        "DestinationCode": "7345",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "MACARCARMAY",
+        "DestinationCode": "7055",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "MALIPLIPIT",
+        "DestinationCode": "7251",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "MADALIPAY",
+        "DestinationCode": "7091",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LUBA",
+        "CountyArea": "LUZONG",
+        "DestinationCode": "7194",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MALIBCONG",
+        "CountyArea": "MALIBCONG (POB.)",
+        "DestinationCode": "420511",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MANABO",
+        "CountyArea": "AYYENG (POB.)",
+        "DestinationCode": "420522",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "SALLAPADAN",
+        "CountyArea": "GANGAL (POB.)",
+        "DestinationCode": "420638",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "BANACAO",
+        "DestinationCode": "420286",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "AGTANGAO",
+        "DestinationCode": "420287",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "ANGAD",
+        "DestinationCode": "420288",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "POBLACION EAST",
+        "DestinationCode": "7239",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "SAGAP",
+        "DestinationCode": "7061",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-LA-PAZ",
+        "CountyArea": "MALABBAGA",
+        "DestinationCode": "7138",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "SALLAPADAN",
+        "CountyArea": "BILABILA",
+        "DestinationCode": "7265",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "MONGGOC",
+        "DestinationCode": "7235",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TINEG",
+        "CountyArea": "NAGLIBACAN",
+        "DestinationCode": "7327",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LICUAN-(BAAY)",
+        "CountyArea": "LENNENG",
+        "DestinationCode": "7183",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "LINGTAN",
+        "DestinationCode": "7052",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "VILLAVICIOSA",
+        "CountyArea": "LAP-LAPOG",
+        "DestinationCode": "7341",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "COSILI WEST (BUAYA)",
+        "DestinationCode": "7050",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-QUINTIN",
+        "CountyArea": "LABAAN",
+        "DestinationCode": "7301",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "IMMULI",
+        "DestinationCode": "7233",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "GAPANG",
+        "DestinationCode": "7249",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TINEG",
+        "CountyArea": "ALAOA",
+        "DestinationCode": "7319",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCLOC",
+        "CountyArea": "LAMAO",
+        "DestinationCode": "7105",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "SALLAPADAN",
+        "CountyArea": "SALLAPADAN",
+        "DestinationCode": "7270",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BOLINEY",
+        "CountyArea": "DANAC WEST",
+        "DestinationCode": "7078",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BOLINEY",
+        "CountyArea": "DANAC EAST",
+        "DestinationCode": "7077",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "DANGLAS",
+        "CountyArea": "DANGLAS",
+        "DestinationCode": "7114",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "DAOIDAO",
+        "DestinationCode": "7288",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCLOC",
+        "CountyArea": "LABAAN",
+        "DestinationCode": "7104",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "LABON",
+        "DestinationCode": "7089",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "LAGBEN",
+        "DestinationCode": "7157",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LICUAN-(BAAY)",
+        "CountyArea": "MAPISLA",
+        "DestinationCode": "7184",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "NAGTIPULAN",
+        "DestinationCode": "7159",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BOLINEY",
+        "CountyArea": "DUMAGAS",
+        "DestinationCode": "7080",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-QUINTIN",
+        "CountyArea": "VILLA MERCEDES",
+        "DestinationCode": "7306",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TAYUM",
+        "CountyArea": "BASBASA",
+        "DestinationCode": "7308",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "SILET",
+        "DestinationCode": "7298",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "PATUCANNAY",
+        "DestinationCode": "7060",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "VILLAVICIOSA",
+        "CountyArea": "CAL-LAO",
+        "DestinationCode": "7340",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "SALLAPADAN",
+        "CountyArea": "SACCAANG",
+        "DestinationCode": "7269",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BUCAY",
+        "CountyArea": "SOUTH POBLACION",
+        "DestinationCode": "7101",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "SALLAPADAN",
+        "CountyArea": "UD-UDIAO",
+        "DestinationCode": "7272",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-LA-PAZ",
+        "CountyArea": "BULBULALA",
+        "DestinationCode": "7134",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "TABLAC (CALOT)",
+        "DestinationCode": "7066",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BOLINEY",
+        "CountyArea": "BOLINEY POBLACION",
+        "DestinationCode": "7076",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-ISIDRO",
+        "CountyArea": "TANGBAO",
+        "DestinationCode": "7281",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MANABO",
+        "CountyArea": "SAN JOSE NORTE",
+        "DestinationCode": "7214",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "MANABO",
+        "CountyArea": "SAN JOSE SUR",
+        "DestinationCode": "7215",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PIDIGAN",
+        "CountyArea": "YUYENG",
+        "DestinationCode": "7244",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "PENARRUBIA",
+        "CountyArea": "TATTAWA",
+        "DestinationCode": "7229",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "BANGUED",
+        "CountyArea": "ZONE 5 POB. (BO. BARIKIR)",
+        "DestinationCode": "7071",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-SAN-JUAN",
+        "CountyArea": "BADAS",
+        "DestinationCode": "7283",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TAYUM",
+        "CountyArea": "BAGALAY",
+        "DestinationCode": "7307",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-PILAR",
+        "CountyArea": "SAN JUAN EAST",
+        "DestinationCode": "7259",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "LAGANGILAN",
+        "CountyArea": "PRESENTAR",
+        "DestinationCode": "7164",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "ABRA-DOLORES",
+        "CountyArea": "ISIT",
+        "DestinationCode": "7122",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "ABRA",
+        "City": "TAYUM",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "7316",
+        "SixWordCode": ""
+    }
+]

@@ -1,0 +1,2207 @@
+[
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "BASA",
+        "DestinationCode": "12916",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "PEREZ",
+        "DestinationCode": "12890",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "PATIN-AY",
+        "DestinationCode": "12787",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SANTA-JOSEFA",
+        "CountyArea": "PATROCINIO",
+        "DestinationCode": "12870",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "PANAGANGAN",
+        "DestinationCode": "12746",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "PANAYTAY",
+        "DestinationCode": "12663",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "PANGYAN",
+        "DestinationCode": "12923",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "AGSABU",
+        "DestinationCode": "12691",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "AGUINALDO",
+        "DestinationCode": "12692",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "ALEGRIA",
+        "DestinationCode": "12813",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "AFGA",
+        "DestinationCode": "12876",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "BATUCAN",
+        "DestinationCode": "12900",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SANTA-JOSEFA",
+        "CountyArea": "PAG-ASA",
+        "DestinationCode": "12869",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "CANAYUGAN",
+        "DestinationCode": "12642",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BUNAWAN",
+        "CountyArea": "NUEVA ERA",
+        "DestinationCode": "12686",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "NUEVA GRACIA",
+        "DestinationCode": "12759",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "NUEVO TRABAJO",
+        "DestinationCode": "12856",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "ODIONG",
+        "DestinationCode": "12719",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "ORMACA",
+        "DestinationCode": "12833",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "ORO",
+        "DestinationCode": "12720",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "OSMENA",
+        "DestinationCode": "12662",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "OSMENA",
+        "DestinationCode": "12745",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "PADIAY",
+        "DestinationCode": "12889",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "12760",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BUNAWAN",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "12687",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "12722",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ROSARIO",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "12809",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "12857",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SANTA-JOSEFA",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "12871",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "12891",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "12924",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "12944",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "POBLACION (BAHBAH)",
+        "DestinationCode": "12788",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "PIGLAWIGAN",
+        "DestinationCode": "12721",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "PINAGALAAN",
+        "DestinationCode": "12664",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "PISA-AN",
+        "DestinationCode": "12835",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "SAN ROQUE",
+        "DestinationCode": "12797",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "SAN ROQUE",
+        "DestinationCode": "12929",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "TAGABASE",
+        "DestinationCode": "12732",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "TAGAPUA",
+        "DestinationCode": "12839",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "TAGLIBAS",
+        "DestinationCode": "12676",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "SANTA TERESA",
+        "DestinationCode": "12765",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "SINAI",
+        "DestinationCode": "12896",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "SINAKUNGAN",
+        "DestinationCode": "12731",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "TAGUBAY",
+        "DestinationCode": "12677",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "SAN SALVADOR",
+        "DestinationCode": "12798",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BUNAWAN",
+        "CountyArea": "SAN TEODORO",
+        "DestinationCode": "12690",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "SINOBONG",
+        "DestinationCode": "12950",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "SAN TORIBIO",
+        "DestinationCode": "12727",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "SAN VICENTE",
+        "DestinationCode": "12764",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "SAN VICENTE",
+        "DestinationCode": "12799",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "SAN VICENTE",
+        "DestinationCode": "12893",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "12766",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "SISIMON",
+        "DestinationCode": "12951",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "SANTA ANA",
+        "DestinationCode": "12838",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "SANTO TOMAS",
+        "DestinationCode": "12767",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ROSARIO",
+        "CountyArea": "SANTA CRUZ",
+        "DestinationCode": "12810",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "SANTA CRUZ",
+        "DestinationCode": "12894",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "SANTA CRUZ",
+        "DestinationCode": "12947",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "SAN PATRICIO",
+        "DestinationCode": "12750",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "SAWAGAN",
+        "DestinationCode": "12949",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "SAN PEDRO",
+        "DestinationCode": "12795",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SANTA-JOSEFA",
+        "CountyArea": "SAYON",
+        "DestinationCode": "12874",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "SEGUNDA",
+        "DestinationCode": "12730",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "SANTA EMELIA",
+        "DestinationCode": "12948",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SANTA-JOSEFA",
+        "CountyArea": "SANTA ISABEL",
+        "DestinationCode": "12873",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "SANTA MARIA",
+        "DestinationCode": "12801",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "SANTA MARIA",
+        "DestinationCode": "12895",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "SANTA MARIA",
+        "DestinationCode": "12930",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SANTA-JOSEFA",
+        "CountyArea": "AURORA",
+        "DestinationCode": "12866",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "AWA",
+        "DestinationCode": "12771",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "BARANGAY 2 (POB.)",
+        "DestinationCode": "12815",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "AZPETIA",
+        "DestinationCode": "12772",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "BACAY II",
+        "DestinationCode": "12933",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "BARANGAY 1 (POB.)",
+        "DestinationCode": "12814",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "BARANGAY 3 (POB.)",
+        "DestinationCode": "12816",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "ANAHAWAN",
+        "DestinationCode": "12877",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "BARANGAY 4 (POB.)",
+        "DestinationCode": "12817",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SANTA-JOSEFA",
+        "CountyArea": "ANGAS",
+        "DestinationCode": "12865",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "ANGELES",
+        "DestinationCode": "12738",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "BALIT",
+        "DestinationCode": "12841",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "ANISLAGAN",
+        "DestinationCode": "12840",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "BANAGBANAG",
+        "DestinationCode": "12878",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "BARANGAY 5 (POB.)",
+        "DestinationCode": "12818",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "BAKINGKING",
+        "DestinationCode": "12694",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "BENTAHON",
+        "DestinationCode": "12696",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "BUCAC",
+        "DestinationCode": "12639",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "BUENAGRACIA",
+        "DestinationCode": "12901",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ROSARIO",
+        "CountyArea": "CABANTAO",
+        "DestinationCode": "12803",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ROSARIO",
+        "CountyArea": "CABAWAN",
+        "DestinationCode": "12804",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "BINONGAN",
+        "DestinationCode": "12934",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "BINUCAYAN",
+        "DestinationCode": "12753",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "BITAN-AGAN",
+        "DestinationCode": "12820",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "BUNAGUIT",
+        "DestinationCode": "12697",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BUNAWAN",
+        "CountyArea": "BUNAWAN BROOK",
+        "DestinationCode": "12681",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "CAGBAS",
+        "DestinationCode": "12640",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "CAIGANGAN",
+        "DestinationCode": "12935",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "CAIMPUGAN",
+        "DestinationCode": "12823",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "CALAITAN",
+        "DestinationCode": "12641",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "BAYLO",
+        "DestinationCode": "12842",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "BAYUGAN 2",
+        "DestinationCode": "12819",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ROSARIO",
+        "CountyArea": "BAYUGAN 3",
+        "DestinationCode": "12802",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "BORBON",
+        "DestinationCode": "12821",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "SALIMBOGAON",
+        "DestinationCode": "12789",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "SALVACION",
+        "DestinationCode": "12668",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "SALVACION",
+        "DestinationCode": "12790",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "SAN JUAN",
+        "DestinationCode": "12671",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "POLICARPO",
+        "DestinationCode": "12858",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "SAN AGUSTIN",
+        "DestinationCode": "12669",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BUNAWAN",
+        "CountyArea": "SAN MARCOS",
+        "DestinationCode": "12689",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "SAN MARIANO",
+        "DestinationCode": "12763",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "SAN AGUSTIN (POB.)",
+        "DestinationCode": "12911",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BUNAWAN",
+        "CountyArea": "SAN ANDRES",
+        "DestinationCode": "12688",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "SAN GABRIEL",
+        "DestinationCode": "12946",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "SAN MARTIN",
+        "DestinationCode": "12794",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "PULANG-LUPA",
+        "DestinationCode": "12925",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "SAN IGNACIO",
+        "DestinationCode": "12927",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "SAN LORENZO",
+        "DestinationCode": "12793",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "12670",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "12892",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "12928",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "SAN ISIDRO (POB.)",
+        "DestinationCode": "12912",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "SABANG ADGAWAN",
+        "DestinationCode": "12748",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "SABANG GIBUNG",
+        "DestinationCode": "12910",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "SAN JOAQUIN",
+        "DestinationCode": "12791",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "SABUD",
+        "DestinationCode": "12761",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "12726",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "SAGMONE",
+        "DestinationCode": "12666",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "SAGUMA",
+        "DestinationCode": "12667",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SANTA-JOSEFA",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "12872",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "REMEDIOS",
+        "DestinationCode": "12723",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "VALENTINA",
+        "DestinationCode": "12737",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "VALENTINA",
+        "DestinationCode": "12751",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "VERDU",
+        "DestinationCode": "12678",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "SAN VICENTE",
+        "DestinationCode": "12728",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "BALUBO",
+        "DestinationCode": "12695",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "ANOLINGAN",
+        "DestinationCode": "12693",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "VILLA PAZ",
+        "DestinationCode": "12752",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "SAN NICOLAS (POB.)",
+        "DestinationCode": "12913",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "VILLANGIT",
+        "DestinationCode": "12899",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "VIOLANTA",
+        "DestinationCode": "12768",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "TANDANG SORA",
+        "DestinationCode": "12736",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "WALOE",
+        "DestinationCode": "12769",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ROSARIO",
+        "CountyArea": "WASI-AN",
+        "DestinationCode": "12812",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "WAWA",
+        "DestinationCode": "12680",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "SANTA FE",
+        "DestinationCode": "12729",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "SANTA INES",
+        "DestinationCode": "12861",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "WEGGUAM",
+        "DestinationCode": "12864",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SANTA-JOSEFA",
+        "CountyArea": "TAPAZ",
+        "DestinationCode": "12875",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "ZAMORA",
+        "DestinationCode": "12914",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "ZILLOVIA",
+        "DestinationCode": "12915",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SANTA-JOSEFA",
+        "CountyArea": "AWAO",
+        "DestinationCode": "12867",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "KOLAMBUGAN",
+        "DestinationCode": "12884",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "LANGAG",
+        "DestinationCode": "12711",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "LANGKILA-AN",
+        "DestinationCode": "12920",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "LYDIA",
+        "DestinationCode": "12744",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "JOHNSON",
+        "DestinationCode": "12754",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "MABUHAY",
+        "DestinationCode": "12782",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "MABUHAY",
+        "DestinationCode": "12651",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "MAASIN",
+        "DestinationCode": "12712",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "LA CARIDAD",
+        "DestinationCode": "12773",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "LA FORTUNA",
+        "DestinationCode": "12940",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "KARAUS",
+        "DestinationCode": "12827",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "LA SUERTE",
+        "DestinationCode": "12776",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "KATIPUNAN",
+        "DestinationCode": "12756",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "KATIPUNAN",
+        "DestinationCode": "12939",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "LABAO",
+        "DestinationCode": "12710",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "LABNIG",
+        "DestinationCode": "12907",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "ILIHAN",
+        "DestinationCode": "12881",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "KAUSWAGAN",
+        "DestinationCode": "12757",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "LUCENA",
+        "DestinationCode": "12781",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "KINAMAYBAY",
+        "DestinationCode": "12709",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "NAPO",
+        "DestinationCode": "12785",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "MAHAGCOT",
+        "DestinationCode": "12714",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "MAHAGSAY",
+        "DestinationCode": "12852",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "MAHAPAG",
+        "DestinationCode": "12853",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "MAHAYAG",
+        "DestinationCode": "12653",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "MAHAYAHAY",
+        "DestinationCode": "12887",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "NATO",
+        "DestinationCode": "12717",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "MILAGROS",
+        "DestinationCode": "12716",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "NOLI",
+        "DestinationCode": "12661",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "MAPAGA",
+        "DestinationCode": "12784",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "NEW SALEM",
+        "DestinationCode": "12660",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "NEW TUBIGON",
+        "DestinationCode": "12888",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "NEW VISAYAS",
+        "DestinationCode": "12832",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ROSARIO",
+        "CountyArea": "MARFIL",
+        "DestinationCode": "12807",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "MT. CARMEL",
+        "DestinationCode": "12658",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "MT. OLIVE",
+        "DestinationCode": "12659",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "MURITULA",
+        "DestinationCode": "12855",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "MAGAUD",
+        "DestinationCode": "12758",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BUNAWAN",
+        "CountyArea": "MAMBALILI",
+        "DestinationCode": "12685",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "MAGKALAPE",
+        "DestinationCode": "12885",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "MAGSAYSAY",
+        "DestinationCode": "12886",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "MAGSAYSAY",
+        "DestinationCode": "12942",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "MANAT",
+        "DestinationCode": "12921",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "COMOTA",
+        "DestinationCode": "12740",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "DON ALEJANDRO",
+        "DestinationCode": "12848",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "CONCORDIA",
+        "DestinationCode": "12700",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "DON MATEO",
+        "DestinationCode": "12938",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "HAMOGAWAY",
+        "DestinationCode": "12649",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BUNAWAN",
+        "CountyArea": "CONSUELO",
+        "DestinationCode": "12682",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "DONA MAXIMA",
+        "DestinationCode": "12851",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "FILI",
+        "DestinationCode": "12645",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "HUBANG",
+        "DestinationCode": "12826",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "CROSSING LUNA",
+        "DestinationCode": "12701",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "CUEVAS",
+        "DestinationCode": "12918",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "CULI",
+        "DestinationCode": "12846",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "HAWILIAN",
+        "DestinationCode": "12707",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "EBRO",
+        "DestinationCode": "12825",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "EL RIO",
+        "DestinationCode": "12880",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "CAUSWAGAN",
+        "DestinationCode": "12902",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "DEL MONTE",
+        "DestinationCode": "12937",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "GETSEMANE",
+        "DestinationCode": "12647",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "DEL ROSARIO",
+        "DestinationCode": "12879",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "CEBOLIN",
+        "DestinationCode": "12917",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "DESAMPARADOS",
+        "DestinationCode": "12905",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "GRACE ESTATE",
+        "DestinationCode": "12648",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "GUADALUPE",
+        "DestinationCode": "12705",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "DIMASALANG",
+        "DestinationCode": "12847",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "GUIBONON",
+        "DestinationCode": "12706",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "CHARITO",
+        "DestinationCode": "12643",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "DAS-AGAN",
+        "DestinationCode": "12824",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "SANTA IRENE",
+        "DestinationCode": "12672",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "BUENASUERTE",
+        "DestinationCode": "12822",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "12762",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "TAGANAHAW",
+        "DestinationCode": "12733",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LORETO",
+        "CountyArea": "KASAPA",
+        "DestinationCode": "12755",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BUNAWAN",
+        "CountyArea": "IMELDA",
+        "DestinationCode": "12683",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BUNAWAN",
+        "CountyArea": "LIBERTAD",
+        "DestinationCode": "12684",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SANTA-JOSEFA",
+        "CountyArea": "CONCEPCION",
+        "DestinationCode": "12868",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "TABON-TABON",
+        "DestinationCode": "12897",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "12747",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "TAGBALILI",
+        "DestinationCode": "12734",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "OSMENA SR.",
+        "DestinationCode": "420215",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "AURORA",
+        "DestinationCode": "12770",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "LOS ARCOS",
+        "DestinationCode": "12780",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "SAN PEDRO",
+        "DestinationCode": "12860",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "DEL MONTE",
+        "DestinationCode": "12904",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "RIZAL",
+        "DestinationCode": "12836",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "MAHAYAHAY",
+        "DestinationCode": "12854",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "SANTIAGO",
+        "DestinationCode": "12863",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "VILLA UNDAYON",
+        "DestinationCode": "12679",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "TUDELA",
+        "DestinationCode": "12931",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "MARCELINA",
+        "DestinationCode": "12654",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "MAC-ARTHUR",
+        "DestinationCode": "12713",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ROSARIO",
+        "CountyArea": "LIBUAC",
+        "DestinationCode": "12805",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "SALUG",
+        "DestinationCode": "12724",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "SALVACION",
+        "DestinationCode": "12926",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "MAGKIANGKANG",
+        "DestinationCode": "12652",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "DON PEDRO",
+        "DestinationCode": "12849",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "DONA FLAVIA",
+        "DestinationCode": "12850",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "12859",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "KAPATUNGAN",
+        "DestinationCode": "12919",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "LA PURISIMA",
+        "DestinationCode": "12775",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "LA UNION",
+        "DestinationCode": "12777",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "KATIPUNAN",
+        "DestinationCode": "12650",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "KAUSWAGAN",
+        "DestinationCode": "12882",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "GAMAO",
+        "DestinationCode": "12646",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "NEW GINGOOG",
+        "DestinationCode": "12718",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "NEW MAUG",
+        "DestinationCode": "12786",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "MT. ARARAT",
+        "DestinationCode": "12657",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "MONTIVESTA",
+        "DestinationCode": "12656",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "MALIWANAG",
+        "DestinationCode": "12715",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "CECILIA",
+        "DestinationCode": "12844",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "MATE",
+        "DestinationCode": "12831",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "BERSEBA",
+        "DestinationCode": "420304",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "MAYGATASAN",
+        "DestinationCode": "12655",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "CUBO",
+        "DestinationCode": "12702",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "LA FLORA",
+        "DestinationCode": "12906",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "KASAPA II",
+        "DestinationCode": "12742",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "COALICION",
+        "DestinationCode": "12845",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ROSARIO",
+        "CountyArea": "TAGBAYAGAN",
+        "DestinationCode": "12811",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "TAG-UYANGO",
+        "DestinationCode": "12898",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "CATMONON",
+        "DestinationCode": "12698",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "DAKUTAN",
+        "DestinationCode": "12703",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "SAMPAGUITA",
+        "DestinationCode": "12945",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "MAHARLIKA",
+        "DestinationCode": "12908",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "CLARO CORTEZ",
+        "DestinationCode": "12644",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "12725",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "LAPINIGAN",
+        "DestinationCode": "12829",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "LIMOT",
+        "DestinationCode": "12941",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "KALABUAN",
+        "DestinationCode": "12708",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "LIBERTAD",
+        "DestinationCode": "12779",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "LA PERIAN",
+        "DestinationCode": "12774",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "LADGADAN",
+        "DestinationCode": "12828",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "LUCAC",
+        "DestinationCode": "12830",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "SIBAGAT",
+        "CountyArea": "KIOYA",
+        "DestinationCode": "12883",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ROSARIO",
+        "CountyArea": "NOVELE",
+        "DestinationCode": "12808",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "MARBON",
+        "DestinationCode": "12909",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TRENTO",
+        "CountyArea": "NEW VISAYAS",
+        "DestinationCode": "12922",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "MASAYAN",
+        "DestinationCode": "12943",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "MAGSAYSAY",
+        "DestinationCode": "12783",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "HALAPITAN",
+        "DestinationCode": "12741",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "DUANGAN",
+        "DestinationCode": "12704",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "TALACOGON",
+        "CountyArea": "CULI",
+        "DestinationCode": "12903",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "CEBULAN",
+        "DestinationCode": "12699",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ROSARIO",
+        "CountyArea": "MALIGAYA",
+        "DestinationCode": "12806",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "BINICALAN",
+        "DestinationCode": "12843",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "LAS NAVAS",
+        "DestinationCode": "12778",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "ANITAP",
+        "DestinationCode": "12932",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "12837",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-LUIS",
+        "CountyArea": "SANTA RITA",
+        "DestinationCode": "12862",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "TAGLATAWAN",
+        "DestinationCode": "12675",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "SANTA TERESITA",
+        "DestinationCode": "12673",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-SAN-FRANCISCO",
+        "CountyArea": "PASTA",
+        "DestinationCode": "12834",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "12792",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "SAGUNTO",
+        "DestinationCode": "12749",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-ESPERANZA",
+        "CountyArea": "TAHINA",
+        "DestinationCode": "12735",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "BATAAN",
+        "DestinationCode": "12739",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "SAN RAFAEL",
+        "DestinationCode": "12796",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "PROSPERIDAD",
+        "CountyArea": "SANTA IRENE",
+        "DestinationCode": "12800",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "12674",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "VERUELA",
+        "CountyArea": "CANDIIS",
+        "DestinationCode": "12936",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "AGUSAN-DEL-SUR-LA-PAZ",
+        "CountyArea": "LANGASIAN",
+        "DestinationCode": "12743",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-SUR",
+        "City": "BAYUGAN-CITY",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "12665",
+        "SixWordCode": ""
+    }
+]

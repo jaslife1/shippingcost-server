@@ -1,0 +1,7590 @@
+[
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "BARANGAY IV (POB.)",
+        "DestinationCode": "30699",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "BARUALTE",
+        "DestinationCode": "31190",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 8 (POB.)",
+        "DestinationCode": "30554",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "BARANGAY 8 (POB.)",
+        "DestinationCode": "30828",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BARANGAY 8 (POB.)",
+        "DestinationCode": "31049",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 9 (POB.)",
+        "DestinationCode": "30555",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BARANGAY 9 (POB.)",
+        "DestinationCode": "31050",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "BARANGAY A (POB.)",
+        "DestinationCode": "31119",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "BARANGAY B (POB.)",
+        "DestinationCode": "31120",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "BARANGAY C (POB.)",
+        "DestinationCode": "31121",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "BARANGAY E (POB.)",
+        "DestinationCode": "31123",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "BARANGAY I (POB.)",
+        "DestinationCode": "30696",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "BARANGAY II (POB.)",
+        "DestinationCode": "30697",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "BARANGAY II-A (POB.)",
+        "DestinationCode": "30986",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "BARANGAY III (POB.)",
+        "DestinationCode": "30698",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "PAPAYA",
+        "DestinationCode": "31071",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "PARAISO",
+        "DestinationCode": "30809",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "PATUGO",
+        "DestinationCode": "30854",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "PAYAPA",
+        "DestinationCode": "31107",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "PANGAO",
+        "DestinationCode": "30931",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "PANGHAYAAN",
+        "DestinationCode": "31178",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "PANSOL",
+        "DestinationCode": "31106",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "PANTAY",
+        "DestinationCode": "30780",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "AGUILA",
+        "DestinationCode": "31002",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "ALUPAY",
+        "DestinationCode": "31115",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "ALALUM",
+        "DestinationCode": "30496",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "ALANGILAN",
+        "DestinationCode": "30525",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-BALETE",
+        "CountyArea": "ALANGILAN",
+        "DestinationCode": "30886",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "ACLE",
+        "DestinationCode": "30730",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "AGA",
+        "DestinationCode": "31036",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "IMAMAWO",
+        "DestinationCode": "30399",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "MAHABANG LODLOD",
+        "DestinationCode": "30404",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "LAGUILE",
+        "DestinationCode": "30401",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "ILOG",
+        "DestinationCode": "30398",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "LATAG",
+        "DestinationCode": "30402",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POBLACION 4",
+        "DestinationCode": "30415",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POBLACION 9",
+        "DestinationCode": "30420",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POBLACION 7",
+        "DestinationCode": "30418",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POBLACION 6",
+        "DestinationCode": "30417",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POBLACION 5",
+        "DestinationCode": "30416",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "TIERRA ALTA",
+        "DestinationCode": "30424",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POOK",
+        "DestinationCode": "30421",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "CUBAMBA",
+        "DestinationCode": "30393",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "IBA",
+        "DestinationCode": "30397",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "GAHOL",
+        "DestinationCode": "30395",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "CAWIT",
+        "DestinationCode": "30391",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "CAYSASAY",
+        "DestinationCode": "30392",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "CULTIHAN",
+        "DestinationCode": "30394",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "NIOGAN",
+        "DestinationCode": "30405",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "SEIRAN",
+        "DestinationCode": "30422",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "CARASUCHE",
+        "DestinationCode": "30390",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POBLACION 13",
+        "DestinationCode": "30411",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POBLACION 3",
+        "DestinationCode": "30414",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POBLACION 2",
+        "DestinationCode": "30413",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POBLACION 14",
+        "DestinationCode": "30412",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POBLACION 12",
+        "DestinationCode": "30410",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POBLACION 11",
+        "DestinationCode": "30409",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POBLACION 10",
+        "DestinationCode": "30408",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "BULI",
+        "DestinationCode": "30388",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "BIHIS",
+        "DestinationCode": "30386",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "BUTONG",
+        "DestinationCode": "30389",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "APACAY",
+        "DestinationCode": "30384",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "BALISONG",
+        "DestinationCode": "30385",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "BOLO",
+        "DestinationCode": "30700",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "BAYUDBUD",
+        "DestinationCode": "30731",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "BANADERO",
+        "DestinationCode": "31288",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "POBLACION BARANGAY 2",
+        "DestinationCode": "31311",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "MAUGAT",
+        "DestinationCode": "31304",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "MARIA PAZ",
+        "DestinationCode": "31303",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "JANOPOL ORIENTAL",
+        "DestinationCode": "31298",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "BAGBAG",
+        "DestinationCode": "31285",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "SULPOC",
+        "DestinationCode": "31322",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "SAMBAT",
+        "DestinationCode": "31318",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "CARRETUNAN",
+        "DestinationCode": "30803",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "PAGOLINGIN WEST",
+        "DestinationCode": "30930",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "PAHARANG KANLURAN",
+        "DestinationCode": "30592",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "PALIKPIKAN",
+        "DestinationCode": "30853",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "NATATAS",
+        "DestinationCode": "31306",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "31319",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "DARASA",
+        "DestinationCode": "31294",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "HIDALGO",
+        "DestinationCode": "31296",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "MONTANA (IK-IK)",
+        "DestinationCode": "31305",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "MALAKING PULO",
+        "DestinationCode": "31302",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "GONZALES",
+        "DestinationCode": "31295",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "TRAPICHE",
+        "DestinationCode": "31326",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "LAUREL",
+        "DestinationCode": "31299",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "LUYOS",
+        "DestinationCode": "31300",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "JANOPOL",
+        "DestinationCode": "31297",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "AMBULONG",
+        "DestinationCode": "31284",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "BILOG-BILOG",
+        "DestinationCode": "31291",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "CALE",
+        "DestinationCode": "31293",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "BAGUMBAYAN",
+        "DestinationCode": "31286",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "BALELE",
+        "DestinationCode": "31287",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "BOOT",
+        "DestinationCode": "31292",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "BANJO LAUREL (BANJO WEST)",
+        "DestinationCode": "31290",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "BANJO EAST",
+        "DestinationCode": "31289",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "TALAGA",
+        "DestinationCode": "31324",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "SANTOL (DONA JACOBA GARCIA)",
+        "DestinationCode": "31320",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "SALA",
+        "DestinationCode": "31317",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "PANTAY BATA",
+        "DestinationCode": "31308",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "POBLACION BARANGAY 7",
+        "DestinationCode": "31316",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "POBLACION BARANGAY 6",
+        "DestinationCode": "31315",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "POBLACION BARANGAY 5",
+        "DestinationCode": "31314",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "POBLACION BARANGAY 3",
+        "DestinationCode": "31312",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "PANTAY MATANDA",
+        "DestinationCode": "31309",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "ALTURA BATA",
+        "DestinationCode": "31281",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "ALTURA-SOUTH",
+        "DestinationCode": "31283",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "PAGASPAS",
+        "DestinationCode": "31307",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "CAMASTILISAN",
+        "DestinationCode": "30766",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "BULIHAN",
+        "DestinationCode": "31126",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "CATANDAAN",
+        "DestinationCode": "31057",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "CATANDALA",
+        "DestinationCode": "30560",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "CARENAHAN",
+        "DestinationCode": "30834",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "CARLOSA",
+        "DestinationCode": "30802",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "CANDA",
+        "DestinationCode": "30833",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "PAG-ASA",
+        "DestinationCode": "30471",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "PAGKILATAN",
+        "DestinationCode": "30591",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "PAGOLINGIN BATA",
+        "DestinationCode": "30928",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "PAHARANG SILANGAN",
+        "DestinationCode": "30593",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "PALLOCAN KANLURAN",
+        "DestinationCode": "30594",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "PALLOCAN SILANGAN",
+        "DestinationCode": "30595",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "PALSAHINGIN",
+        "DestinationCode": "30513",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-BALETE",
+        "CountyArea": "PALSARA",
+        "DestinationCode": "30893",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "PALAKPAK",
+        "DestinationCode": "31149",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "PALANCA",
+        "DestinationCode": "31024",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-BALETE",
+        "CountyArea": "PALIGAWAN",
+        "DestinationCode": "30892",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "PALINCARO",
+        "DestinationCode": "30743",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "PALINDAN",
+        "DestinationCode": "31176",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "PALINGOWAK",
+        "DestinationCode": "31214",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "ORENSE",
+        "DestinationCode": "30713",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "PADRE CASTILLO",
+        "DestinationCode": "30512",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN RAFAEL",
+        "DestinationCode": "31249",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SANTA ANASTACIA",
+        "DestinationCode": "31253",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "PINAGKAWITAN",
+        "DestinationCode": "30932",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "PLARIDEL",
+        "DestinationCode": "30934",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "SINALA",
+        "DestinationCode": "30729",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "LOCLOC",
+        "DestinationCode": "30369",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "CONCORDIA",
+        "DestinationCode": "30341",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "DOMINADOR WEST",
+        "DestinationCode": "30345",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "DOMINADOR EAST",
+        "DestinationCode": "30344",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "CONCEPCION",
+        "DestinationCode": "30340",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "DALIPIT WEST",
+        "DestinationCode": "30343",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "MUNLAWIN SUR",
+        "DestinationCode": "30347",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "MUZON SEGUNDO",
+        "DestinationCode": "30349",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "MUZON PRIMERO",
+        "DestinationCode": "30348",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "TADLAC",
+        "DestinationCode": "30357",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "PING-AS",
+        "DestinationCode": "30351",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "SANTA CRUZ",
+        "DestinationCode": "30356",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "POBLACION WEST",
+        "DestinationCode": "30353",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "BALAGBAG",
+        "DestinationCode": "30339",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "MAHABANG PARANG",
+        "DestinationCode": "30371",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "SAN ANTONIO",
+        "DestinationCode": "30375",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "SAN MARTIN",
+        "DestinationCode": "30378",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "30377",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "DULANGAN",
+        "DestinationCode": "30367",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "DURUNGAO",
+        "DestinationCode": "30368",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "MANGGAHAN",
+        "DestinationCode": "30372",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "MUZON",
+        "DestinationCode": "30373",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "TALIBA",
+        "DestinationCode": "30380",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "SANTA MONICA",
+        "DestinationCode": "30379",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "TALON",
+        "DestinationCode": "30381",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "30374",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "BOBOY",
+        "DestinationCode": "30363",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "CALUMPANG EAST",
+        "DestinationCode": "30365",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "BONLIW",
+        "DestinationCode": "30364",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "BANOYO",
+        "DestinationCode": "30362",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "BALAGTASIN",
+        "DestinationCode": "30360",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "BAGONG TUBIG",
+        "DestinationCode": "30359",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "BALITE",
+        "DestinationCode": "30361",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "MAABUD SOUTH",
+        "DestinationCode": "30452",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "PULANG-BATO",
+        "DestinationCode": "30456",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "HIPIT",
+        "DestinationCode": "30450",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "MUNLAWIN",
+        "DestinationCode": "30453",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "TALANG",
+        "DestinationCode": "30460",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "SINTURISAN",
+        "DestinationCode": "30458",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "TAGUDTOD",
+        "DestinationCode": "30459",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "BANCORO",
+        "DestinationCode": "30447",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "30457",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "PANSIPIT",
+        "DestinationCode": "30454",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "ABELO",
+        "DestinationCode": "30443",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "ALAS-AS",
+        "DestinationCode": "30444",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "BANGIN",
+        "DestinationCode": "30448",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "BALETE",
+        "DestinationCode": "30445",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "BALUK-BALUK",
+        "DestinationCode": "30446",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "SAN FELIPE",
+        "DestinationCode": "30884",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "30885",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "DON JUAN",
+        "DestinationCode": "30879",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "DALIPIT WEST",
+        "DestinationCode": "30877",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "DALIPIT EAST",
+        "DestinationCode": "30876",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "EMMANUEL",
+        "DestinationCode": "30880",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "PINAGKAISAHAN",
+        "DestinationCode": "30883",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "BARANGAY 8 (POB.)",
+        "DestinationCode": "30873",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "BARANGAY 7 (POB.)",
+        "DestinationCode": "30872",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "BARANGAY 3 (POB.)",
+        "DestinationCode": "30868",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "BARANGAY 1 (POB.)",
+        "DestinationCode": "30866",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "BARANGAY 2 (POB.)",
+        "DestinationCode": "30867",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "BARANGAY 5 (POB.)",
+        "DestinationCode": "30870",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "BARANGAY 4 (POB.)",
+        "DestinationCode": "30869",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "POBLACION BARANGAY 7",
+        "DestinationCode": "30943",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN FRANCISCO",
+        "DestinationCode": "31239",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "BARANGAY 9 (POB.)",
+        "DestinationCode": "30829",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "BARANGAY D (POB.)",
+        "DestinationCode": "31122",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "PAPAYA",
+        "DestinationCode": "30488",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "POBLACION BARANGAY 7",
+        "DestinationCode": "31273",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "BUCO",
+        "DestinationCode": "31263",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "CALOOCAN",
+        "DestinationCode": "31264",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "POBLACION BARANGAY 8",
+        "DestinationCode": "31274",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "SAMPALOC",
+        "DestinationCode": "31276",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "MIRANDA",
+        "DestinationCode": "31266",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "POBLACION BARANGAY 6",
+        "DestinationCode": "31272",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "SAN GUILLERMO",
+        "DestinationCode": "31277",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "POBLACION BARANGAY 1",
+        "DestinationCode": "31267",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "POBLACION BARANGAY 2",
+        "DestinationCode": "31268",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "POBLACION BARANGAY 5",
+        "DestinationCode": "31271",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "POBLACION BARANGAY 3",
+        "DestinationCode": "31269",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "TRANCA",
+        "DestinationCode": "31279",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "SANTA MARIA",
+        "DestinationCode": "31278",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "BALAS",
+        "DestinationCode": "31261",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "QUILING",
+        "DestinationCode": "31275",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "AYA",
+        "DestinationCode": "31260",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "ALAGAO",
+        "DestinationCode": "30690",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN ISIDRO NORTE",
+        "DestinationCode": "31240",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "31243",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN VICENTE",
+        "DestinationCode": "31251",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN ROQUE",
+        "DestinationCode": "31250",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "BARANGAY I (POB.)",
+        "DestinationCode": "31230",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SANTA ANA",
+        "DestinationCode": "31252",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN FELIX",
+        "DestinationCode": "31237",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SANTA CRUZ",
+        "DestinationCode": "31255",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SANTA ELENA",
+        "DestinationCode": "31256",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SANTA MARIA",
+        "DestinationCode": "31257",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN ANTONIO",
+        "DestinationCode": "31235",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN BARTOLOME",
+        "DestinationCode": "31236",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN JUAN",
+        "DestinationCode": "31244",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN MIGUEL",
+        "DestinationCode": "31246",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN LUIS",
+        "DestinationCode": "31245",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN AGUSTIN",
+        "DestinationCode": "31234",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN ISIDRO SUR",
+        "DestinationCode": "31241",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN JOAQUIN",
+        "DestinationCode": "31242",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "BARANGAY IV (POB.)",
+        "DestinationCode": "31233",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "BARANGAY III (POB.)",
+        "DestinationCode": "31232",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SANTA TERESITA",
+        "DestinationCode": "31258",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SANTIAGO",
+        "DestinationCode": "31259",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SANTA CLARA",
+        "DestinationCode": "31254",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "PALIPARAN",
+        "DestinationCode": "30288",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "BARANGAY 2 (POB.)",
+        "DestinationCode": "30275",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "J. LEVISTE",
+        "DestinationCode": "30285",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "BARANGAY 1 (POB.)",
+        "DestinationCode": "30274",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "SAN GREGORIO",
+        "DestinationCode": "30290",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "GULOD",
+        "DestinationCode": "30284",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "AS-IS",
+        "DestinationCode": "30272",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "SANTA MARIA",
+        "DestinationCode": "30291",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "BARANGAY 5 (POB.)",
+        "DestinationCode": "30278",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "BALAKILONG",
+        "DestinationCode": "30273",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "BERINAYAN",
+        "DestinationCode": "30279",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "NIYUGAN",
+        "DestinationCode": "30287",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "BARANGAY 4 (POB.)",
+        "DestinationCode": "30277",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "BUGAAN EAST",
+        "DestinationCode": "30280",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "BUGAAN WEST",
+        "DestinationCode": "30281",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "TICUB",
+        "DestinationCode": "30292",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "DAYAP ITAAS",
+        "DestinationCode": "30283",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "BARANGAY 3 (POB.)",
+        "DestinationCode": "30276",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "ABUNG",
+        "DestinationCode": "31035",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "SAN GABRIEL",
+        "DestinationCode": "30289",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "POBLACION EAST",
+        "DestinationCode": "30352",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "MUNLAWIN NORTE",
+        "DestinationCode": "30346",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "TEJERO",
+        "DestinationCode": "30382",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "BARANGAY 6 (POB.)",
+        "DestinationCode": "30871",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "POBLACION BARANGAY 3",
+        "DestinationCode": "30939",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "30650",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-BALETE",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "30894",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "30976",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "31108",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "31179",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "31216",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "PILA",
+        "DestinationCode": "30514",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "PILAHAN",
+        "DestinationCode": "30671",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "PINA",
+        "DestinationCode": "30473",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "PINAGBAYANAN",
+        "DestinationCode": "30474",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "PINAGHAWANAN",
+        "DestinationCode": "30649",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "PINAGSIBAAN",
+        "DestinationCode": "31150",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "PINAGTONGULAN",
+        "DestinationCode": "30933",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "PINAMUCAN",
+        "DestinationCode": "30596",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "PINAMUCAN IBABA",
+        "DestinationCode": "30597",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "TACTAC",
+        "DestinationCode": "30862",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "SANTA MESA",
+        "DestinationCode": "30684",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "SAN ROQUE",
+        "DestinationCode": "30724",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "SAN ROQUE",
+        "DestinationCode": "31158",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SANTA RITA KARSADA",
+        "DestinationCode": "30611",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SIMLONG",
+        "DestinationCode": "30614",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-BALETE",
+        "CountyArea": "SAN SEBASTIAN",
+        "DestinationCode": "30897",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "SAN SEBASTIAN",
+        "DestinationCode": "30999",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SAN SEBASTIAN (BALAGBAG)",
+        "DestinationCode": "30960",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "SANTIAGO",
+        "DestinationCode": "30985",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "SINISIAN",
+        "DestinationCode": "30787",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "TAMAK",
+        "DestinationCode": "31113",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "TAMAYO",
+        "DestinationCode": "30790",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "SAN TEODORO",
+        "DestinationCode": "30725",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SANTO DOMINGO",
+        "DestinationCode": "30612",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SIRANG LUPA",
+        "DestinationCode": "30615",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "TALAHIBAN II",
+        "DestinationCode": "31227",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "TALAIBON",
+        "DestinationCode": "31187",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "TALANGAN",
+        "DestinationCode": "31074",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "TALIBAYOG",
+        "DestinationCode": "30814",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "TALUDTUD",
+        "DestinationCode": "30863",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "TALUMPOK KANLURAN",
+        "DestinationCode": "30624",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "TALUMPOK SILANGAN",
+        "DestinationCode": "30625",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "SAN VICENTE",
+        "DestinationCode": "30726",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "30479",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "30524",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "30613",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "30685",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "31186",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-BALETE",
+        "CountyArea": "SOLIS",
+        "DestinationCode": "30898",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "SOLO",
+        "DestinationCode": "30687",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "SOLOC",
+        "DestinationCode": "30654",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SOROSORO IBABA",
+        "DestinationCode": "30616",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "TAKLANG ANAK",
+        "DestinationCode": "30788",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "TALAGA EAST",
+        "DestinationCode": "30688",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "TALAGA PROPER",
+        "DestinationCode": "30689",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "TALAHIB PANDAYAN",
+        "DestinationCode": "30622",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "TALAHIB PAYAPA",
+        "DestinationCode": "30623",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "TALAHIBAN I",
+        "DestinationCode": "31226",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "SANDALAN",
+        "DestinationCode": "31185",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SOROSORO ILAYA",
+        "DestinationCode": "30617",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SOROSORO KARSADA",
+        "DestinationCode": "30618",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "TALISAY",
+        "DestinationCode": "30789",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "TALISAY",
+        "DestinationCode": "30815",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "TALISAY",
+        "DestinationCode": "30965",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "SUBUKIN",
+        "DestinationCode": "31225",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SANTA CLARA",
+        "DestinationCode": "30609",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "SANTO TOMAS",
+        "DestinationCode": "30494",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "SANTO TOMAS",
+        "DestinationCode": "30686",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SANTO TORIBIO",
+        "DestinationCode": "30962",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "SANTOL",
+        "DestinationCode": "30860",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "SUKOL",
+        "DestinationCode": "30861",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "SAPANGAN",
+        "DestinationCode": "31222",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "SAN PABLO",
+        "DestinationCode": "30722",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "SANTA CRUZ",
+        "DestinationCode": "31159",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "SAN PEDRO",
+        "DestinationCode": "30493",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAN PEDRO",
+        "DestinationCode": "30608",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "SAWANG",
+        "DestinationCode": "30653",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "TABANGAO APLAYA (TABANGAO PROPER)",
+        "DestinationCode": "30620",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "TABANGAO DAO",
+        "DestinationCode": "30621",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "SAN PEDRO I (EASTERN)",
+        "DestinationCode": "30982",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "SAN PIOQUINTO",
+        "DestinationCode": "30984",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "SAN PIRO",
+        "DestinationCode": "30859",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "SAN RAFAEL",
+        "DestinationCode": "30786",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SICO",
+        "DestinationCode": "30964",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "SICO II",
+        "DestinationCode": "31224",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "BALATBAT",
+        "DestinationCode": "30631",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "BARANGAY 14 (POBLACION 2)",
+        "DestinationCode": "30482",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "BARANGAY 15 (POBLACION 3)",
+        "DestinationCode": "30483",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BANILAD",
+        "DestinationCode": "31038",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 16 (POB.)",
+        "DestinationCode": "30539",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 17 (POB.)",
+        "DestinationCode": "30540",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 6 (POB.)",
+        "DestinationCode": "30552",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "BARANGAY 6 (POB.)",
+        "DestinationCode": "30826",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 18 (POB.)",
+        "DestinationCode": "30541",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 19 (POB.)",
+        "DestinationCode": "30542",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 2 (POB.)",
+        "DestinationCode": "30543",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "BARANGAY 2 (POB.)",
+        "DestinationCode": "30757",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "BARANGAY 2 (POB.)",
+        "DestinationCode": "30797",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "BARANGAY 2 (POB.)",
+        "DestinationCode": "30822",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BARANGAY 2 (POB.)",
+        "DestinationCode": "31043",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "BARANGAY 2 (POB.)",
+        "DestinationCode": "31081",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "BACAO",
+        "DestinationCode": "30461",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "BACLARAN",
+        "DestinationCode": "30817",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "BACLAS",
+        "DestinationCode": "30752",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 22 (POB.)",
+        "DestinationCode": "30546",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 23 (POB.)",
+        "DestinationCode": "30547",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 24 (POB.)",
+        "DestinationCode": "30548",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 7 (POB.)",
+        "DestinationCode": "30553",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "BARANGAY 7 (POB.)",
+        "DestinationCode": "30827",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 1 (POB.)",
+        "DestinationCode": "30532",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "BARANGAY 1 (POB.)",
+        "DestinationCode": "30756",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "BARANGAY 1 (POB.)",
+        "DestinationCode": "30796",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "BARANGAY 1 (POB.)",
+        "DestinationCode": "30818",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BARANGAY 1 (POB.)",
+        "DestinationCode": "31039",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "BARANGAY 1 (POB.)",
+        "DestinationCode": "31080",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 10 (POB.)",
+        "DestinationCode": "30533",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "BARANGAY 10 (POB.)",
+        "DestinationCode": "30819",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BARANGAY 10 (POB.)",
+        "DestinationCode": "31040",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 11 (POB.)",
+        "DestinationCode": "30534",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "BARANGAY 11 (POB.)",
+        "DestinationCode": "30820",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 3 (POB.)",
+        "DestinationCode": "30549",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "BARANGAY 3 (POB.)",
+        "DestinationCode": "30758",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "BARANGAY 3 (POB.)",
+        "DestinationCode": "30798",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "BARANGAY 3 (POB.)",
+        "DestinationCode": "30823",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "BARANGAY 3 (POB.)",
+        "DestinationCode": "31082",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "BAGALANGIT",
+        "DestinationCode": "30658",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "BARANGAY 12 (POB.)",
+        "DestinationCode": "30821",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "BARANGAY 12 (POB.)",
+        "DestinationCode": "30907",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BARANGAY 12 (POB.)",
+        "DestinationCode": "31042",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 13 (POB.)",
+        "DestinationCode": "30536",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "BARANGAY 13 (POBLACION 1)",
+        "DestinationCode": "30481",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "BALAYONG",
+        "DestinationCode": "30695",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BALAYTIGUI",
+        "DestinationCode": "31037",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BALETE",
+        "DestinationCode": "30527",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "BALIBAGO",
+        "DestinationCode": "30632",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "BALIBAGO",
+        "DestinationCode": "30794",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "BALIBAGO",
+        "DestinationCode": "31079",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "BALIMBING",
+        "DestinationCode": "30498",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "BALIMBING",
+        "DestinationCode": "30754",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "BALINTAWAK",
+        "DestinationCode": "30905",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "BAGONG POOK",
+        "DestinationCode": "30904",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "BAGONG POOK",
+        "DestinationCode": "30971",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "BAGONG POOK",
+        "DestinationCode": "31005",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "BAGONG POOK",
+        "DestinationCode": "31078",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "BAGONG POOK",
+        "DestinationCode": "31117",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "BALITOC",
+        "DestinationCode": "30795",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "BARANGAY 4 (POB.)",
+        "DestinationCode": "30759",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "BARANGAY 4 (POB.)",
+        "DestinationCode": "30799",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "BARANGAY 4 (POB.)",
+        "DestinationCode": "30824",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BARANGAY 4 (POB.)",
+        "DestinationCode": "31045",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "ANILAO",
+        "DestinationCode": "30900",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "ANILAO EAST",
+        "DestinationCode": "30656",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "ANILAO PROPER",
+        "DestinationCode": "30657",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "BAGONG TUBIG",
+        "DestinationCode": "30753",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "BAGUILAWA",
+        "DestinationCode": "30694",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "ANTIPOLO",
+        "DestinationCode": "30497",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "ANTIPOLO DEL NORTE",
+        "DestinationCode": "30902",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "ANTIPOLO DEL SUR",
+        "DestinationCode": "30903",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "BAHA",
+        "DestinationCode": "30793",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "BANABA",
+        "DestinationCode": "30499",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "BANABA",
+        "DestinationCode": "31097",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BANABA IBABA",
+        "DestinationCode": "30529",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BANABA SILANGAN",
+        "DestinationCode": "30531",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 5 (POB.)",
+        "DestinationCode": "30551",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "BARANGAY 5 (POB.)",
+        "DestinationCode": "30760",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "BARANGAY 5 (POB.)",
+        "DestinationCode": "30825",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "BARANGAY 5 (POB.)",
+        "DestinationCode": "31084",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "ANUS",
+        "DestinationCode": "31003",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "APAR",
+        "DestinationCode": "30630",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "BANALO",
+        "DestinationCode": "30633",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "BANAYBANAY",
+        "DestinationCode": "31098",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "BANAYBANAY II",
+        "DestinationCode": "31009",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "BALAGBAG",
+        "DestinationCode": "30865",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "BALAGBAG",
+        "DestinationCode": "31189",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BALAGTAS",
+        "DestinationCode": "30526",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "BALAGTASIN",
+        "DestinationCode": "31006",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "BALAGTASIN I",
+        "DestinationCode": "31007",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "BALANGA",
+        "DestinationCode": "31164",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-BALETE",
+        "CountyArea": "CALAWIT",
+        "DestinationCode": "30887",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "CALAYO",
+        "DestinationCode": "31056",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "CALICANTO",
+        "DestinationCode": "30559",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "CALICANTO",
+        "DestinationCode": "31194",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "CALINGATAN",
+        "DestinationCode": "30989",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "CALO",
+        "DestinationCode": "30636",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BUCANA",
+        "DestinationCode": "31052",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "CALOOCAN",
+        "DestinationCode": "30831",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "CALUANGAN",
+        "DestinationCode": "30765",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "CALUBCUB I",
+        "DestinationCode": "31196",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "BIGA",
+        "DestinationCode": "30634",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "BIGA",
+        "DestinationCode": "30800",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "BIGAIN I",
+        "DestinationCode": "31010",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "BIGNAY",
+        "DestinationCode": "30635",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BILARAN",
+        "DestinationCode": "31051",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "BILOGO",
+        "DestinationCode": "30462",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BILOGO",
+        "DestinationCode": "30556",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "BILUCAO (SAN ISIDRO WESTERN)",
+        "DestinationCode": "30972",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "BUHAY NA SAPA",
+        "DestinationCode": "31192",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "BUKAL",
+        "DestinationCode": "30463",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "BUKAL",
+        "DestinationCode": "31100",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "CALUMPIT",
+        "DestinationCode": "30637",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "BULACAN",
+        "DestinationCode": "30659",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "BULACNIN",
+        "DestinationCode": "30910",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "BULAKLAKAN",
+        "DestinationCode": "30911",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "BINUBUSAN",
+        "DestinationCode": "31085",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "BULIHAN",
+        "DestinationCode": "30973",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BULIHAN",
+        "DestinationCode": "31053",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "BATAAN",
+        "DestinationCode": "31191",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "BULSA",
+        "DestinationCode": "31193",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BUNDUCAN",
+        "DestinationCode": "31054",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "BUNGAHAN",
+        "DestinationCode": "31086",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "BOLBOC",
+        "DestinationCode": "30732",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "BOLBOK",
+        "DestinationCode": "30908",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "BAWI",
+        "DestinationCode": "31099",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "BAYANAN",
+        "DestinationCode": "30500",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "CAHIGAM",
+        "DestinationCode": "31127",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "CAHIL",
+        "DestinationCode": "30763",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "BAYAWANG",
+        "DestinationCode": "31124",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "CALAMIAS",
+        "DestinationCode": "30660",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "CALAMIAS",
+        "DestinationCode": "30912",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "BAYBAYIN",
+        "DestinationCode": "31125",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "BAYORBOR",
+        "DestinationCode": "30987",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BUTUCAN",
+        "DestinationCode": "31055",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "CALANSAYAN",
+        "DestinationCode": "31013",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "CALANTAS",
+        "DestinationCode": "30764",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "CALANTAS",
+        "DestinationCode": "31128",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "RIZAL",
+        "DestinationCode": "30949",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "SALONG",
+        "DestinationCode": "30785",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "SAN ANTONIO",
+        "DestinationCode": "30520",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAN ANTONIO",
+        "DestinationCode": "30604",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAN JOSE SICO",
+        "DestinationCode": "30606",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "POCTOL",
+        "DestinationCode": "31217",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SAN BENITO",
+        "DestinationCode": "30952",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "SAN JUAN",
+        "DestinationCode": "30492",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "SAN JUAN",
+        "DestinationCode": "30681",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "SAMBAT",
+        "DestinationCode": "30519",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "SAMBAT",
+        "DestinationCode": "30856",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SAN CARLOS",
+        "DestinationCode": "30953",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "SAN DIEGO",
+        "DestinationCode": "30720",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "SAN DIEGO",
+        "DestinationCode": "31096",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "POOC",
+        "DestinationCode": "30855",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "POOK NI BANAL",
+        "DestinationCode": "30516",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "POOK NI KAPITAN",
+        "DestinationCode": "30517",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "SAMPAGA",
+        "DestinationCode": "30857",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "SAMPAGUITA",
+        "DestinationCode": "30678",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SAMPAGUITA",
+        "DestinationCode": "30951",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-BALETE",
+        "CountyArea": "SAMPALOCAN",
+        "DestinationCode": "30896",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "SAN FELIPE",
+        "DestinationCode": "31111",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "SAN FERNANDO",
+        "DestinationCode": "30978",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAN MIGUEL",
+        "DestinationCode": "30607",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "SAN MIGUEL",
+        "DestinationCode": "30651",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "SAN MIGUEL",
+        "DestinationCode": "30721",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "SAN MIGUEL",
+        "DestinationCode": "31112",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "PRENZA",
+        "DestinationCode": "31094",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "SAMPIRO",
+        "DestinationCode": "31221",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "SAN FRANCISCO",
+        "DestinationCode": "30679",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SAN FRANCISCO",
+        "DestinationCode": "30955",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "SAN MARIANO",
+        "DestinationCode": "30521",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "SAN AGUSTIN",
+        "DestinationCode": "30717",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "SAN AGUSTIN",
+        "DestinationCode": "31184",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAN AGUSTIN KANLURAN",
+        "DestinationCode": "30601",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAN AGUSTIN SILANGAN",
+        "DestinationCode": "30602",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "SAN MATEO",
+        "DestinationCode": "30522",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "PULANG LUPA",
+        "DestinationCode": "30673",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "PULANGBATO",
+        "DestinationCode": "31218",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "PULONG ANAHAO",
+        "DestinationCode": "30674",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAN ANDRES",
+        "DestinationCode": "30603",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "SAN ANDRES",
+        "DestinationCode": "30977",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "SAN ANDRES UNO",
+        "DestinationCode": "30719",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "SAN GREGORIO",
+        "DestinationCode": "30979",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SAN GUILLERMO",
+        "DestinationCode": "30956",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SAN LUCAS",
+        "DestinationCode": "30958",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "POBLACION BARANGAY 1",
+        "DestinationCode": "30935",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "POBLACION BARANGAY 10",
+        "DestinationCode": "30936",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "POBLACION BARANGAY 11",
+        "DestinationCode": "30937",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "POBLACION BARANGAY 2",
+        "DestinationCode": "30938",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "RIZAL (POB.)",
+        "DestinationCode": "30746",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "POBLACION BARANGAY 4",
+        "DestinationCode": "30940",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "POBLACION BARANGAY 5",
+        "DestinationCode": "30941",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "POBLACION BARANGAY 8",
+        "DestinationCode": "30944",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "POBLACION BARANGAY 9",
+        "DestinationCode": "30945",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "POBLACION BARANGAY 9-A",
+        "DestinationCode": "30946",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "POBLACION BARANGAY I",
+        "DestinationCode": "31026",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "POBLACION BARANGAY II",
+        "DestinationCode": "31027",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "POBLACION BARANGAY IV",
+        "DestinationCode": "31029",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "PUSIL",
+        "DestinationCode": "30947",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "PUTING BATO WEST",
+        "DestinationCode": "30782",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "PUTING KAHOY",
+        "DestinationCode": "30783",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "PUTINGBUHANGIN",
+        "DestinationCode": "31219",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "PUTINGKAHOY",
+        "DestinationCode": "31151",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "PUTING-KAHOY",
+        "DestinationCode": "31095",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "PUTOL",
+        "DestinationCode": "30744",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "30477",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "30490",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "30605",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "31156",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "QUEZON",
+        "DestinationCode": "30948",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "POBLACION EAST",
+        "DestinationCode": "30475",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "QUILIB",
+        "DestinationCode": "31152",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "QUILITISAN",
+        "DestinationCode": "30810",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "QUILO",
+        "DestinationCode": "31180",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "QUILO-QUILO NORTH",
+        "DestinationCode": "31109",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "QUILO-QUILO SOUTH",
+        "DestinationCode": "31110",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "QUIPOT",
+        "DestinationCode": "31220",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "SABANG",
+        "DestinationCode": "30747",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "SABANG",
+        "DestinationCode": "31030",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "SAN ISIDRO EAST",
+        "DestinationCode": "30980",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "QUISUMBING",
+        "DestinationCode": "30784",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "REAL",
+        "DestinationCode": "30811",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "REPARO",
+        "DestinationCode": "31073",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-BALETE",
+        "CountyArea": "SALA",
+        "DestinationCode": "30895",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "SALABAN",
+        "DestinationCode": "31031",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "SALABAN I",
+        "DestinationCode": "31182",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "SALABAN II",
+        "DestinationCode": "31183",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "30680",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "30748",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "30957",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "RESPLANDOR",
+        "DestinationCode": "30518",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BARANGAY 7 (POB.)",
+        "DestinationCode": "31048",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "TAYUMAN",
+        "DestinationCode": "30655",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "TATLONG MARIA",
+        "DestinationCode": "30423",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "LUNTAL",
+        "DestinationCode": "30403",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "IRUKAN",
+        "DestinationCode": "30433",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "TUYON-TUYON",
+        "DestinationCode": "30751",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BARANGAY 11 (POB.)",
+        "DestinationCode": "31041",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "TICALAN",
+        "DestinationCode": "31228",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "BAGO",
+        "DestinationCode": "31163",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "UPA",
+        "DestinationCode": "31001",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "TULO",
+        "DestinationCode": "30425",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "WAWA ILAYA",
+        "DestinationCode": "30338",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "WAWA IBABA",
+        "DestinationCode": "30337",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "TUBIGAN",
+        "DestinationCode": "30335",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "TAMBO ILAYA",
+        "DestinationCode": "30442",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "TAMBO IBABA",
+        "DestinationCode": "30441",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "SAN JACINTO",
+        "DestinationCode": "30266",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "CORAL NA MUNTI",
+        "DestinationCode": "30258",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "SAN TEODORO",
+        "DestinationCode": "30267",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "SANTO TOMAS",
+        "DestinationCode": "30269",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "SUBIC ILAYA",
+        "DestinationCode": "30271",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "SUBIC IBABA",
+        "DestinationCode": "30270",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "PAMIGA",
+        "DestinationCode": "30261",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "PANSIPIT",
+        "DestinationCode": "30263",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "PANHULAN",
+        "DestinationCode": "30262",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "POOK",
+        "DestinationCode": "30265",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "BILIBINWANG",
+        "DestinationCode": "30257",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "BAGONG SIKAT",
+        "DestinationCode": "30252",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "MAHABANG DAHILIG",
+        "DestinationCode": "30311",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "SAN ISIDRO ITAAS",
+        "DestinationCode": "30330",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "GULOD",
+        "DestinationCode": "30308",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "DAYAPAN",
+        "DestinationCode": "30302",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "NIUGAN",
+        "DestinationCode": "30321",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "MALINIS",
+        "DestinationCode": "30315",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "MALIGAYA",
+        "DestinationCode": "30314",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "MASALISI",
+        "DestinationCode": "30316",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "NONONG CASTO",
+        "DestinationCode": "30322",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "MAIGSING DAHILIG",
+        "DestinationCode": "30313",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "DISTRICT I (POB.)",
+        "DestinationCode": "30303",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "DITA",
+        "DestinationCode": "30307",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "DISTRICT IV (POB.)",
+        "DestinationCode": "30306",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "DISTRICT II (POB.)",
+        "DestinationCode": "30304",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "MATINGAIN II",
+        "DestinationCode": "30319",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "MATAAS NA BAYAN",
+        "DestinationCode": "30317",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "SINISIAN WEST",
+        "DestinationCode": "30333",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "SINISIAN EAST",
+        "DestinationCode": "30332",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "ARUMAHAN",
+        "DestinationCode": "30294",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "SANGALANG",
+        "DestinationCode": "30331",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "PAYAPA ILAYA",
+        "DestinationCode": "30325",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "PAYAPA IBABA",
+        "DestinationCode": "30324",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "POBLACION II",
+        "DestinationCode": "30436",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "BAGONG SILANG",
+        "DestinationCode": "30792",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "TIMBAIN",
+        "DestinationCode": "30791",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "TIMBUGAN",
+        "DestinationCode": "31160",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "POBLACION I",
+        "DestinationCode": "30435",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "CUTA EAST",
+        "DestinationCode": "30431",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "PACIFICO",
+        "DestinationCode": "30434",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "CALUMALA",
+        "DestinationCode": "30430",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "BIHIS",
+        "DestinationCode": "30427",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "CALAYAAN",
+        "DestinationCode": "30429",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "BUROL",
+        "DestinationCode": "30428",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "ANTIPOLO",
+        "DestinationCode": "30426",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "SAIMSIM",
+        "DestinationCode": "30438",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "UTOD",
+        "DestinationCode": "31076",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SAN SALVADOR",
+        "DestinationCode": "30959",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BANABA KANLURAN",
+        "DestinationCode": "30530",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BARANGAY 5 (POB.)",
+        "DestinationCode": "31046",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "APLAYA",
+        "DestinationCode": "30691",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "TINGA ITAAS",
+        "DestinationCode": "30626",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "SANTO CRISTO",
+        "DestinationCode": "31032",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "SANTO DOMINGO",
+        "DestinationCode": "30728",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "BUBUYAN",
+        "DestinationCode": "30988",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "TIPACAN",
+        "DestinationCode": "30970",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "TIQUIWAN",
+        "DestinationCode": "31161",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "PALANAS",
+        "DestinationCode": "30323",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "BUKAL",
+        "DestinationCode": "30299",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "SAMBAL ILAYA",
+        "DestinationCode": "30328",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "SAMBAL IBABA",
+        "DestinationCode": "30327",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "CAHILAN I",
+        "DestinationCode": "30300",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "BAGONG POOK",
+        "DestinationCode": "30296",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "ANAK-DAGAT",
+        "DestinationCode": "30293",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "AYAO-IYAO",
+        "DestinationCode": "30295",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "BALANGA",
+        "DestinationCode": "30298",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "BAGONG SIKAT",
+        "DestinationCode": "30297",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "TALON",
+        "DestinationCode": "30749",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "30961",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "ANILAO-LABAC",
+        "DestinationCode": "30901",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "SANTA ANA",
+        "DestinationCode": "30683",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "BANAYBANAY I",
+        "DestinationCode": "31008",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SAPAC",
+        "DestinationCode": "30963",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "TAMBO",
+        "DestinationCode": "30966",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "TANAGAN",
+        "DestinationCode": "30816",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "SAN PEDRO",
+        "DestinationCode": "30723",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "WAWA",
+        "DestinationCode": "30629",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "WAWA",
+        "DestinationCode": "31077",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "TANGGOY",
+        "DestinationCode": "30864",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "TANGOB",
+        "DestinationCode": "31114",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "TANGUAY",
+        "DestinationCode": "30968",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "SANTA MARIA",
+        "DestinationCode": "30727",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "TUGTUG",
+        "DestinationCode": "31034",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "TULAY NA PATPAT",
+        "DestinationCode": "31188",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "BARANGAY 6 (POB.)",
+        "DestinationCode": "30761",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "AYA",
+        "DestinationCode": "31004",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "TULO",
+        "DestinationCode": "30628",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "TULOS",
+        "DestinationCode": "31162",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "TUMALIM",
+        "DestinationCode": "31075",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 20 (POB.)",
+        "DestinationCode": "30544",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "TAYSAN",
+        "DestinationCode": "31033",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "LUMBANG",
+        "DestinationCode": "30921",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "LUMBANG CALZADA",
+        "DestinationCode": "30772",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "LUMBANG NA MATANDA",
+        "DestinationCode": "30774",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "LUMBANGAN",
+        "DestinationCode": "30737",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "LUMBANGAN",
+        "DestinationCode": "31064",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "LUMIL",
+        "DestinationCode": "31021",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "LANGGANGAN",
+        "DestinationCode": "30846",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "LIBJO",
+        "DestinationCode": "30579",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "LUNA (POB.)",
+        "DestinationCode": "30738",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "LUNTAL",
+        "DestinationCode": "30739",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "ITLUGAN",
+        "DestinationCode": "31130",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "LUTA DEL NORTE",
+        "DestinationCode": "30974",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "LUTA DEL SUR",
+        "DestinationCode": "30975",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "JANAOJANAO",
+        "DestinationCode": "31203",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "LAPOLAPO II",
+        "DestinationCode": "31019",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "MAALAS-AS",
+        "DestinationCode": "31133",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "JAYBANGA",
+        "DestinationCode": "30639",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "LAPU-LAPU",
+        "DestinationCode": "31170",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "LATAG",
+        "DestinationCode": "30919",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "MABUNGA",
+        "DestinationCode": "31135",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "LAUREL",
+        "DestinationCode": "30507",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "LAUREL",
+        "DestinationCode": "30663",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "MABILOG NA BUNDOK",
+        "DestinationCode": "30641",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "LIPAHAN",
+        "DestinationCode": "31207",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "KAINGIN",
+        "DestinationCode": "30506",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "LIPONPON",
+        "DestinationCode": "30580",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "MABACONG (MATOCO)",
+        "DestinationCode": "30582",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "MABALANOY",
+        "DestinationCode": "31208",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "MABALOR",
+        "DestinationCode": "31172",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "MABATO",
+        "DestinationCode": "31134",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "LIBATO",
+        "DestinationCode": "31206",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "LOCLOC",
+        "DestinationCode": "30706",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "LODLOD",
+        "DestinationCode": "30920",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "IBABAO",
+        "DestinationCode": "30881",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "KUMBA",
+        "DestinationCode": "30576",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "KUMINTANG IBABA",
+        "DestinationCode": "30577",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "KUMINTANG ILAYA",
+        "DestinationCode": "30578",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "LOOB",
+        "DestinationCode": "30995",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-BALETE",
+        "CountyArea": "LOOC",
+        "DestinationCode": "30888",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "ILAT NORTH",
+        "DestinationCode": "30504",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "LABAC",
+        "DestinationCode": "30882",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "ILIHAN",
+        "DestinationCode": "30575",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "LAGADLARIN",
+        "DestinationCode": "30640",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "KAYLAWAY",
+        "DestinationCode": "31060",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "KAYRILAW",
+        "DestinationCode": "31061",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "LAGNAS",
+        "DestinationCode": "30844",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "IMELDA (TUBOG)",
+        "DestinationCode": "31202",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "LAIYA-APLAYA",
+        "DestinationCode": "31204",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "LAIYA-IBABAO",
+        "DestinationCode": "31205",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "LALAYAT",
+        "DestinationCode": "31017",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "LUCBAN POOK",
+        "DestinationCode": "30847",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "LUCSUHIN",
+        "DestinationCode": "30807",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "LUCSUHIN",
+        "DestinationCode": "31171",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "KINALAGLAGAN",
+        "DestinationCode": "30994",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "INICBULAN",
+        "DestinationCode": "30705",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "INOSLOBAN",
+        "DestinationCode": "30917",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "NAMUCO",
+        "DestinationCode": "31145",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "NAMUNGA",
+        "DestinationCode": "31146",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "NANGKAAN",
+        "DestinationCode": "30998",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "MAVALOR",
+        "DestinationCode": "31143",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "MAHABANG PARANG",
+        "DestinationCode": "30584",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "MANGGAHAN",
+        "DestinationCode": "30997",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "MAYURO",
+        "DestinationCode": "31144",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "NASI",
+        "DestinationCode": "31147",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "NATUNUAN",
+        "DestinationCode": "31023",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "NATUNUAN NORTH",
+        "DestinationCode": "30510",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "NATUNUAN SOUTH",
+        "DestinationCode": "30511",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "NAVOTAS",
+        "DestinationCode": "30852",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "MAINAGA",
+        "DestinationCode": "30665",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "MAINIT",
+        "DestinationCode": "30666",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "NIYUGAN",
+        "DestinationCode": "30779",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "MAKAWAYAN",
+        "DestinationCode": "30486",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "MAKINA",
+        "DestinationCode": "30776",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-BALETE",
+        "CountyArea": "MAKINA",
+        "DestinationCode": "30890",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-BALETE",
+        "CountyArea": "MALABANAN",
+        "DestinationCode": "30891",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "NEW DANGLAYAN",
+        "DestinationCode": "30712",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "MALABRIGO",
+        "DestinationCode": "30642",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "MALAININ",
+        "DestinationCode": "31173",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "MAPULO",
+        "DestinationCode": "30469",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "MALAKING POOK",
+        "DestinationCode": "30508",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "MALALAY",
+        "DestinationCode": "30850",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "MALALIM NA SANOG",
+        "DestinationCode": "30643",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "MALAPAD NA BATO",
+        "DestinationCode": "31065",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "MALAPAD NA PARANG",
+        "DestinationCode": "30644",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "MALARUHATAN",
+        "DestinationCode": "31092",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "MARAUOY",
+        "DestinationCode": "30925",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "MARAYKIT",
+        "DestinationCode": "31209",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "MALIBU",
+        "DestinationCode": "30741",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "MARIKABAN",
+        "DestinationCode": "30487",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "MARILAG",
+        "DestinationCode": "31140",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "MACALAMCAM A",
+        "DestinationCode": "31136",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "MALIGAYA",
+        "DestinationCode": "31139",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "MALIMATOC I",
+        "DestinationCode": "30668",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "MUNTING CORAL",
+        "DestinationCode": "30778",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "MUNTING INDAN",
+        "DestinationCode": "31068",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "MUNTING PULO",
+        "DestinationCode": "30927",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "MUNTING-TUBIG",
+        "DestinationCode": "31175",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "MALINDIG",
+        "DestinationCode": "30708",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "MASAYA",
+        "DestinationCode": "31141",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "MADALUNOT",
+        "DestinationCode": "30775",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "MALITAM",
+        "DestinationCode": "30589",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "MALITLIT",
+        "DestinationCode": "30924",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "MATAAS NA LUPA",
+        "DestinationCode": "30470",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "MATAAS NA PULO",
+        "DestinationCode": "31066",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "MAGABE",
+        "DestinationCode": "30849",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "MAGAHIS",
+        "DestinationCode": "30740",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "MAGALANG-GALANG",
+        "DestinationCode": "30707",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "MATABUNGKAY",
+        "DestinationCode": "31093",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "MATAMIS",
+        "DestinationCode": "31142",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "NAG-IBA",
+        "DestinationCode": "30670",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "NAGSAULAY",
+        "DestinationCode": "31211",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-BALETE",
+        "CountyArea": "MAGAPI",
+        "DestinationCode": "30889",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "MATAYWANAC",
+        "DestinationCode": "30742",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "NAGTALONGTONG",
+        "DestinationCode": "30646",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "NAGTOCTOC",
+        "DestinationCode": "30647",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "MATIPOK",
+        "DestinationCode": "30777",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "MAUGAT EAST",
+        "DestinationCode": "31104",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "MAUGAT WEST",
+        "DestinationCode": "31105",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "DISTRICT I (POB.)",
+        "DestinationCode": "30990",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "DISTRICT II (POB.)",
+        "DestinationCode": "30991",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "DISTRICT III (POB.)",
+        "DestinationCode": "30992",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "DISTRICT IV (POB.)",
+        "DestinationCode": "30993",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "DITA",
+        "DestinationCode": "30878",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "COLOCONTO",
+        "DestinationCode": "31199",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "GULOD ITAAS",
+        "DestinationCode": "30571",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "CONCEPCION",
+        "DestinationCode": "30561",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "DON LUIS",
+        "DestinationCode": "31015",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "FABRICA",
+        "DestinationCode": "30638",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "HALANG",
+        "DestinationCode": "30916",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "CORONA",
+        "DestinationCode": "30484",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "HUGOM",
+        "DestinationCode": "31201",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "HUMAYINGAN",
+        "DestinationCode": "31088",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "DUHATAN",
+        "DestinationCode": "30840",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "DUHATAN",
+        "DestinationCode": "30915",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "DUMANTAY",
+        "DestinationCode": "30570",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "CUMBA",
+        "DestinationCode": "30913",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "CUMBA",
+        "DestinationCode": "31087",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "CUPANG",
+        "DestinationCode": "30702",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "CUTA",
+        "DestinationCode": "30564",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "DURUNGAO",
+        "DestinationCode": "30841",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "GALAMAY-AMO",
+        "DestinationCode": "31016",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "GAMAO",
+        "DestinationCode": "30485",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "DACANLAO",
+        "DestinationCode": "30769",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "GASANG",
+        "DestinationCode": "30662",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "DAGATAN",
+        "DestinationCode": "30914",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "DAGATAN",
+        "DestinationCode": "31014",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "DAYAP",
+        "DestinationCode": "31059",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "GELERANG KAWAYAN",
+        "DestinationCode": "30503",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "GIMALAS",
+        "DestinationCode": "30842",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "CAWONGAN",
+        "DestinationCode": "31102",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "DALIG",
+        "DestinationCode": "30565",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "DELA PAZ",
+        "DestinationCode": "30566",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "DELA PAZ PULOT ITAAS",
+        "DestinationCode": "30568",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "DANGLAYAN",
+        "DestinationCode": "30501",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "DILAO",
+        "DestinationCode": "30839",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "GUINHAWA",
+        "DestinationCode": "30465",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "GUINHAWA",
+        "DestinationCode": "30736",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "SICO I",
+        "DestinationCode": "31223",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "MANGGAS",
+        "DestinationCode": "31103",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "30491",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "DAO",
+        "DestinationCode": "30735",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "TOONG",
+        "DestinationCode": "30750",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "BIGAIN SOUTH",
+        "DestinationCode": "31012",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "PANGAO",
+        "DestinationCode": "31177",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "PUTAT",
+        "DestinationCode": "31072",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "RIZAL",
+        "DestinationCode": "30715",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "BURGOS (POB.)",
+        "DestinationCode": "30733",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "ADYA",
+        "DestinationCode": "30899",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "BOLBOK",
+        "DestinationCode": "30387",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "SANTOR",
+        "DestinationCode": "31321",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "POBLACION BARANGAY 4",
+        "DestinationCode": "31313",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "CATANDALA",
+        "DestinationCode": "31167",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "SAN JUAN",
+        "DestinationCode": "30981",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "SAN CARLOS",
+        "DestinationCode": "31154",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "PALAHANAN II",
+        "DestinationCode": "31213",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "PINAGKURUSAN",
+        "DestinationCode": "30350",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "TUMAWAY",
+        "DestinationCode": "31280",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "BARANGAY II (POB.)",
+        "DestinationCode": "31231",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "SAN JUAN",
+        "DestinationCode": "30355",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "30515",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "MABINI",
+        "DestinationCode": "31301",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "TINURIK",
+        "DestinationCode": "31325",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "SAMBUNGAN",
+        "DestinationCode": "30812",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "PINAGBAYANAN",
+        "DestinationCode": "31215",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "ADIA",
+        "DestinationCode": "420210",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "SAN MARCELINO",
+        "DestinationCode": "30478",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "SANTOL",
+        "DestinationCode": "31000",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 4 (POB.)",
+        "DestinationCode": "30550",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "BUNGAHAN",
+        "DestinationCode": "31165",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "CALAMIAS",
+        "DestinationCode": "31166",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "DAYAPAN",
+        "DestinationCode": "31169",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "LUYAHAN",
+        "DestinationCode": "31091",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SABANG",
+        "DestinationCode": "30950",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "SANTA ELENA",
+        "DestinationCode": "30523",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "RILLO (POB.)",
+        "DestinationCode": "30745",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "IPIL",
+        "DestinationCode": "30400",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "CATMON",
+        "DestinationCode": "31198",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "DAGATAN",
+        "DestinationCode": "30464",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "TIBIG",
+        "DestinationCode": "30969",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "TUBUAN",
+        "DestinationCode": "30336",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "BARIGON",
+        "DestinationCode": "30256",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "BANGIN",
+        "DestinationCode": "30254",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "BALANGON",
+        "DestinationCode": "30253",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "SAN ISIDRO IBABA",
+        "DestinationCode": "30329",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "MAHAYAHAY",
+        "DestinationCode": "30312",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "MATINGAIN I",
+        "DestinationCode": "30318",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "SAMPA",
+        "DestinationCode": "30439",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "TILAMBO",
+        "DestinationCode": "30480",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "MAHACOT SILANGAN",
+        "DestinationCode": "30586",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "MANGHINAO UNO",
+        "DestinationCode": "30711",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "DELA PAZ PULOT APLAYA",
+        "DestinationCode": "30567",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "30264",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "30354",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "TANGOB",
+        "DestinationCode": "30967",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "MALAGONLONG",
+        "DestinationCode": "30923",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "MOJON-TAMPOY",
+        "DestinationCode": "31022",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "DAO",
+        "DestinationCode": "30838",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "MALIBAYO",
+        "DestinationCode": "30588",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAN ANTONIO ISLA VERDE",
+        "DestinationCode": "420294",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAN ANDRES ISLA VERDE",
+        "DestinationCode": "420295",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAN AGUSTIN SILANGAN ISLA VERDE",
+        "DestinationCode": "420296",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAN AGUSTIN KANLURAN ISLA VERDE",
+        "DestinationCode": "420297",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAN AGAPITO ISLA VERDE",
+        "DestinationCode": "420298",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "LIPONPON ISLA VERDE",
+        "DestinationCode": "420299",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "MARUCLAP",
+        "DestinationCode": "30590",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "LUCBAN PUTOL",
+        "DestinationCode": "30848",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BANABA CENTER",
+        "DestinationCode": "30528",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 15 (POB.)",
+        "DestinationCode": "30538",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "HALIGUE KANLURAN",
+        "DestinationCode": "30573",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAMPAGA",
+        "DestinationCode": "30599",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "TABANGAO AMBULONG",
+        "DestinationCode": "30619",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "MAGUIHAN",
+        "DestinationCode": "30310",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "ESTRELLA",
+        "DestinationCode": "30661",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "MALIMATOC II",
+        "DestinationCode": "30669",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "30672",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "PULONG NIOGAN",
+        "DestinationCode": "30676",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "BALIBAGO",
+        "DestinationCode": "31118",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "LUMBANGAN",
+        "DestinationCode": "31132",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "SALAO",
+        "DestinationCode": "31153",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "ABIACAO",
+        "DestinationCode": "30358",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "LUYA",
+        "DestinationCode": "30370",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "30455",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN PABLO",
+        "DestinationCode": "31247",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN PEDRO",
+        "DestinationCode": "31248",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "BAGONG SILANG",
+        "DestinationCode": "30693",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "GULIBAY",
+        "DestinationCode": "30704",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "PITUGO",
+        "DestinationCode": "30714",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "MATAAS NA LUPA",
+        "DestinationCode": "30926",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "LUYA",
+        "DestinationCode": "30808",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "MATALA",
+        "DestinationCode": "31174",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "SAN JUAN",
+        "DestinationCode": "30858",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "LAUREL",
+        "DestinationCode": "30466",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "MANALUPONG",
+        "DestinationCode": "30709",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "MAUGAT",
+        "DestinationCode": "31067",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "SAN CELESTINO",
+        "DestinationCode": "30954",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "PULONG BALIBAGUHAN",
+        "DestinationCode": "30675",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "GULOD",
+        "DestinationCode": "30805",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "GULOD LABAK",
+        "DestinationCode": "30572",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "KAPITO",
+        "DestinationCode": "31089",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "CORAL NI BACAL",
+        "DestinationCode": "30767",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "LOOC",
+        "DestinationCode": "31063",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "31157",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "SAN IGNACIO",
+        "DestinationCode": "31155",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "MAJUBEN",
+        "DestinationCode": "30667",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "MALALIM",
+        "DestinationCode": "30587",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "CALUBCUB II",
+        "DestinationCode": "31197",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "MACALAMCAM B",
+        "DestinationCode": "31137",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "MASAGUITSIT",
+        "DestinationCode": "30645",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "MUZON",
+        "DestinationCode": "31210",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "MATAAS NA LUPA",
+        "DestinationCode": "30509",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "DALIG",
+        "DestinationCode": "30837",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "COLIAT",
+        "DestinationCode": "31168",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "LEPUTE",
+        "DestinationCode": "31020",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "DILA",
+        "DestinationCode": "30770",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MATAASNAKAHOY",
+        "CountyArea": "LUMANG LIPA",
+        "DestinationCode": "30996",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "NATIPUAN",
+        "DestinationCode": "31069",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "MUNTING TUBIG",
+        "DestinationCode": "30851",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "COLONGAN",
+        "DestinationCode": "31129",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "COLVO",
+        "DestinationCode": "30701",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "ESCRIBANO",
+        "DestinationCode": "31200",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "HALIGUE SILANGAN",
+        "DestinationCode": "30574",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "GUITNA",
+        "DestinationCode": "30259",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "RIZAL",
+        "DestinationCode": "30326",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "MABINI",
+        "DestinationCode": "30922",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "MAAPAS",
+        "DestinationCode": "30581",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "GUMAMELA",
+        "DestinationCode": "30843",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "CONDE ITAAS",
+        "DestinationCode": "30562",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "ILAT SOUTH",
+        "DestinationCode": "30505",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "LOMA",
+        "DestinationCode": "30771",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "CORAL NI LOPEZ (SUGOD)",
+        "DestinationCode": "30768",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "HUKAY",
+        "DestinationCode": "30806",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "DOMOCLAY",
+        "DestinationCode": "30569",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "CAYBUNGA",
+        "DestinationCode": "30835",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "COGUNAN",
+        "DestinationCode": "31058",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "BANGA",
+        "DestinationCode": "31262",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "KAYUMANGGI",
+        "DestinationCode": "30918",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "DURUNGAO",
+        "DestinationCode": "30703",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-PASCUAL",
+        "CountyArea": "DEL PILAR",
+        "DestinationCode": "30502",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "CALUMPANG WEST",
+        "DestinationCode": "30366",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "OLO-OLO",
+        "DestinationCode": "30648",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "POBLACION BARANGAY 1",
+        "DestinationCode": "31310",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "MAHABANG DAHILIG",
+        "DestinationCode": "30583",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "MAHACOT KANLURAN",
+        "DestinationCode": "30585",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "MAHANADIONG",
+        "DestinationCode": "30468",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "MANGHINAO PROPER",
+        "DestinationCode": "30710",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "CAYPONCE",
+        "DestinationCode": "30836",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TUY",
+        "CountyArea": "DALIMA",
+        "DestinationCode": "30734",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BOLBOK",
+        "DestinationCode": "30557",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "NATU",
+        "DestinationCode": "31148",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "LUMBANG NA BATA",
+        "DestinationCode": "30773",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "LIGAYA",
+        "DestinationCode": "30664",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "MABAYABAS",
+        "DestinationCode": "30467",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "LEVISTE (TUBAHAN)",
+        "DestinationCode": "31131",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "LUMANIAG",
+        "DestinationCode": "31090",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "MALAYA",
+        "DestinationCode": "31138",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "ENCARNACION",
+        "DestinationCode": "30804",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "CONDE LABAK",
+        "DestinationCode": "30563",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "SAGUING",
+        "DestinationCode": "30677",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "MABINI",
+        "DestinationCode": "30260",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "BANYAGA",
+        "DestinationCode": "30255",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "DISTRICT III (POB.)",
+        "DestinationCode": "30305",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "CUTANG CAWAYAN",
+        "DestinationCode": "30432",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "POBLACION III",
+        "DestinationCode": "30437",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "TIPAZ",
+        "DestinationCode": "31229",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "PINAGTUNG-ULAN",
+        "DestinationCode": "31025",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "PISA",
+        "DestinationCode": "30489",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIAN",
+        "CountyArea": "BARANGAY 4 (POB.)",
+        "DestinationCode": "31083",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "LAPOLAPO I",
+        "DestinationCode": "31018",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "LATAG",
+        "DestinationCode": "31062",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "SAN ANDRES PROPER",
+        "DestinationCode": "30718",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SANTA RITA APLAYA",
+        "DestinationCode": "30610",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-ROSARIO",
+        "CountyArea": "ANTIPOLO",
+        "DestinationCode": "31116",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "BAMBANG",
+        "DestinationCode": "30755",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "POBLACION BARANGAY 6",
+        "DestinationCode": "30942",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "POBLACION BARANGAY III",
+        "DestinationCode": "31028",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "PUTING BATO EAST",
+        "DestinationCode": "30781",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-MABINI",
+        "CountyArea": "SAN TEODORO",
+        "DestinationCode": "30682",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "BANAYBANAY",
+        "DestinationCode": "30906",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "IBAAN",
+        "CountyArea": "SABANG",
+        "DestinationCode": "31181",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "BUCAL",
+        "DestinationCode": "30801",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "CALITCALIT",
+        "DestinationCode": "31195",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "PANGHAYAAN",
+        "DestinationCode": "30472",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "PANTALAN",
+        "DestinationCode": "31070",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TINGLOY",
+        "CountyArea": "TALAHIB",
+        "DestinationCode": "30495",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALATAGAN",
+        "CountyArea": "SANTA ANA",
+        "DestinationCode": "30813",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JOSE",
+        "CountyArea": "BIGAIN II",
+        "DestinationCode": "31011",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "CALZADA",
+        "DestinationCode": "30832",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LOBO",
+        "CountyArea": "SAN NICOLAS",
+        "DestinationCode": "30652",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "BUGTONG NA PULO",
+        "DestinationCode": "30909",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BUKAL",
+        "DestinationCode": "30558",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "TUNGAL",
+        "DestinationCode": "30383",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "AGONCILLO",
+        "CountyArea": "SANTA CRUZ",
+        "DestinationCode": "30268",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "LUCKY",
+        "DestinationCode": "30309",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "MAYASANG",
+        "DestinationCode": "30320",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "TALAGA",
+        "DestinationCode": "30334",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTA-TERESITA",
+        "CountyArea": "SINIPIAN",
+        "DestinationCode": "30440",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POBLACION 8",
+        "DestinationCode": "30419",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "HALANG",
+        "DestinationCode": "30396",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "PANSOL",
+        "DestinationCode": "30406",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAAL",
+        "CountyArea": "POBLACION 1",
+        "DestinationCode": "30407",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "MALVAR",
+        "CountyArea": "SAN PEDRO II (WESTERN)",
+        "DestinationCode": "30983",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CALACA",
+        "CountyArea": "BISAYA",
+        "DestinationCode": "30762",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "TINGA LABAK",
+        "DestinationCode": "30627",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "ULANGO",
+        "DestinationCode": "31327",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "WAWA",
+        "DestinationCode": "31328",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "SUPLANG",
+        "DestinationCode": "31323",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TANAUAN-CITY",
+        "CountyArea": "ALTURA MATANDA",
+        "DestinationCode": "31282",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-LEMERY",
+        "CountyArea": "CAHILAN II",
+        "DestinationCode": "30301",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "PADRE-GARCIA",
+        "CountyArea": "CASTILLO",
+        "DestinationCode": "31101",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "AS-IS",
+        "DestinationCode": "30692",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 14 (POB.)",
+        "DestinationCode": "30537",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BARANGAY 6 (POB.)",
+        "DestinationCode": "31047",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LIPA-CITY",
+        "CountyArea": "PAGOLINGIN EAST",
+        "DestinationCode": "30929",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-JUAN",
+        "CountyArea": "PALAHANAN I",
+        "DestinationCode": "31212",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 21 (POB.)",
+        "DestinationCode": "30545",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "CALAN",
+        "DestinationCode": "30830",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "TAYSAN",
+        "CountyArea": "POBLACION WEST",
+        "DestinationCode": "30476",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "PINAMUCAN SILANGAN",
+        "DestinationCode": "30598",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "ALITAGTAG",
+        "CountyArea": "DALIPIT EAST",
+        "DestinationCode": "30342",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-LUIS",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "30376",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "MAABUD NORTH",
+        "DestinationCode": "30451",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SAN-NICOLAS",
+        "CountyArea": "CALANGAY",
+        "DestinationCode": "30449",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "NASUGBU",
+        "CountyArea": "BARANGAY 3 (POB.)",
+        "DestinationCode": "31044",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "BARANGAY 12 (POB.)",
+        "DestinationCode": "30535",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BALAYAN",
+        "CountyArea": "LANATAN",
+        "DestinationCode": "30845",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "BUNGAHAN",
+        "DestinationCode": "30874",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "LEYNES",
+        "DestinationCode": "31265",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-TALISAY",
+        "CountyArea": "POBLACION BARANGAY 4",
+        "DestinationCode": "31270",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-SANTO-TOMAS",
+        "CountyArea": "SAN FERNANDO",
+        "DestinationCode": "31238",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "MOLINETE",
+        "DestinationCode": "30286",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "LAUREL",
+        "CountyArea": "BUSO-BUSO",
+        "DestinationCode": "30282",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BAUAN",
+        "CountyArea": "SAMPAGUITA",
+        "DestinationCode": "30716",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "BATANGAS-CITY",
+        "CountyArea": "SAN AGAPITO",
+        "DestinationCode": "30600",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BATANGAS",
+        "City": "CUENCA",
+        "CountyArea": "CALUMAYIN",
+        "DestinationCode": "30875",
+        "SixWordCode": ""
+    }
+]

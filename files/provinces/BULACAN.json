@@ -1,0 +1,3978 @@
+[
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "BARITAN",
+        "DestinationCode": "36337",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "BARANGCA",
+        "DestinationCode": "35896",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "BARIHAN",
+        "DestinationCode": "36053",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "PARADA",
+        "DestinationCode": "36427",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "PARADISE III",
+        "DestinationCode": "36304",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "PARTIDA",
+        "DestinationCode": "36359",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "PENABATAN",
+        "DestinationCode": "36228",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN",
+        "CountyArea": "PEREZ",
+        "DestinationCode": "35946",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "PEREZ",
+        "DestinationCode": "36131",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "PIEL",
+        "DestinationCode": "35905",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "PASONG CALLOS",
+        "DestinationCode": "36399",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "PASONG INTSIK",
+        "DestinationCode": "36400",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "PATUBIG",
+        "DestinationCode": "36103",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "PANDAYAN",
+        "DestinationCode": "36129",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "PANDUCOT",
+        "DestinationCode": "35985",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "GUIGUINTO",
+        "CountyArea": "PANGINAY",
+        "DestinationCode": "36009",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "PANSUMALOC",
+        "DestinationCode": "36396",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "AGNAYA",
+        "DestinationCode": "36198",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "ALAGAO",
+        "DestinationCode": "36237",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "ABANGAN NORTE",
+        "DestinationCode": "36096",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "ABANGAN SUR",
+        "DestinationCode": "36097",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "ABULALAS",
+        "DestinationCode": "36019",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "CAPIHAN",
+        "DestinationCode": "36383",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "OBANDO",
+        "CountyArea": "CATANGHALAN",
+        "DestinationCode": "36152",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "CANIOGAN",
+        "DestinationCode": "35975",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "PALTAO",
+        "DestinationCode": "36227",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "PALAPAT",
+        "DestinationCode": "36024",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "BULUSUKAN",
+        "DestinationCode": "36244",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BUSTOS",
+        "CountyArea": "CATACTE",
+        "DestinationCode": "35960",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "CANALATE",
+        "DestinationCode": "36059",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "CANIOGAN",
+        "DestinationCode": "36060",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "PAGALA",
+        "DestinationCode": "35903",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "OBANDO",
+        "CountyArea": "PAG-ASA (POB.)",
+        "DestinationCode": "36156",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "PAITAN",
+        "DestinationCode": "35904",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "OBANDO",
+        "CountyArea": "PALIWAS",
+        "DestinationCode": "36157",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "PALTOK",
+        "DestinationCode": "35878",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "PAMARAWAN",
+        "DestinationCode": "36078",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "PAJO",
+        "DestinationCode": "36128",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "PACALAG",
+        "DestinationCode": "36357",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "PACO",
+        "DestinationCode": "36395",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "36361",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "SAN ROQUE",
+        "DestinationCode": "36408",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "PARULAN",
+        "DestinationCode": "36209",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "PANASAHAN",
+        "DestinationCode": "36079",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "OBANDO",
+        "CountyArea": "PANGHULO",
+        "DestinationCode": "36158",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "35907",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "35935",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BUSTOS",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "35964",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "GUIGUINTO",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "36010",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "36132",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "NORZAGARAY",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "36147",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "36178",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PAOMBONG",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "36189",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "36210",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "36229",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "36260",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "36402",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "36428",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "PINACPINACAN",
+        "DestinationCode": "36401",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "PINAGBAKAHAN",
+        "DestinationCode": "36080",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "PINAGBARILAN",
+        "DestinationCode": "35906",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "PINAGKUARTELAN",
+        "DestinationCode": "36177",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "NORZAGARAY",
+        "CountyArea": "PINAGTULAYAN",
+        "DestinationCode": "36146",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "PINAMBARAN",
+        "DestinationCode": "36360",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "PINAOD",
+        "DestinationCode": "36259",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN",
+        "CountyArea": "PITPITAN",
+        "DestinationCode": "35947",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SANTA MONICA",
+        "DestinationCode": "36040",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "SANTA PEREGRINA",
+        "DestinationCode": "36230",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "GUIGUINTO",
+        "CountyArea": "SANTA RITA",
+        "DestinationCode": "36014",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "SANTA RITA BATA",
+        "DestinationCode": "36373",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "SANTA RITA MATANDA",
+        "DestinationCode": "36374",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "SILING BATA",
+        "DestinationCode": "36182",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "SILING MATANDA",
+        "DestinationCode": "36183",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "SAN ROQUE",
+        "DestinationCode": "35910",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SAN ROQUE",
+        "DestinationCode": "36036",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "SAN ROQUE",
+        "DestinationCode": "36180",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PAOMBONG",
+        "CountyArea": "SAN ROQUE",
+        "DestinationCode": "36193",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SAN ROQUE",
+        "DestinationCode": "36319",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "SANTA ROSA I",
+        "DestinationCode": "36108",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "SAN ROQUE (POB.)",
+        "DestinationCode": "35880",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "SANTIAGO",
+        "DestinationCode": "36086",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "SANTO CRISTO",
+        "DestinationCode": "35912",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "SANTO CRISTO",
+        "DestinationCode": "36088",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SANTO CRISTO",
+        "DestinationCode": "36325",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "SANTO CRISTO (POB.)",
+        "DestinationCode": "35883",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "SIPAT",
+        "DestinationCode": "36215",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "DONA-REMEDIOS-TRINIDAD",
+        "CountyArea": "TALBAK",
+        "DestinationCode": "36004",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "SAN VICENTE",
+        "DestinationCode": "36370",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "SAN VICENTE (POB.)",
+        "DestinationCode": "36085",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "35913",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "35993",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "36181",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "36214",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "36326",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SANTO NINO (POB.)",
+        "DestinationCode": "36041",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "SANTO NINO (POB.)",
+        "DestinationCode": "36089",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SANTO NINO II",
+        "DestinationCode": "36327",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "ST. MARTIN DE PORRES",
+        "DestinationCode": "36329",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN",
+        "CountyArea": "TALIPTIP",
+        "DestinationCode": "35953",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN",
+        "CountyArea": "SANTA ANA",
+        "DestinationCode": "35951",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "SAN MIGUEL",
+        "DestinationCode": "35991",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "SANTA BARBARA",
+        "DestinationCode": "35911",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "SANTA CATALINA BATA",
+        "DestinationCode": "36263",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALAGTAS",
+        "CountyArea": "SANTOL",
+        "DestinationCode": "35893",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "SANTOL",
+        "DestinationCode": "36091",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "SUCOL",
+        "DestinationCode": "35996",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN",
+        "CountyArea": "SAN NICOLAS",
+        "DestinationCode": "35950",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SAN NICOLAS",
+        "DestinationCode": "36032",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "SAPANG",
+        "DestinationCode": "36375",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "DONA-REMEDIOS-TRINIDAD",
+        "CountyArea": "SAPANG BULAK",
+        "DestinationCode": "36003",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "SAPANG DAYAP",
+        "DestinationCode": "36265",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SAPANG PALAY",
+        "DestinationCode": "36328",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "SAPANG PUTIK",
+        "DestinationCode": "36266",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "SAPANG PUTOL",
+        "DestinationCode": "36267",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "SULIVAN",
+        "DestinationCode": "35915",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "SULUCAN",
+        "DestinationCode": "35884",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "SULUCAN",
+        "DestinationCode": "35936",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "SUMANDIG",
+        "DestinationCode": "36268",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "SUMAPANG MATANDA",
+        "DestinationCode": "36093",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SAN PABLO",
+        "DestinationCode": "36033",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "SAN PABLO",
+        "DestinationCode": "36084",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SAN PASCUAL",
+        "DestinationCode": "36034",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "GUIGUINTO",
+        "CountyArea": "SANTA CRUZ",
+        "DestinationCode": "36013",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SANTA CRUZ",
+        "DestinationCode": "36038",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PAOMBONG",
+        "CountyArea": "SANTA CRUZ",
+        "DestinationCode": "36195",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SANTA CRUZ",
+        "DestinationCode": "36320",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "SANTA CRUZ",
+        "DestinationCode": "36434",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "SANTA CRUZ (POB.)",
+        "DestinationCode": "35881",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SANTA CRUZ II",
+        "DestinationCode": "36321",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SANTA CRUZ IV",
+        "DestinationCode": "36323",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "TAAL",
+        "DestinationCode": "35937",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "TAAL",
+        "DestinationCode": "36094",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "TAAL",
+        "DestinationCode": "36232",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "GUIGUINTO",
+        "CountyArea": "TABANG",
+        "DestinationCode": "36015",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BUSTOS",
+        "CountyArea": "SAN PEDRO",
+        "DestinationCode": "35965",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SAN PEDRO",
+        "DestinationCode": "36035",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SAN PEDRO",
+        "DestinationCode": "36313",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SANTA ELENA",
+        "DestinationCode": "36039",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "SANTA INES",
+        "DestinationCode": "36213",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "SANTA INES",
+        "DestinationCode": "36371",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "SERGIO BAYAN",
+        "DestinationCode": "35995",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "GUIGUINTO",
+        "CountyArea": "TABE",
+        "DestinationCode": "36016",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "TABING BAKOD",
+        "DestinationCode": "36436",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "TABOC",
+        "DestinationCode": "35885",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SAN RAFAEL",
+        "DestinationCode": "36314",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "SANTA LUCIA",
+        "DestinationCode": "35882",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "SANTA LUCIA",
+        "DestinationCode": "35992",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "SANTA LUCIA",
+        "DestinationCode": "36372",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "SIBUL",
+        "DestinationCode": "36376",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SAN RAFAEL I",
+        "DestinationCode": "36315",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SAN RAFAEL III",
+        "DestinationCode": "36316",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SAN RAFAEL V",
+        "DestinationCode": "36318",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "BALAONG",
+        "DestinationCode": "36333",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "BALASING",
+        "DestinationCode": "36415",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "BALATONG A",
+        "DestinationCode": "36217",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "BANCAL",
+        "DestinationCode": "36114",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "BANGA",
+        "DestinationCode": "36115",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "BANGA II",
+        "DestinationCode": "36201",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "BANGKAL",
+        "DestinationCode": "36052",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "ASSUMPTION",
+        "DestinationCode": "36272",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "ATLAG",
+        "DestinationCode": "36046",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "BABATNIN",
+        "DestinationCode": "36047",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "BANTOG",
+        "DestinationCode": "36335",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "NORZAGARAY",
+        "CountyArea": "BARAKA",
+        "DestinationCode": "36139",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "BAGBAGUIN",
+        "DestinationCode": "36112",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "BAGBAGUIN",
+        "DestinationCode": "36162",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "BAGBAGUIN",
+        "DestinationCode": "36414",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "BALAYONG",
+        "DestinationCode": "36050",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "BAGONG BARRIO",
+        "DestinationCode": "36163",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "BAGONG BAYAN",
+        "DestinationCode": "36049",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "BAGONG BUHAY",
+        "DestinationCode": "36273",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "BAGONG BUHAY III",
+        "DestinationCode": "36275",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "BAGONG PAG-ASA",
+        "DestinationCode": "36331",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "BALITE",
+        "DestinationCode": "35969",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "BALITE",
+        "DestinationCode": "36051",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "ANILAO",
+        "DestinationCode": "36045",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "BAGONG SILANG",
+        "DestinationCode": "36199",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "BAGONG SILANG",
+        "DestinationCode": "36332",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "BAGUMBAYAN",
+        "DestinationCode": "35923",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN",
+        "CountyArea": "BAGUMBAYAN",
+        "DestinationCode": "35941",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "BALUNGAO",
+        "DestinationCode": "35970",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "ANTIPONA",
+        "DestinationCode": "35922",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "BAHAY PARE",
+        "DestinationCode": "36113",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "BAMBANG",
+        "DestinationCode": "35924",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "BAKA-BAKAHAN",
+        "DestinationCode": "36164",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "BANCA-BANCA",
+        "DestinationCode": "36380",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "CALASAG",
+        "DestinationCode": "36245",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "CALAWITAN",
+        "DestinationCode": "36246",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "CALERO",
+        "DestinationCode": "36057",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "CALILIGAWAN",
+        "DestinationCode": "36058",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "BUBULONG MALAKI",
+        "DestinationCode": "36241",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "BUBULONG MUNTI",
+        "DestinationCode": "36242",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "BIAK-NA-BATO",
+        "DestinationCode": "36340",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "CAMIAS",
+        "DestinationCode": "36347",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "BUENAVISTA",
+        "DestinationCode": "36416",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "BUGA",
+        "DestinationCode": "36342",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BUSTOS",
+        "CountyArea": "CAMACHILIHAN",
+        "DestinationCode": "35958",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "DONA-REMEDIOS-TRINIDAD",
+        "CountyArea": "CAMACHIN",
+        "DestinationCode": "35999",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "CAMALIG",
+        "DestinationCode": "36119",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "NORZAGARAY",
+        "CountyArea": "BIGTE",
+        "DestinationCode": "36140",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "BINAGBAG",
+        "DestinationCode": "35872",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BUSTOS",
+        "CountyArea": "CAMBAOG",
+        "DestinationCode": "35959",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "CAMBIO",
+        "DestinationCode": "36346",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PAOMBONG",
+        "CountyArea": "BINAKOD",
+        "DestinationCode": "36184",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "BINANG 1ST",
+        "DestinationCode": "35926",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "BUGUION",
+        "DestinationCode": "35971",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "BUHOL NA MANGGA",
+        "DestinationCode": "36243",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BUSTOS",
+        "CountyArea": "BUISAN",
+        "DestinationCode": "35957",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "CALUMPANG",
+        "DestinationCode": "35974",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "CALUMPANG",
+        "DestinationCode": "36345",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "CALVARIO",
+        "DestinationCode": "36118",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "BINTOG",
+        "DestinationCode": "36202",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "OBANDO",
+        "CountyArea": "BINUANGAN",
+        "DestinationCode": "36151",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "BULAC",
+        "DestinationCode": "36417",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "CAMANGYANAN",
+        "DestinationCode": "36418",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "BULIHAN",
+        "DestinationCode": "36054",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "BULIHAN",
+        "DestinationCode": "36203",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "CACARONG BATA",
+        "DestinationCode": "36168",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "BASUIT",
+        "DestinationCode": "36240",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "BATASAN BATA",
+        "DestinationCode": "36338",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "BATASAN MATANDA",
+        "DestinationCode": "36339",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "BULUALTO",
+        "DestinationCode": "36344",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "BULUSAN",
+        "DestinationCode": "35972",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "BATIA",
+        "DestinationCode": "35925",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "BUNDUKAN",
+        "DestinationCode": "35929",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "BUNGAHAN",
+        "DestinationCode": "36055",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "BUNLO",
+        "DestinationCode": "35930",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "BOLACAN",
+        "DestinationCode": "35928",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "BUNSURAN II",
+        "DestinationCode": "36166",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "BUNSURAN III",
+        "DestinationCode": "36167",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "DONA-REMEDIOS-TRINIDAD",
+        "CountyArea": "BAYABAS",
+        "DestinationCode": "35997",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "CAINGIN",
+        "DestinationCode": "35931",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "CAINGIN",
+        "DestinationCode": "36056",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "CAINGIN",
+        "DestinationCode": "36117",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "CAINGIN",
+        "DestinationCode": "36382",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "BAYBAY",
+        "DestinationCode": "35871",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BUSTOS",
+        "CountyArea": "BONGA MAYOR",
+        "DestinationCode": "35955",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BUSTOS",
+        "CountyArea": "BONGA MENOR",
+        "DestinationCode": "35956",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALAGTAS",
+        "CountyArea": "BOROL 2ND",
+        "DestinationCode": "35887",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "CALANTIPAY",
+        "DestinationCode": "35897",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "SALUYSOY",
+        "DestinationCode": "36134",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALAGTAS",
+        "CountyArea": "SAN JUAN",
+        "DestinationCode": "35892",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SAN JUAN",
+        "DestinationCode": "36030",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "SAN JUAN",
+        "DestinationCode": "36369",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "SAMPALOC",
+        "DestinationCode": "36406",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "PRENZA I",
+        "DestinationCode": "36106",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "PRENZA II",
+        "DestinationCode": "36107",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "GUIGUINTO",
+        "CountyArea": "PRITIL",
+        "DestinationCode": "36011",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN",
+        "CountyArea": "SAN FRANCISCO",
+        "DestinationCode": "35948",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SAN MANUEL",
+        "DestinationCode": "36308",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "SAN MARCOS",
+        "DestinationCode": "35990",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "PUGAD",
+        "DestinationCode": "36025",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SAN AGUSTIN",
+        "DestinationCode": "36027",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "SAN AGUSTIN",
+        "DestinationCode": "36407",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "SAN GABRIEL",
+        "DestinationCode": "36082",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "SAN GABRIEL",
+        "DestinationCode": "36430",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SAN MARTIN",
+        "DestinationCode": "36309",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SAN MARTIN III",
+        "DestinationCode": "36311",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SAN MARTIN IV",
+        "DestinationCode": "36312",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "NORZAGARAY",
+        "CountyArea": "SAN MATEO",
+        "DestinationCode": "36149",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "PULONG BAYABAS",
+        "DestinationCode": "36404",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "PULONG BUHANGIN",
+        "DestinationCode": "36429",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "PULONG DUHAT",
+        "DestinationCode": "36363",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALAGTAS",
+        "CountyArea": "PULONG GUBAT",
+        "DestinationCode": "35891",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "GUIGUINTO",
+        "CountyArea": "PULONG GUBAT",
+        "DestinationCode": "36012",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "DONA-REMEDIOS-TRINIDAD",
+        "CountyArea": "PULONG SAMPALOK",
+        "DestinationCode": "36002",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "PULONG TAMO",
+        "DestinationCode": "36261",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "NORZAGARAY",
+        "CountyArea": "SAN LORENZO",
+        "DestinationCode": "36148",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "PUNGO",
+        "DestinationCode": "35988",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "RUEDA",
+        "DestinationCode": "36211",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "36028",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "36307",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "POBLACION I",
+        "DestinationCode": "36104",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "POBLACION I",
+        "DestinationCode": "36306",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "SABANG",
+        "DestinationCode": "35908",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PAOMBONG",
+        "CountyArea": "SAN ISIDRO I",
+        "DestinationCode": "36190",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "POBLACION II",
+        "DestinationCode": "36105",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "SACDALAN",
+        "DestinationCode": "36364",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SAGRADA FAMILIA",
+        "DestinationCode": "36026",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "SAINT FRANCIS (GASAK)",
+        "DestinationCode": "36133",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "SALACOT",
+        "DestinationCode": "36365",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "SALANGAN",
+        "DestinationCode": "36366",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "35909",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "35989",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "36029",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "36368",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "GUIGUINTO",
+        "CountyArea": "TIAONG",
+        "DestinationCode": "36017",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "TIBAG",
+        "DestinationCode": "36234",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BUSTOS",
+        "CountyArea": "TIBAGAN",
+        "DestinationCode": "35968",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "TIBAGUIN",
+        "DestinationCode": "36044",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "ULINGAO",
+        "DestinationCode": "36413",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "UMPUCAN",
+        "DestinationCode": "36270",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "NORZAGARAY",
+        "CountyArea": "TIGBE",
+        "DestinationCode": "36150",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "TIKAY",
+        "DestinationCode": "36095",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "TILAPAYONG",
+        "DestinationCode": "35920",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN",
+        "CountyArea": "BAMBANG",
+        "DestinationCode": "35943",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "TINEJERO",
+        "DestinationCode": "36235",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "CALIZON",
+        "DestinationCode": "35973",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "TALACSAN",
+        "DestinationCode": "36410",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PAOMBONG",
+        "CountyArea": "SANTO ROSARIO",
+        "DestinationCode": "36197",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "TAMBUBONG",
+        "DestinationCode": "36411",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "SAPANG PAHALANG",
+        "DestinationCode": "36409",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "OBANDO",
+        "CountyArea": "SAN PASCUAL",
+        "DestinationCode": "36160",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "TAMPOK",
+        "DestinationCode": "36043",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "VIRGEN DELAS FLORES",
+        "DestinationCode": "35921",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "TABANG",
+        "DestinationCode": "36216",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BUSTOS",
+        "CountyArea": "TANAWAN",
+        "DestinationCode": "35967",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALAGTAS",
+        "CountyArea": "WAWA (POB.)",
+        "DestinationCode": "35894",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "TABING ILOG",
+        "DestinationCode": "36111",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "NORZAGARAY",
+        "CountyArea": "BANGKAL",
+        "DestinationCode": "36138",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "GUIGUINTO",
+        "CountyArea": "TUKTUKAN",
+        "DestinationCode": "36018",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "ZAMORA",
+        "DestinationCode": "36137",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "TARCAN",
+        "DestinationCode": "35917",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "TARTARO",
+        "DestinationCode": "36377",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "TUNGKONG MANGGA",
+        "DestinationCode": "36330",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "TURO",
+        "DestinationCode": "35939",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "LANGKA",
+        "DestinationCode": "36122",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "LIBIS",
+        "DestinationCode": "36389",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BUSTOS",
+        "CountyArea": "LICIADA",
+        "DestinationCode": "35961",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "LICO",
+        "DestinationCode": "36390",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "LIGAS",
+        "DestinationCode": "36065",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "LAWA",
+        "DestinationCode": "36123",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "OBANDO",
+        "CountyArea": "LAWA",
+        "DestinationCode": "36154",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "LAWANG PARI",
+        "DestinationCode": "36295",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "DONA-REMEDIOS-TRINIDAD",
+        "CountyArea": "KABAYUNAN",
+        "DestinationCode": "36000",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "MABOLO",
+        "DestinationCode": "36071",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "LIAS",
+        "DestinationCode": "36100",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "LIPUTAN",
+        "DestinationCode": "36125",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "MAASIM",
+        "DestinationCode": "36391",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "MABALAS-BALAS",
+        "DestinationCode": "36392",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "DONA-REMEDIOS-TRINIDAD",
+        "CountyArea": "KALAWAKAN",
+        "DestinationCode": "36001",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "LIYANG",
+        "DestinationCode": "36066",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "IBA-IBAYO",
+        "DestinationCode": "36022",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "IBAYO",
+        "DestinationCode": "36098",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALAGTAS",
+        "CountyArea": "LONGOS",
+        "DestinationCode": "35889",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "LONGOS",
+        "DestinationCode": "36067",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "LONGOS",
+        "DestinationCode": "36126",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "LONGOS",
+        "DestinationCode": "36225",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PAOMBONG",
+        "CountyArea": "KAPITANGAN",
+        "DestinationCode": "36185",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "LOOK 1ST",
+        "DestinationCode": "36068",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "LOOK 2ND",
+        "DestinationCode": "36069",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "IGULOT",
+        "DestinationCode": "35933",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "GUIGUINTO",
+        "CountyArea": "ILANG-ILANG",
+        "DestinationCode": "36007",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "LABNE",
+        "DestinationCode": "36350",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "ILOG-BULO",
+        "DestinationCode": "36348",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "KAYPIAN",
+        "DestinationCode": "36294",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "LAGUNDI",
+        "DestinationCode": "36206",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "LALANGAN",
+        "DestinationCode": "36207",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "LUGAM",
+        "DestinationCode": "36070",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "INAON",
+        "DestinationCode": "36224",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "LAMBAKIN",
+        "DestinationCode": "36099",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "LUMANG BAYAN",
+        "DestinationCode": "36208",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "LUMBAC",
+        "DestinationCode": "36226",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "KING KABAYO",
+        "DestinationCode": "36349",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "MANDILE",
+        "DestinationCode": "36355",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "MAGUINAO",
+        "DestinationCode": "36393",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "MAHABANG PARANG",
+        "DestinationCode": "36425",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "MANGGAHAN",
+        "DestinationCode": "36426",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "MAHARLIKA",
+        "DestinationCode": "36296",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "MERCADO",
+        "DestinationCode": "36023",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "MEYSULAO",
+        "DestinationCode": "35982",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "MEYTO",
+        "DestinationCode": "35983",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "MAKAPILAPIL",
+        "DestinationCode": "36252",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "MAKINABANG",
+        "DestinationCode": "35901",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "MAPULANG LUPA",
+        "DestinationCode": "36174",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "MINUYAN",
+        "DestinationCode": "36297",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "MINUYAN II",
+        "DestinationCode": "36298",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "MINUYAN III",
+        "DestinationCode": "36299",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "MINUYAN IV",
+        "DestinationCode": "36300",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "MINUYAN PROPER",
+        "DestinationCode": "36301",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "MINUYAN V",
+        "DestinationCode": "36302",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "NIUGAN",
+        "DestinationCode": "35877",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "NIUGAN",
+        "DestinationCode": "36077",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "MOJON",
+        "DestinationCode": "36075",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BUSTOS",
+        "CountyArea": "MALAWAK",
+        "DestinationCode": "35963",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "MALHACAN",
+        "DestinationCode": "36127",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "MALIBAY",
+        "DestinationCode": "36353",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "MALIBONG BATA",
+        "DestinationCode": "36171",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "MARONGUILLO",
+        "DestinationCode": "36394",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "MALIPAMPANG",
+        "DestinationCode": "36253",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "MASAGANA",
+        "DestinationCode": "36175",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "MASALIPIT",
+        "DestinationCode": "36356",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "MUZON",
+        "DestinationCode": "36303",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "NABAONG GARLANG",
+        "DestinationCode": "36256",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "GUIGUINTO",
+        "CountyArea": "MALIS",
+        "DestinationCode": "36008",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "MASILE",
+        "DestinationCode": "36073",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PAOMBONG",
+        "CountyArea": "MASUKOL",
+        "DestinationCode": "36187",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "MASUSO",
+        "DestinationCode": "36176",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "NAGBALON",
+        "DestinationCode": "36102",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PAOMBONG",
+        "CountyArea": "MALUMOT",
+        "DestinationCode": "36186",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "MAG-ASAWANG SAPA",
+        "DestinationCode": "36424",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "MAMBOG",
+        "DestinationCode": "36072",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "MATANGTUBIG",
+        "DestinationCode": "35902",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "MATIMBUBONG",
+        "DestinationCode": "36255",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "MAGMARALE",
+        "DestinationCode": "36352",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN",
+        "CountyArea": "MATUNGAO",
+        "DestinationCode": "35944",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "ENCANTO",
+        "DestinationCode": "35874",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "GUMAOC CENTRAL",
+        "DestinationCode": "36290",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "GUMAOC EAST",
+        "DestinationCode": "36291",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "GUYONG",
+        "DestinationCode": "36422",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "FATIMA",
+        "DestinationCode": "36279",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "CORAL NA BATO",
+        "DestinationCode": "36384",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "CORAZON",
+        "DestinationCode": "35976",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "FATIMA II",
+        "DestinationCode": "36280",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "FATIMA III",
+        "DestinationCode": "36281",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "FATIMA IV",
+        "DestinationCode": "36282",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "FATIMA V",
+        "DestinationCode": "36283",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "OBANDO",
+        "CountyArea": "HULO",
+        "DestinationCode": "36153",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "IBA",
+        "DestinationCode": "36021",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "IBA ESTE",
+        "DestinationCode": "35980",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "CRUZ NA DAAN",
+        "DestinationCode": "36385",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "FRANCISCO HOMES-GUIJO",
+        "DestinationCode": "36284",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "FRANCISCO HOMES-MULAWIN",
+        "DestinationCode": "36285",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "NORZAGARAY",
+        "CountyArea": "FRIENDSHIP VILLAGE RESOURCES (FVR)",
+        "DestinationCode": "36142",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "CULIANIN",
+        "DestinationCode": "36204",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "DULONG BAYAN",
+        "DestinationCode": "36278",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "DULONG MALABON",
+        "DestinationCode": "36223",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "GABIHAN",
+        "DestinationCode": "36248",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "HINUKAY",
+        "DestinationCode": "35900",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "CUTCOT",
+        "DestinationCode": "36219",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "GUIGUINTO",
+        "CountyArea": "CUTCUT",
+        "DestinationCode": "36005",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "GARLANG",
+        "DestinationCode": "36249",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "CATMON",
+        "DestinationCode": "36061",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "CATMON",
+        "DestinationCode": "36419",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "GAYA-GAYA",
+        "DestinationCode": "36288",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "CATULINAN",
+        "DestinationCode": "35898",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "DAKILA",
+        "DestinationCode": "36063",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALAGTAS",
+        "CountyArea": "DALIG",
+        "DestinationCode": "35888",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "DAMPOL I",
+        "DestinationCode": "36220",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "DAMPOL II-B",
+        "DestinationCode": "36222",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "DILIMAN I",
+        "DestinationCode": "36387",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "DILIMAN II",
+        "DestinationCode": "36388",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "CITRUS",
+        "DestinationCode": "36276",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "CIUDAD REAL",
+        "DestinationCode": "36277",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "COFRADIA",
+        "DestinationCode": "36062",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "DONACION",
+        "DestinationCode": "35873",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "BICLAT",
+        "DestinationCode": "36341",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALAGTAS",
+        "CountyArea": "PANGINAY",
+        "DestinationCode": "35890",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "SANTO CRISTO",
+        "DestinationCode": "36231",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "DAMPOL II-A",
+        "DestinationCode": "36221",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SAN RAFAEL IV",
+        "DestinationCode": "36317",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "PULONG YANTOK",
+        "DestinationCode": "35879",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "PANTOC",
+        "DestinationCode": "36130",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "BUNSURAN I",
+        "DestinationCode": "36165",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PAOMBONG",
+        "CountyArea": "SAN ISIDRO II",
+        "DestinationCode": "36191",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PAOMBONG",
+        "CountyArea": "PINALAGDAN",
+        "DestinationCode": "36188",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "KAYBANBAN",
+        "DestinationCode": "36293",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "BAGONG BUHAY II",
+        "DestinationCode": "36274",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "GRACEVILLE",
+        "DestinationCode": "36289",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SANTA CRUZ III",
+        "DestinationCode": "36322",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "OBANDO",
+        "CountyArea": "PACO",
+        "DestinationCode": "36155",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "BAGNA",
+        "DestinationCode": "36048",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "SAN JUAN",
+        "DestinationCode": "36083",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "SANTISIMA TRINIDAD",
+        "DestinationCode": "36087",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "BAYUGO",
+        "DestinationCode": "36116",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BUSTOS",
+        "CountyArea": "TALAMPAS",
+        "DestinationCode": "35966",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PAOMBONG",
+        "CountyArea": "SAN VICENTE",
+        "DestinationCode": "36194",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "SAN AGUSTIN",
+        "DestinationCode": "36367",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "SAOG",
+        "DestinationCode": "36110",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "NORZAGARAY",
+        "CountyArea": "BITUNGOL",
+        "DestinationCode": "36141",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "BMA-BALAGTAS",
+        "DestinationCode": "36381",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "BULIRAN",
+        "DestinationCode": "36343",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN",
+        "CountyArea": "SANTA INES",
+        "DestinationCode": "35952",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "ANYATAM",
+        "DestinationCode": "36238",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "SALAPUNGAN",
+        "DestinationCode": "36405",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "DAGAT-DAGATAN",
+        "DestinationCode": "36386",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "UBIHAN",
+        "DestinationCode": "36136",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "LAMBAKIN",
+        "DestinationCode": "36351",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "BANABAN",
+        "DestinationCode": "420247",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN",
+        "CountyArea": "MAYSANTOL",
+        "DestinationCode": "35945",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SAN SEBASTIAN",
+        "DestinationCode": "36037",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SANTO ROSARIO",
+        "DestinationCode": "36042",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "BANGA I",
+        "DestinationCode": "36200",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "DAMPOL",
+        "DestinationCode": "36205",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "MAASIM",
+        "DestinationCode": "36251",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "TELEPATIO",
+        "DestinationCode": "36269",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "MATAAS NA PARANG",
+        "DestinationCode": "36254",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "BARDIAS",
+        "DestinationCode": "36336",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "WAKAS",
+        "DestinationCode": "35940",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "NORZAGARAY",
+        "CountyArea": "MINUYAN",
+        "DestinationCode": "36144",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "PULONG BAYABAS",
+        "DestinationCode": "36362",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "TIGPALAS",
+        "DestinationCode": "36379",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "PANTUBIG",
+        "DestinationCode": "36397",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "PASONG BANGKAL",
+        "DestinationCode": "36398",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "CAY POMBO",
+        "DestinationCode": "36420",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "CAYSIO",
+        "DestinationCode": "36421",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "PIO CRUZCOSA",
+        "DestinationCode": "35986",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "TUKOD",
+        "DestinationCode": "36412",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "MARUNGKO",
+        "DestinationCode": "35876",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "SAN JOSE PATAG",
+        "DestinationCode": "36431",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "LAPNIT",
+        "DestinationCode": "36250",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "SAN JUAN",
+        "DestinationCode": "36262",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "NORZAGARAY",
+        "CountyArea": "MATICTIC",
+        "DestinationCode": "36143",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "MATIMBO",
+        "DestinationCode": "36074",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "MANATAL",
+        "DestinationCode": "36173",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "GUIGUINTO",
+        "CountyArea": "DAUNGAN",
+        "DestinationCode": "36006",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-RAFAEL",
+        "CountyArea": "PULO",
+        "DestinationCode": "36403",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "IBA",
+        "DestinationCode": "36121",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "DUHAT",
+        "DestinationCode": "35932",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "DONA-REMEDIOS-TRINIDAD",
+        "CountyArea": "CAMACHILE",
+        "DestinationCode": "35998",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "MALIBONG MATANDA",
+        "DestinationCode": "36172",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "LOMA DE GATO",
+        "DestinationCode": "36101",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "CUPANG",
+        "DestinationCode": "36170",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "LALAKHAN",
+        "DestinationCode": "36423",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "UPIG",
+        "DestinationCode": "36271",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN",
+        "CountyArea": "BALUBAD",
+        "DestinationCode": "35942",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "GUINHAWA",
+        "DestinationCode": "36064",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "LONGOS",
+        "DestinationCode": "35981",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "NAMAYAN",
+        "DestinationCode": "36076",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "FRANCES",
+        "DestinationCode": "35977",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "FRANCISCO HOMES-YAKAL",
+        "DestinationCode": "36287",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "SANTO ROSARIO (POB.)",
+        "DestinationCode": "36090",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "SAN VICENTE",
+        "DestinationCode": "36432",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "SANTA CLARA",
+        "DestinationCode": "36433",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "GATBUCA",
+        "DestinationCode": "35978",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALAGTAS",
+        "CountyArea": "BOROL 1ST",
+        "DestinationCode": "35886",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "TANGOS",
+        "DestinationCode": "35916",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "GUGO",
+        "DestinationCode": "35979",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "ANGAT",
+        "CountyArea": "LAOG",
+        "DestinationCode": "35875",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "LOLOMBOY",
+        "DestinationCode": "35934",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BUSTOS",
+        "CountyArea": "MALAMIG",
+        "DestinationCode": "35962",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "MALIGAYA",
+        "DestinationCode": "36354",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "GUMAOC WEST",
+        "DestinationCode": "36292",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "CONCEPCION",
+        "DestinationCode": "35899",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "HULO",
+        "DestinationCode": "36120",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "FRANCISCO HOMES-NARRA",
+        "DestinationCode": "36286",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "OBANDO",
+        "CountyArea": "SALAMBAO",
+        "DestinationCode": "36159",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PAOMBONG",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "36192",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "TIBAGAN",
+        "DestinationCode": "36378",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "35987",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "36305",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "BAGONG NAYON",
+        "DestinationCode": "35895",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "BALITE",
+        "DestinationCode": "36334",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "SAN AGUSTIN",
+        "DestinationCode": "36081",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SAN MARTIN II",
+        "DestinationCode": "36310",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "SILANGAN",
+        "DestinationCode": "36435",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MARILAO",
+        "CountyArea": "SANTA ROSA II",
+        "DestinationCode": "36109",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "NORZAGARAY",
+        "CountyArea": "PARTIDA",
+        "DestinationCode": "36145",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "PASONG BANGKAL",
+        "DestinationCode": "36258",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PAOMBONG",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "36196",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "REAL DE CACARONG",
+        "DestinationCode": "36179",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-PLARIDEL",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "36212",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "AKLE",
+        "DestinationCode": "36236",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "SUBIC",
+        "DestinationCode": "35914",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "SAN MIGUEL",
+        "DestinationCode": "36031",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "SANTA CATALINA MATANDA",
+        "DestinationCode": "36264",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "TIAONG",
+        "DestinationCode": "35918",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BALIUAG",
+        "CountyArea": "TIBAG",
+        "DestinationCode": "35919",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN",
+        "CountyArea": "TIBIG",
+        "DestinationCode": "35954",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "SAPANG BAYAN",
+        "DestinationCode": "35994",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MALOLOS-CITY",
+        "CountyArea": "SUMAPANG BATA",
+        "DestinationCode": "36092",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "BINANG 2ND",
+        "DestinationCode": "35927",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "SAN-JOSE-DEL-MONTE-CITY",
+        "CountyArea": "SANTA CRUZ V",
+        "DestinationCode": "36324",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PANDI",
+        "CountyArea": "CACARONG MATANDA",
+        "DestinationCode": "36169",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "TABON",
+        "DestinationCode": "36233",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-HAGONOY",
+        "CountyArea": "CARILLO",
+        "DestinationCode": "36020",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "CASALAT",
+        "DestinationCode": "36247",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BOCAUE",
+        "CountyArea": "TAMBOBONG",
+        "DestinationCode": "35938",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-MIGUEL",
+        "CountyArea": "PALIWASAN",
+        "DestinationCode": "36358",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "TUGATOG",
+        "DestinationCode": "36135",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "PULILAN",
+        "CountyArea": "BALATONG B",
+        "DestinationCode": "36218",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "PALAPALA",
+        "DestinationCode": "36257",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "CALUMPIT",
+        "CountyArea": "PALIMBANG",
+        "DestinationCode": "35984",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN",
+        "CountyArea": "SAN JOSE (POB.)",
+        "DestinationCode": "35949",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SANTA-MARIA",
+        "CountyArea": "TUMANA",
+        "DestinationCode": "36437",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "OBANDO",
+        "CountyArea": "TAWIRAN",
+        "DestinationCode": "36161",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "BULACAN-SAN-ILDEFONSO",
+        "CountyArea": "BAGONG BARRIO",
+        "DestinationCode": "36239",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "BULACAN",
+        "City": "MEYCAUAYAN-CITY",
+        "CountyArea": "LIBTONG",
+        "DestinationCode": "36124",
+        "SixWordCode": ""
+    }
+]

@@ -1,0 +1,1780 @@
+[
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BASAG",
+        "DestinationCode": "12426",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "REMEDIOS-T.-ROMUALDEZ",
+        "CountyArea": "BASILISA",
+        "DestinationCode": "12610",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "PIANING",
+        "DestinationCode": "12475",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "REMEDIOS-T.-ROMUALDEZ",
+        "CountyArea": "PANAYTAYON",
+        "DestinationCode": "12612",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "PANGABUGAN",
+        "DestinationCode": "12474",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-SANTIAGO",
+        "CountyArea": "PANGAYLAN-IP",
+        "DestinationCode": "12621",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "ALUBIJID",
+        "DestinationCode": "12388",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "AMBACON",
+        "DestinationCode": "12562",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "AMBAGO",
+        "DestinationCode": "12413",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "A. BELTRAN (CAMALIG)",
+        "DestinationCode": "12536",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "ACLAN",
+        "DestinationCode": "12590",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "AGAO POB. (BGY. 3)",
+        "DestinationCode": "12411",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-CARMEN",
+        "CountyArea": "CAHAYAGAN",
+        "DestinationCode": "12528",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "CAMAGONG",
+        "DestinationCode": "12600",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "CABINET",
+        "DestinationCode": "12501",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "CAMAYAHAN",
+        "DestinationCode": "12437",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BITAN-AGAN",
+        "DestinationCode": "12429",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "CASIKLAN",
+        "DestinationCode": "12565",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "KITCHARAO",
+        "CountyArea": "CANAWAY",
+        "DestinationCode": "12552",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "OBRERO POB. (BGY. 18)",
+        "DestinationCode": "12471",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "ONG YIU POB. (BGY. 16)",
+        "DestinationCode": "12472",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "KITCHARAO",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "12557",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "12577",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-MAGALLANES",
+        "CountyArea": "POBLACION",
+        "DestinationCode": "12586",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "POBLACION (JABONGA)",
+        "DestinationCode": "12546",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "POBLACION 1",
+        "DestinationCode": "12396",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "POBLACION 10",
+        "DestinationCode": "12397",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "POBLACION 11",
+        "DestinationCode": "12514",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "POBLACION 12",
+        "DestinationCode": "12515",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "POBLACION 2",
+        "DestinationCode": "12516",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "TUBAY",
+        "CountyArea": "POBLACION 2",
+        "DestinationCode": "12633",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "POBLACION 3",
+        "DestinationCode": "12399",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "POBLACION 3",
+        "DestinationCode": "12517",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "TUBAY",
+        "CountyArea": "POBLACION 1",
+        "DestinationCode": "12632",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "PIGDAULAN",
+        "DestinationCode": "12476",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "TAGABACA",
+        "DestinationCode": "12489",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "SAN ROQUE",
+        "DestinationCode": "12580",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "SIKATUNA POB. (BGY. 10)",
+        "DestinationCode": "12485",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "SILONGAN POB. (BGY. 5)",
+        "DestinationCode": "12486",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "SIMBALAN",
+        "DestinationCode": "12409",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-SANTIAGO",
+        "CountyArea": "TAGBUYACAN",
+        "DestinationCode": "12625",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-CARMEN",
+        "CountyArea": "TAGCATONG",
+        "DestinationCode": "12534",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "TUBAY",
+        "CountyArea": "TAGPANGAHOY",
+        "DestinationCode": "12636",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "TAGUIBO",
+        "DestinationCode": "12490",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "SAN VICENTE",
+        "DestinationCode": "12483",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "SAN VICENTE",
+        "DestinationCode": "12549",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "12484",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "12550",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-MAGALLANES",
+        "CountyArea": "SANTO NINO",
+        "DestinationCode": "12587",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "TALO-AO",
+        "DestinationCode": "12410",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "KITCHARAO",
+        "CountyArea": "SONGKOY",
+        "DestinationCode": "12561",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "SORIANO",
+        "DestinationCode": "12526",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "KITCHARAO",
+        "CountyArea": "SANGAY",
+        "DestinationCode": "12560",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "TALIGAMAN",
+        "DestinationCode": "12491",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "SANGHAN",
+        "DestinationCode": "12525",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "SANTA ANA",
+        "DestinationCode": "12606",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-MAGALLANES",
+        "CountyArea": "SANTO ROSARIO",
+        "DestinationCode": "12588",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "POBLACION 4",
+        "DestinationCode": "12400",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "SAN PABLO",
+        "DestinationCode": "12548",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "SUMILE",
+        "DestinationCode": "12487",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "SUMILIHON",
+        "DestinationCode": "12488",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BANCASI",
+        "DestinationCode": "12423",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "KITCHARAO",
+        "CountyArea": "BANGAYAN",
+        "DestinationCode": "12551",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "AUPAGAN",
+        "DestinationCode": "12418",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "BANGONAY",
+        "DestinationCode": "12538",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "BARANGAY 6 (POB.)",
+        "DestinationCode": "12598",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "BARANGAY 2 (POB.)",
+        "DestinationCode": "12594",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BAAN KM 3",
+        "DestinationCode": "12419",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BAAN RIVERSIDE POB. (BGY. 20)",
+        "DestinationCode": "12420",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BAOBAOAN",
+        "DestinationCode": "12425",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "BARANGAY 1 (POB.)",
+        "DestinationCode": "12593",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "BALEGUIAN",
+        "DestinationCode": "12537",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "AMPARO",
+        "DestinationCode": "12414",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "AMPAYON",
+        "DestinationCode": "12415",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "BARANGAY 4 (POB.)",
+        "DestinationCode": "12596",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "ANTICALA",
+        "DestinationCode": "12416",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "ANTONIO LUNA",
+        "DestinationCode": "12497",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "BARANGAY 5 (POB.)",
+        "DestinationCode": "12597",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "REMEDIOS-T.-ROMUALDEZ",
+        "CountyArea": "BALANGBALANG",
+        "DestinationCode": "12609",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "CAASINAN",
+        "DestinationCode": "12500",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "CALIBUNAN",
+        "DestinationCode": "12503",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-MAGALLANES",
+        "CountyArea": "CALOC-AN",
+        "DestinationCode": "12583",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "TUBAY",
+        "CountyArea": "CABAYAWA",
+        "DestinationCode": "12627",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "CABCABON",
+        "DestinationCode": "12436",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BILAY",
+        "DestinationCode": "12428",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BUGABUS",
+        "DestinationCode": "12433",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-MAGALLANES",
+        "CountyArea": "BUHANG",
+        "DestinationCode": "12582",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "TUBAY",
+        "CountyArea": "BINUANGAN",
+        "DestinationCode": "12626",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BIT-OS",
+        "DestinationCode": "12430",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BOBON",
+        "DestinationCode": "12431",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "BUNGA",
+        "DestinationCode": "12539",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "BAY-ANG",
+        "DestinationCode": "12499",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BAYANIHAN POB. (BGY. 27)",
+        "DestinationCode": "12427",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "BONIFACIO",
+        "DestinationCode": "12564",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "CALAMBA",
+        "DestinationCode": "12502",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "RIZAL",
+        "DestinationCode": "12406",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "SALVACION",
+        "DestinationCode": "12480",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-CARMEN",
+        "CountyArea": "SAN AGUSTIN",
+        "DestinationCode": "12533",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "PUNTA",
+        "DestinationCode": "12605",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "12579",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-SANTIAGO",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "12624",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "POBLACION 4",
+        "DestinationCode": "12518",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "POBLACION 5",
+        "DestinationCode": "12401",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "POBLACION 5",
+        "DestinationCode": "12519",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "POBLACION 6",
+        "DestinationCode": "12402",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "POBLACION 6",
+        "DestinationCode": "12520",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "POBLACION 7",
+        "DestinationCode": "12521",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "POBLACION 8",
+        "DestinationCode": "12404",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "POBLACION 9",
+        "DestinationCode": "12523",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "PUTING BATO",
+        "DestinationCode": "12524",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-SANTIAGO",
+        "CountyArea": "POBLACION I",
+        "DestinationCode": "12622",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "REMEDIOS-T.-ROMUALDEZ",
+        "CountyArea": "POBLACION II",
+        "DestinationCode": "12614",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "SACOL",
+        "DestinationCode": "12407",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "SAN JOSE",
+        "DestinationCode": "12547",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "BARANGAY 3 (POB.)",
+        "DestinationCode": "12595",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "URDUJA POB. (BGY. 9)",
+        "DestinationCode": "12495",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "TINIWISAN",
+        "DestinationCode": "12493",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "TINUCORAN",
+        "DestinationCode": "12581",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "BALUNGAGAN",
+        "DestinationCode": "12563",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "TOLOSA",
+        "DestinationCode": "12527",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "TALISAY",
+        "DestinationCode": "12607",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "TUBAY",
+        "CountyArea": "SANTA ANA",
+        "DestinationCode": "12634",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "TRIANGULO",
+        "DestinationCode": "12608",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-CARMEN",
+        "CountyArea": "VINAPOR",
+        "DestinationCode": "12535",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-MAGALLANES",
+        "CountyArea": "TAOD-OY",
+        "DestinationCode": "12589",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "ATA-ATAHON",
+        "DestinationCode": "12592",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "TUNGAO",
+        "DestinationCode": "12494",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BABAG",
+        "DestinationCode": "12421",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "LUMBOCAN",
+        "DestinationCode": "12459",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "JAGUIMITAN",
+        "DestinationCode": "12603",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "KITCHARAO",
+        "CountyArea": "JALIOBONG",
+        "DestinationCode": "12555",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "LAPU-LAPU POB. (BGY. 8)",
+        "DestinationCode": "12453",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "JOSE RIZAL POB. (BGY. 25)",
+        "DestinationCode": "12451",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "TUBAY",
+        "CountyArea": "LAWIGAN",
+        "DestinationCode": "12631",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "LEMON",
+        "DestinationCode": "12454",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "LEON KILAT POB. (BGY. 13)",
+        "DestinationCode": "12455",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "LIBAS",
+        "DestinationCode": "12542",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "LIBERTAD",
+        "DestinationCode": "12456",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-SANTIAGO",
+        "CountyArea": "LA PAZ",
+        "DestinationCode": "12620",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "LA UNION",
+        "DestinationCode": "12509",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "LOS ANGELES",
+        "DestinationCode": "12458",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "KATUGASAN",
+        "DestinationCode": "12507",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "KAUSWAGAN",
+        "DestinationCode": "12508",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "LOWER OLAVE",
+        "DestinationCode": "12390",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "IMADEJAS POB. (BGY. 24)",
+        "DestinationCode": "12450",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "KINABJANGAN",
+        "DestinationCode": "12604",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "KINAMLUTAN",
+        "DestinationCode": "12452",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "MAGUINDA",
+        "DestinationCode": "12460",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "MAHABA",
+        "DestinationCode": "12511",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "MAHAY",
+        "DestinationCode": "12461",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "KITCHARAO",
+        "CountyArea": "MAHAYAHAY",
+        "DestinationCode": "12556",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "MANILA DE BUGABUS",
+        "DestinationCode": "12465",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "MAHOGANY POB. (BGY. 21)",
+        "DestinationCode": "12462",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "MAIBU",
+        "DestinationCode": "12463",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "NONG-NONG",
+        "DestinationCode": "12470",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "MAON POB. (BGY. 1)",
+        "DestinationCode": "12466",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "MARAIGING",
+        "DestinationCode": "12545",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-MAGALLANES",
+        "CountyArea": "MARCOS",
+        "DestinationCode": "12585",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "MARCOS CALO",
+        "DestinationCode": "12574",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "MALICATO",
+        "DestinationCode": "12572",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "MACALANG",
+        "DestinationCode": "12391",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "MASAO",
+        "DestinationCode": "12467",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "MALPOC",
+        "DestinationCode": "12393",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "MATABAO",
+        "DestinationCode": "12395",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "MAGDAGOOC",
+        "DestinationCode": "12543",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "MAUG",
+        "DestinationCode": "12468",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "MANDAMO",
+        "DestinationCode": "12464",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "COLORADO",
+        "DestinationCode": "12540",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "COMAGASCAS",
+        "DestinationCode": "12504",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "CONCEPCION",
+        "DestinationCode": "12505",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-SANTIAGO",
+        "CountyArea": "ESTANISLAO MORGADO",
+        "DestinationCode": "12618",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "CONSORCIA",
+        "DestinationCode": "12566",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "DON FRANCISCO",
+        "DestinationCode": "12442",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "TUBAY",
+        "CountyArea": "DONA ROSARIO",
+        "DestinationCode": "12628",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "TUBAY",
+        "CountyArea": "DONA TELESFORA",
+        "DestinationCode": "12629",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "HUMABON POB. (BGY. 11)",
+        "DestinationCode": "12449",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "KITCHARAO",
+        "CountyArea": "CROSSING",
+        "DestinationCode": "12553",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "DULAG",
+        "DestinationCode": "12444",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "CUBI-CUBI",
+        "DestinationCode": "12601",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "DUMALAGAN",
+        "DestinationCode": "12445",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "HOLY REDEEMER POB. (BGY. 23)",
+        "DestinationCode": "12448",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "CULIT",
+        "DestinationCode": "12602",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-SANTIAGO",
+        "CountyArea": "CURVA",
+        "DestinationCode": "12617",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "DURIAN",
+        "DestinationCode": "12567",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "CUYAGO",
+        "DestinationCode": "12541",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "EDUARDO G. MONTILLA (CAMBOAYON)",
+        "DestinationCode": "12568",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "DAGOHOY POB. (BGY. 7)",
+        "DestinationCode": "12438",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "DEL PILAR",
+        "DestinationCode": "12506",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "DIEGO SILANG POB. (BGY. 6)",
+        "DestinationCode": "12441",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "DANKIAS",
+        "DestinationCode": "12439",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "GUINABSAN",
+        "DestinationCode": "12389",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "TUBAY",
+        "CountyArea": "TAGMAMARKAY",
+        "DestinationCode": "12635",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "TUBAY",
+        "CountyArea": "TINIGBASAN",
+        "DestinationCode": "12637",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "MABINI",
+        "DestinationCode": "12510",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "POBLACION 8",
+        "DestinationCode": "12522",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "MANAPA",
+        "DestinationCode": "12394",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "KATIPUNAN",
+        "DestinationCode": "12570",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "REMEDIOS-T.-ROMUALDEZ",
+        "CountyArea": "POBLACION I (AGAY)",
+        "DestinationCode": "12613",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "AMONTAY",
+        "DestinationCode": "12591",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "PINAMANCULAN",
+        "DestinationCode": "12477",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "RAJAH SOLIMAN POB. (BGY. 4)",
+        "DestinationCode": "12479",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "SAN MATEO",
+        "DestinationCode": "12482",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "TANDANG SORA POB. (BGY. 12)",
+        "DestinationCode": "12492",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "KITCHARAO",
+        "CountyArea": "HINIMBANGAN",
+        "DestinationCode": "12554",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "KITCHARAO",
+        "CountyArea": "SAN ROQUE",
+        "DestinationCode": "12559",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BADING POB. (BGY. 22)",
+        "DestinationCode": "12422",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "AGONG-ONG",
+        "DestinationCode": "420213",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "ABILAN",
+        "DestinationCode": "420214",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "TUBAY",
+        "CountyArea": "VICTORY",
+        "DestinationCode": "12638",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "MANINGALAO",
+        "DestinationCode": "12573",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "GOLDEN RIBBON POB. (BGY. 2)",
+        "DestinationCode": "12447",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-CARMEN",
+        "CountyArea": "GOSOON",
+        "DestinationCode": "12529",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "VILLA KANANGA",
+        "DestinationCode": "12496",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "NEW SOCIETY VILLAGE POB. (BGY. 26)",
+        "DestinationCode": "12469",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "LIMAHA POB. (BGY. 14)",
+        "DestinationCode": "12457",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "LINGAYAO",
+        "DestinationCode": "12571",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "MAT-I",
+        "DestinationCode": "12575",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "PORT POYOHON POB. (BGY. 17 - NEW ASIA)",
+        "DestinationCode": "12478",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "SAN IGNACIO POB. (BGY. 15)",
+        "DestinationCode": "12481",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "KITCHARAO",
+        "CountyArea": "SAN ISIDRO",
+        "DestinationCode": "12558",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "POBLACION 9",
+        "DestinationCode": "12405",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "TUBAY",
+        "CountyArea": "LA FRATERNIDAD",
+        "DestinationCode": "12630",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "DOONGAN",
+        "DestinationCode": "12443",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "REMEDIOS-T.-ROMUALDEZ",
+        "CountyArea": "SAN ANTONIO",
+        "DestinationCode": "12615",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-MAGALLANES",
+        "CountyArea": "GUIASAN",
+        "DestinationCode": "12584",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "NASIPIT",
+        "CountyArea": "BARANGAY 7 (POB.)",
+        "DestinationCode": "12599",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "MALAPONG",
+        "DestinationCode": "12392",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-CARMEN",
+        "CountyArea": "MANOLIGAO",
+        "DestinationCode": "12530",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "IBUAN",
+        "DestinationCode": "12569",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "FLORIDA",
+        "DestinationCode": "12446",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "REMEDIOS-T.-ROMUALDEZ",
+        "CountyArea": "HUMILOG",
+        "DestinationCode": "12611",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "AGUSAN PEQUEÑO",
+        "DestinationCode": "43028",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "JABONGA",
+        "CountyArea": "MAGSAYSAY",
+        "DestinationCode": "12544",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "AGUSAN PEQUENO",
+        "DestinationCode": "12412",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "DE ORO",
+        "DestinationCode": "12440",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "PINANA-AN",
+        "DestinationCode": "12576",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "POBLACION 7",
+        "DestinationCode": "12403",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "REMEDIOS-T.-ROMUALDEZ",
+        "CountyArea": "TAGBONGABONG",
+        "DestinationCode": "12616",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "ANTONGALON",
+        "DestinationCode": "12417",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-CARMEN",
+        "CountyArea": "ROJALES",
+        "DestinationCode": "12532",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "LAS-NIEVES",
+        "CountyArea": "ROSARIO",
+        "DestinationCode": "12578",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-SANTIAGO",
+        "CountyArea": "POBLACION II",
+        "DestinationCode": "12623",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "SANGAY",
+        "DestinationCode": "12408",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BUGSUKAN",
+        "DestinationCode": "12434",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BUHANGIN POB. (BGY. 19)",
+        "DestinationCode": "12435",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "BAYABAS",
+        "DestinationCode": "12498",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BONBON",
+        "DestinationCode": "12432",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "PAGATPATAN",
+        "DestinationCode": "12473",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "BUTUAN-CITY",
+        "CountyArea": "BANZA",
+        "DestinationCode": "12424",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-SANTIAGO",
+        "CountyArea": "JAGUPIT",
+        "DestinationCode": "12619",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-CARMEN",
+        "CountyArea": "POBLACION (CARMEN)",
+        "DestinationCode": "12531",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "POBLACION 1",
+        "DestinationCode": "12512",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "CABADBARAN-CITY",
+        "CountyArea": "POBLACION 10",
+        "DestinationCode": "12513",
+        "SixWordCode": ""
+    },
+    {
+        "Province": "AGUSAN-DEL-NORTE",
+        "City": "AGUSAN-DEL-NORTE-BUENAVISTA",
+        "CountyArea": "POBLACION 2",
+        "DestinationCode": "12398",
+        "SixWordCode": ""
+    }
+]
