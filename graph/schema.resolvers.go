@@ -12,6 +12,10 @@ import (
 	"github.com/jaslife1/shippingcost-server/utils"
 )
 
+func (r *queryResolver) Towns(ctx context.Context) ([]*string, error) {
+	panic(fmt.Errorf("not implemented"))
+}
+
 func (r *queryResolver) CalculateShippingCost(ctx context.Context, senderAddress model.Address, receiverAddress model.Address) (int, error) {
 	fmt.Println("Sender address: ", senderAddress.Town)
 	fmt.Println("Receiver address: ", receiverAddress.Town)

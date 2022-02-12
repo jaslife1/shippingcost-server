@@ -19,7 +19,7 @@ input Address {
 }
 
 type Query {
-  # todos: [Todo!]!
+  towns: [String]!
   calculateShippingCost(senderAddress: Address!, receiverAddress: Address!) : Int!
 }
 
