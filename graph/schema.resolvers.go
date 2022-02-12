@@ -13,7 +13,7 @@ import (
 )
 
 func (r *queryResolver) Towns(ctx context.Context) ([]*string, error) {
-	panic(fmt.Errorf("not implemented"))
+	return utils.GetAllTowns(), nil
 }
 
 func (r *queryResolver) CalculateShippingCost(ctx context.Context, senderAddress model.Address, receiverAddress model.Address) (int, error) {

@@ -74,3 +74,22 @@ func CalculateJnTShippingCost(sender string, receiver string, weight float64) fl
 
 	return ret
 }
+
+
+func GetAllTowns() []*string {
+	towns := make([]*string, 0) //initially with 0 length
+	temp1 := new(string)
+	*temp1 = "ABUYOG";
+
+	temp2 := new(string)
+	*temp2 = "BAYBAY-CITY";
+
+	temp3 := new(string)
+	*temp3 = "CEBU-CITY";
+
+	towns = append(towns, temp1)
+	towns = append(towns, temp2)
+	towns = append(towns, temp3)
+
+	return towns
+}
