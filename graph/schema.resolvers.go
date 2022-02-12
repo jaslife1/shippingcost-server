@@ -13,7 +13,10 @@ import (
 )
 
 func (r *queryResolver) Towns(ctx context.Context) ([]*string, error) {
-	return utils.GetAllTowns(), nil
+	
+	var ret = utils.GetAllTowns()
+	fmt.Printf("Getting all towns: %+v\n", ret)
+	return ret, nil
 }
 
 func (r *queryResolver) CalculateShippingCost(ctx context.Context, senderAddress model.Address, receiverAddress model.Address) (int, error) {
