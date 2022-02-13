@@ -16,8 +16,8 @@ func (r *queryResolver) AllProvinces(ctx context.Context) ([]*string, error) {
 	return utils.GetAllProvinces()
 }
 
-func (r *queryResolver) AllCitiesOfProvince(ctx context.Context, province *string) ([]*string, error) {
-	panic(fmt.Errorf("not implemented"))
+func (r *queryResolver) AllCitiesOfProvince(ctx context.Context, province string) ([]*string, error) {
+	return utils.GetAllCities(province)
 }
 
 func (r *queryResolver) CalculateShippingCost(ctx context.Context, senderAddress model.Address, receiverAddress model.Address) (int, error) {

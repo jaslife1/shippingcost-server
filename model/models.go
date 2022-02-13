@@ -19,3 +19,11 @@ type Data struct {
 	ServiceFees   string `json: serviceFees`
 	TotalFee      string `json: totalFee`
 }
+
+type AreaAddress struct {
+	Province 		string `json:Province`
+	City 			string `json:City`
+	CountyArea 		string `json:CountyArea`
+	DestinationCode string `json:DestinationCode`
+	SixWordCode 	string `json:SixWordCode`
+}

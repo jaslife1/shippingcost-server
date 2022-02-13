@@ -43,7 +43,7 @@ type DirectiveRoot struct {
 
 type ComplexityRoot struct {
 	Query struct {
-		AllCitiesOfProvince   func(childComplexity int, province *string) int
+		AllCitiesOfProvince   func(childComplexity int, province string) int
 		AllProvinces          func(childComplexity int) int
 		CalculateShippingCost func(childComplexity int, senderAddress model.Address, receiverAddress model.Address) int
 	}
@@ -51,7 +51,7 @@ type ComplexityRoot struct {
 
 type QueryResolver interface {
 	AllProvinces(ctx context.Context) ([]*string, error)
-	AllCitiesOfProvince(ctx context.Context, province *string) ([]*string, error)
+	AllCitiesOfProvince(ctx context.Context, province string) ([]*string, error)
 	CalculateShippingCost(ctx context.Context, senderAddress model.Address, receiverAddress model.Address) (int, error)
 }
 
@@ -80,7 +80,7 @@ func (e *executableSchema) Complexity(typeName, field string, childComplexity in
 			return 0, false
 		}
 
-		return e.complexity.Query.AllCitiesOfProvince(childComplexity, args["province"].(*string)), true
+		return e.complexity.Query.AllCitiesOfProvince(childComplexity, args["province"].(string)), true
 
 	case "Query.allProvinces":
 		if e.complexity.Query.AllProvinces == nil {
@@ -176,7 +176,7 @@ input Address {
 
 type Query {
   allProvinces: [String]!
-  allCitiesOfProvince(province:String):[String]!
+  allCitiesOfProvince(province:String!):[String]!
   calculateShippingCost(senderAddress: Address!, receiverAddress: Address!) : Int!
 }
 
@@ -216,10 +216,10 @@ func (ec *executionContext) field_Query___type_args(ctx context.Context, rawArgs
 func (ec *executionContext) field_Query_allCitiesOfProvince_args(ctx context.Context, rawArgs map[string]interface{}) (map[string]interface{}, error) {
 	var err error
 	args := map[string]interface{}{}
-	var arg0 *string
+	var arg0 string
 	if tmp, ok := rawArgs["province"]; ok {
 		ctx := graphql.WithPathContext(ctx, graphql.NewPathWithField("province"))
-		arg0, err = ec.unmarshalOString2ᚖstring(ctx, tmp)
+		arg0, err = ec.unmarshalNString2string(ctx, tmp)
 		if err != nil {
 			return nil, err
 		}
@@ -350,7 +350,7 @@ func (ec *executionContext) _Query_allCitiesOfProvince(ctx context.Context, fiel
 	fc.Args = args
 	resTmp, err := ec.ResolverMiddleware(ctx, func(rctx context.Context) (interface{}, error) {
 		ctx = rctx // use context from middleware stack in children
-		return ec.resolvers.Query().AllCitiesOfProvince(rctx, args["province"].(*string))
+		return ec.resolvers.Query().AllCitiesOfProvince(rctx, args["province"].(string))
 	})
 	if err != nil {
 		ec.Error(ctx, err)

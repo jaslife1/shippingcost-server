@@ -84,19 +84,19 @@ func GetAllProvinces() ([]*string, error) {
 
 	// Read the JSON file
 	var filename = "files/provinces/ALL.json"
-	var retVal []*string;
+	var ret []*string;
 
 	file, err := os.Open(filename)
 	if err != nil {
-		fmt.Println("GetALlProvinces: Failed to open file. Error: ", err)
-		return retVal, err
+		fmt.Println("GetAllProvinces: Failed to open file. Error: ", err)
+		return ret, err
 	}
 	defer file.Close()
 
 	byteValue, err := ioutil.ReadAll(file)
 	if err != nil {
-		fmt.Println("GetALlProvinces: Reading file. Error: ", err)
-		return retVal, err
+		fmt.Println("GetAllProvinces: Reading file. Error: ", err)
+		return ret, err
 	}
 
 	var data []string
@@ -104,13 +104,60 @@ func GetAllProvinces() ([]*string, error) {
 	sort.Strings(data)
 
 	for i:=0; i < len(data); i++ {
-		retVal = append(retVal, &data[i])
+		ret = append(ret, &data[i])
 	}
 
-	fmt.Println(retVal)
+	//fmt.Println(ret)
 
-	return retVal, nil
+	return ret, nil
 
+}
+
+
+func GetAllCities(province string) ([]*string, error) {
+	//fmt.Println("Get Cities for "+province)
+	//TODO: Query from the database
+	
+	// Read the JSON file
+	var filename = "files/provinces/" + province + ".json"
+	var ret []*string;
+
+	file, err := os.Open(filename)
+	if err != nil {
+		fmt.Println("GetAllCities: Failed to open file. Error: ", err)
+		return ret, err
+	}
+	defer file.Close()
+
+	byteValue, err := ioutil.ReadAll(file)
+	if err != nil {
+		fmt.Println("GetAllCities: Reading file. Error: ", err)
+		return ret, err
+	}
+
+	var data []model.AreaAddress
+	json.Unmarshal([]byte(byteValue),&data)
+
+	cityMap := make(map[string]string, 0)
+	for _, val := range data {
+		//Check if key already exists, if not, add the key and value
+		_, ok := cityMap[val.City]
+		if !ok {
+			cityMap[val.City] = val.City
+		}
+	}
+
+	var temp []string
+	for _, val := range cityMap {
+		temp = append(temp, val)
+	}
+	sort.Strings(temp)
+
+	for i:=0; i < len(temp); i++ {
+		ret = append(ret, &temp[i])
+	}
+
+	return ret, nil
 }
 
 
